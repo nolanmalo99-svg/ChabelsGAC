@@ -62,6 +62,17 @@
     </div>
   </section>
 
+  <section class="section" id="waiver-section" style="padding-top:0.5rem;padding-bottom:1.25rem;display:none;">
+    <h2 class="section-title" style="font-size:1.05rem;">📋 Waiver Order</h2>
+    <div class="gold-line"></div>
+    <div class="table-scroll" style="overflow-x:auto;max-width:420px;margin:0 auto;">
+      <table class="data-table standings-compact" style="font-size:0.78rem;">
+        <thead><tr><th>#</th><th>Owner</th><th>Team Name</th></tr></thead>
+        <tbody id="waiver-body"></tbody>
+      </table>
+    </div>
+  </section>
+
   <div style="background:#16181d;border-top:1px solid #2f333b;border-bottom:1px solid #2f333b;">
     <section class="section" style="padding-top:1.5rem;padding-bottom:1.5rem;">
       <h2 class="section-title">🏆 Champions</h2>
@@ -155,6 +166,17 @@
             '<td style="font-weight:700;">' + t.record.split('-')[0] + '</td>' +
             '<td>' + (t.record.split('-')[1] || 0) + '</td>' +
             '<td style="font-weight:700;">' + t.pf + '</td></tr>';
+        }).join('');
+      }
+
+      // Waiver order
+      var waivers = d.waiver_order || [];
+      if (waivers.length) {
+        document.getElementById('waiver-section').style.display = 'block';
+        document.getElementById('waiver-body').innerHTML = waivers.map(function (w, i) {
+          return '<tr><td><span class="rank-num">' + (i + 1) + '</span></td>' +
+            '<td style="font-weight:700;color:#f5f7fa;">' + w.owner + '</td>' +
+            '<td style="color:#a7aebb;">' + w.team + '</td></tr>';
         }).join('');
       }
 
