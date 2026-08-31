@@ -13,6 +13,9 @@
     .mx-team.away{text-align:right}
     .mx-owner{font-weight:800;font-size:1.05rem;color:#f5f7fa}
     .mx-sub{font-size:.72rem;color:#a7aebb}
+    .mx-link{text-decoration:none;transition:all 0.18s ease}
+    .mx-link:hover .mx-owner{color:#D4AF37}
+    .mx-link:hover .mx-sub{color:#D4AF37}
     .mx-pts{font-weight:900;font-size:1.5rem;color:#f5f7fa}
     .mx-pts.win{color:#D4AF37}
     .mx-vs{font-weight:800;font-size:.7rem;color:#6b7280;letter-spacing:.1em;padding:0 .4rem}
@@ -193,13 +196,16 @@
             '</div>';
         }
 
+        var awayHref = 'teams.html?owner=' + encodeURIComponent(m.away.guid || '');
+        var homeHref = 'teams.html?owner=' + encodeURIComponent(m.home.guid || '');
+
         return '<article class="mx-card"><div class="mx-score">' +
-          '<div class="mx-team away"><span class="mx-owner">' + m.away.owner + '</span>' +
-          '<span class="mx-sub">' + m.away.team + ' \u2022 ' + m.away.record + '</span></div>' +
+          '<div class="mx-team away"><a href="' + awayHref + '" class="mx-link"><span class="mx-owner">' + m.away.owner + '</span></a>' +
+          '<a href="' + awayHref + '" class="mx-link"><span class="mx-sub">' + m.away.team + '</span></a> \u2022 <span class="mx-sub">' + m.away.record + '</span></div>' +
           '<div style="text-align:center"><div class="mx-pts' + (aWin ? ' win' : '') + '">' + aPts.toFixed(1) + '</div>' +
           '<div class="mx-vs">' + mid + '</div><div class="mx-pts' + (hWin ? ' win' : '') + '">' + hPts.toFixed(1) + '</div></div>' +
-          '<div class="mx-team"><span class="mx-owner">' + m.home.owner + '</span>' +
-          '<span class="mx-sub">' + m.home.team + ' \u2022 ' + m.home.record + '</span></div></div>' +
+          '<div class="mx-team"><a href="' + homeHref + '" class="mx-link"><span class="mx-owner">' + m.home.owner + '</span></a>' +
+          '<a href="' + homeHref + '" class="mx-link"><span class="mx-sub">' + m.home.team + '</span></a> \u2022 <span class="mx-sub">' + m.home.record + '</span></div></div>' +
           '<div class="mx-body"><span class="mx-badge">' + badge + (m.playoff ? ' \u2022 Playoffs' : '') + '</span>' +
           '<p style="margin-top:0.7rem;">' + m.blurb + '</p></div>' + extra + '</article>';
       }).join('');
