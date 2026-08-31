@@ -246,6 +246,7 @@ def build_all_weeks(season):
                       + (f'-{rec["ties"]}' if rec.get("ties") else ""),
             "pf": round(rec.get("pointsFor", 0.0), 1),
             "pa": round(rec.get("pointsAgainst", 0.0), 1),
+            "waiver_rank": t.get("waiverRank"),
             "roster": _full_roster(t, status.get("currentMatchupPeriod", 1)),
         }
 
