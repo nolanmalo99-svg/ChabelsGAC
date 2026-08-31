@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-08-31T20:46:22+00:00",
+  "generated_at": "2026-08-31T21:11:40+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -11,7 +11,8 @@ window.SITE_DATA = {
       "owner": "Nolan Malo",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 10
     },
     {
       "name": "Tyreek's Condom",
@@ -19,7 +20,8 @@ window.SITE_DATA = {
       "owner": "Brady Kienitz",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 9
     },
     {
       "name": "I Wanna Go Fast",
@@ -27,7 +29,8 @@ window.SITE_DATA = {
       "owner": "Adam Schumacher",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 5
     },
     {
       "name": "Schommer",
@@ -35,7 +38,8 @@ window.SITE_DATA = {
       "owner": "Jordan Schommer",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 8
     },
     {
       "name": "Queen Henry",
@@ -43,7 +47,8 @@ window.SITE_DATA = {
       "owner": "Adam Biewen",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 6
     },
     {
       "name": "Team Douglas",
@@ -51,7 +56,8 @@ window.SITE_DATA = {
       "owner": "Isaac Douglas",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 2
     },
     {
       "name": "The Hamptons",
@@ -59,7 +65,8 @@ window.SITE_DATA = {
       "owner": "logan rezac",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 7
     },
     {
       "name": "Osama Bin Madden",
@@ -67,7 +74,8 @@ window.SITE_DATA = {
       "owner": "Austin Carter",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 1
     },
     {
       "name": "Rebound, Execute, Defend",
@@ -75,7 +83,8 @@ window.SITE_DATA = {
       "owner": "Peter Lundquist",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 3
     },
     {
       "name": "Team Wieker",
@@ -83,7 +92,60 @@ window.SITE_DATA = {
       "owner": "Evan Wieker",
       "record": "0-0",
       "pf": 0.0,
-      "pa": 0.0
+      "pa": 0.0,
+      "waiver_rank": 4
+    }
+  ],
+  "waiver_order": [
+    {
+      "owner": "Austin Carter",
+      "team": "Osama Bin Madden",
+      "waiver_rank": 1
+    },
+    {
+      "owner": "Isaac Douglas",
+      "team": "Team Douglas",
+      "waiver_rank": 2
+    },
+    {
+      "owner": "Peter Lundquist",
+      "team": "Rebound, Execute, Defend",
+      "waiver_rank": 3
+    },
+    {
+      "owner": "Evan Wieker",
+      "team": "Team Wieker",
+      "waiver_rank": 4
+    },
+    {
+      "owner": "Adam Schumacher",
+      "team": "I Wanna Go Fast",
+      "waiver_rank": 5
+    },
+    {
+      "owner": "Adam Biewen",
+      "team": "Queen Henry",
+      "waiver_rank": 6
+    },
+    {
+      "owner": "logan rezac",
+      "team": "The Hamptons",
+      "waiver_rank": 7
+    },
+    {
+      "owner": "Jordan Schommer",
+      "team": "Schommer",
+      "waiver_rank": 8
+    },
+    {
+      "owner": "Brady Kienitz",
+      "team": "Tyreek's Condom",
+      "waiver_rank": 9
+    },
+    {
+      "owner": "Nolan Malo",
+      "team": "The K9 Unit",
+      "waiver_rank": 10
     }
   ],
   "reigning_champion": {
