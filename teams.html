@@ -107,6 +107,32 @@
         </div>
       </div>
 
+      <div id="tp-draft-section" style="display:none;background:#1e2128;border:1px solid #2f333b;border-top:3px solid #3c414c;border-radius:4px;padding:1.1rem;margin-top:1rem;box-shadow:0 1px 4px rgba(0,0,0,0.07);">
+        <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem;margin-bottom:0.9rem;">
+          <div style="font-size:0.7rem;font-weight:800;color:#f5f7fa;text-transform:uppercase;letter-spacing:1px;">🎓 Draft Recap</div>
+          <div id="tp-draft-grade" style="font-size:1.8rem;font-weight:900;line-height:1;"></div>
+        </div>
+        <p id="tp-draft-summary" style="color:#a7aebb;font-size:0.8rem;margin-bottom:0.9rem;"></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;margin-bottom:0.9rem;">
+          <div style="background:#181a1f;border:1px solid #2f333b;border-radius:4px;padding:0.8rem;">
+            <div style="font-size:0.6rem;color:#D4AF37;text-transform:uppercase;letter-spacing:1px;font-weight:800;margin-bottom:0.4rem;">✅ Best Value</div>
+            <div id="tp-draft-best" style="font-size:0.82rem;color:#e8e8e8;"></div>
+          </div>
+          <div style="background:#181a1f;border:1px solid #2f333b;border-radius:4px;padding:0.8rem;">
+            <div style="font-size:0.6rem;color:#ff6b70;text-transform:uppercase;letter-spacing:1px;font-weight:800;margin-bottom:0.4rem;">❌ Roughest Pick</div>
+            <div id="tp-draft-worst" style="font-size:0.82rem;color:#e8e8e8;"></div>
+          </div>
+        </div>
+        <div style="overflow-x:auto;">
+          <table class="roster-table">
+            <thead><tr><th>Rd.Pk</th><th>Player</th><th>Pts</th><th>Value</th></tr></thead>
+            <tbody id="tp-draft-picks"></tbody>
+          </table>
+        </div>
+        <p style="color:#6b7280;font-size:0.68rem;margin-top:0.7rem;">Grades compare draft slot to season-to-date production
+          across the whole league &mdash; an early read that sharpens as the season goes on. Not an official ESPN metric.</p>
+      </div>
+
       <div style="background:#1e2128;border:1px solid #2f333b;border-top:3px solid #3c414c;border-radius:4px;padding:1.1rem;margin-top:1rem;box-shadow:0 1px 4px rgba(0,0,0,0.07);">
         <div style="font-size:0.7rem;font-weight:800;color:#f5f7fa;text-transform:uppercase;letter-spacing:1px;margin-bottom:0.75rem;">📋 Current Roster</div>
         <div style="overflow-x:auto;">
@@ -194,6 +220,41 @@
       if (t.playoff_wins) banners.push('<span class="pl-banner" style="background:#2a2f37;">⚔️ PLAYOFF WINS: ' + t.playoff_wins + '</span>');
       if (t.winning_seasons) banners.push('<span class="pl-banner" style="background:#2a2f37;">📈 WINNING SEASONS: ' + t.winning_seasons + '</span>');
       document.getElementById('tp-banners').innerHTML = banners.join('');
+
+      var draftSection = document.getElementById('tp-draft-section');
+      var draft = t.draft;
+      if (draft) {
+        draftSection.style.display = 'block';
+        var gradeColors = { 'A+': '#D4AF37', 'A': '#D4AF37', 'B': '#63d98a', 'C': '#a7aebb', 'D': '#ff9f5a', 'F': '#ff6b70' };
+        var gradeEl = document.getElementById('tp-draft-grade');
+        gradeEl.textContent = draft.grade;
+        gradeEl.style.color = gradeColors[draft.grade] || '#f5f7fa';
+        document.getElementById('tp-draft-summary').textContent =
+          'Ranked ' + draft.league_rank + ' of ' + draft.league_size + ' drafts in the league' +
+          (draft.draft_type ? ' (' + draft.draft_type.toLowerCase() + ' draft)' : '') +
+          (draft.mode === 'projected'
+            ? ', based on ESPN\'s preseason projections \u2014 will switch to real results once games are played.'
+            : ', based on how picks have produced so far.');
+
+        var ptsLabel = draft.mode === 'projected' ? 'proj. pts' : 'pts so far';
+        function pickLine(p) {
+          return p.name + ' (Round ' + p.round + ', Pick ' + p.pick_in_round + ')' +
+            (p.dropped ? ' \u2014 since dropped' : ' \u2014 ' + p.points + ' ' + ptsLabel);
+        }
+        document.getElementById('tp-draft-best').textContent = pickLine(draft.best_pick);
+        document.getElementById('tp-draft-worst').textContent = pickLine(draft.worst_pick);
+
+        document.getElementById('tp-draft-picks').innerHTML = (draft.picks || []).map(function (p) {
+          var vColor = p.value_diff > 0 ? '#D4AF37' : (p.value_diff < 0 ? '#ff6b70' : '#a7aebb');
+          var vLabel = (p.value_diff > 0 ? '+' : '') + p.value_diff;
+          return '<tr><td class="roster-slot">' + p.round + '.' + p.pick_in_round + '</td>' +
+            '<td class="roster-name">' + p.name + (p.dropped ? '<span class="roster-injury">DROPPED</span>' : '') + '</td>' +
+            '<td>' + p.points + '</td>' +
+            '<td style="color:' + vColor + ';font-weight:800;">' + vLabel + '</td></tr>';
+        }).join('');
+      } else {
+        draftSection.style.display = 'none';
+      }
 
       var roster = t.roster || [];
       var starters = roster.filter(function (p) { return p.starter; });
