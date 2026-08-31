@@ -76,6 +76,12 @@ def run(season=None):
                 "roster": roster_by_guid.get(guid, []),
             }
 
+    with_waiver = [t for t in week_data["standings"] if t.get("waiver_rank")]
+    waiver_order = sorted(
+        [{"owner": t["owner"], "team": t["name"], "waiver_rank": t["waiver_rank"]} for t in with_waiver],
+        key=lambda t: t["waiver_rank"],
+    )
+
     site_data = {
         "league_name": LEAGUE_NAME,
         "first_season": FIRST_SEASON,
@@ -83,6 +89,7 @@ def run(season=None):
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "current_week": week_data["current_week"],
         "standings": [{k: v for k, v in t.items() if k != "roster"} for t in week_data["standings"]],
+        "waiver_order": waiver_order,
         "reigning_champion": reigning_champion,
         "reigning_last_place": reigning_last_place,
         "champions_timeline": champions_timeline,
