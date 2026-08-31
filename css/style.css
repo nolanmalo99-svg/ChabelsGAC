@@ -496,6 +496,8 @@ h1, h2, h3 {
 .data-table tbody tr:nth-child(even):hover { background: var(--accent-hover); }
 
 .rank-num { color: var(--accent); font-weight: 800; font-size: 0.9rem; }
+.standings-link { text-decoration: none; transition: var(--transition); }
+.standings-link:hover { color: var(--accent) !important; text-decoration: underline; }
 
 /* ---------- Cards ---------- */
 .card-grid {
