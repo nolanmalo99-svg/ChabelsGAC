@@ -1,6 +1,6 @@
 """Normalize the ESPN league payload into matchup data for every week of a season,
 in a single API call. Pure stats -- no AI-generated copy, just facts."""
-from lib import espn, POS, SLOT, PRO
+from lib import espn, POS, SLOT, PRO, season_stats_from_player, preseason_projection
 
 STARTER_SLOTS = set(SLOT) - {20, 21}  # everything except BE / IR
 BENCH_SLOT = 20
@@ -188,17 +188,6 @@ def _fun_facts(m, team_games, teams, before_week):
     return facts[:3]
 
 
-def _season_ppg(player_stats, before_week):
-    """Season-to-date average fantasy points, from actual (statSourceId=0) weekly stat lines."""
-    played = [s for s in player_stats
-              if s.get("statSourceId") == 0 and (s.get("scoringPeriodId") or 0) < before_week
-              and (s.get("scoringPeriodId") or 0) > 0]
-    if not played:
-        return 0.0, 0
-    total = sum(s.get("appliedTotal", 0.0) or 0.0 for s in played)
-    return round(total / len(played), 1), len(played)
-
-
 def _full_roster(team_obj, scoring_period):
     """Every rostered player (starters + bench + IR) for a team, current lineup."""
     entries = team_obj.get("roster", {}).get("entries", [])
@@ -209,13 +198,15 @@ def _full_roster(team_obj, scoring_period):
         slot = e.get("lineupSlotId")
         pl = e.get("playerPoolEntry", {}).get("player", {})
         proj, act = _proj_and_actual(e, scoring_period)
-        ppg, gp = _season_ppg(pl.get("stats", []), scoring_period)
+        total, ppg, gp = season_stats_from_player(pl.get("stats", []), scoring_period)
         players.append({
+            "player_id": pl.get("id"),
             "name": pl.get("fullName", "?"), "slot": SLOT.get(slot, str(slot)),
             "pos": POS.get(pl.get("defaultPositionId"), "?"),
             "pro": PRO.get(pl.get("proTeamId"), "?"),
             "proj": proj, "actual": act,
-            "season_ppg": ppg, "games_played": gp,
+            "season_ppg": ppg, "season_total": total, "games_played": gp,
+            "preseason_proj_total": preseason_projection(pl.get("stats", [])),
             "starter": slot in STARTER_SLOTS,
             "injury": pl.get("injuryStatus") if pl.get("injuryStatus") not in HEALTHY else None,
             "_rank": slot_rank.get(slot, 99),
@@ -240,6 +231,7 @@ def build_all_weeks(season):
         rec = t.get("record", {}).get("overall", {})
         guid = t.get("primaryOwner") or (t.get("owners") or [None])[0]
         teams[t["id"]] = {
+            "team_id": t["id"],
             "name": name, "guid": guid,
             "owner": _owner_name(members, guid) if guid else name,
             "record": f'{rec.get("wins",0)}-{rec.get("losses",0)}'
