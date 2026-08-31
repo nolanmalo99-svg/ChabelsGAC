@@ -178,6 +178,13 @@
         opt.value = o.guid; opt.textContent = o.owner;
         sel.appendChild(opt);
       });
+
+      // Deep link from home.html (e.g. teams.html?owner=<guid>) auto-selects that owner.
+      var requestedGuid = new URLSearchParams(window.location.search).get('owner');
+      if (requestedGuid && CAREER[requestedGuid]) {
+        sel.value = requestedGuid;
+        showTeam(requestedGuid);
+      }
     }
 
     function showTeam(guid) {
