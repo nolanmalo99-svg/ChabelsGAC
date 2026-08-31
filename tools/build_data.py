@@ -8,6 +8,7 @@ import argparse, datetime, json, sys
 from lib import ROOT, load_env, FIRST_SEASON, espn
 import league as L
 import history as H
+import draft as D
 
 LEAGUE_NAME = "Chabels"
 
@@ -81,6 +82,13 @@ def run(season=None):
         [{"owner": t["owner"], "team": t["name"], "waiver_rank": t["waiver_rank"]} for t in with_waiver],
         key=lambda t: t["waiver_rank"],
     )
+
+    draft_grades = D.build_draft_grades(season, week_data["standings"], week_data["current_week"])
+    print(f"[draft] build_draft_grades returned: {'None' if draft_grades is None else len(draft_grades)} teams")
+    if draft_grades and hist:
+        for guid, dg in draft_grades.items():
+            if guid in career_out:
+                career_out[guid]["draft"] = dg
 
     site_data = {
         "league_name": LEAGUE_NAME,
