@@ -2,7 +2,19 @@ name: Sync ESPN data
 
 on:
   schedule:
-    - cron: "0 */4 * 9-12,1 *"
+    # NFL Sunday window (~1pm ET kickoff through the end of SNF, covering both EDT/EST): every 15 min.
+    # 16:00-23:59 UTC Sunday covers the daytime/early-evening slate.
+    - cron: "*/15 16-23 * 9-12,1 0"
+    # 00:00-05:59 UTC Monday covers SNF running past midnight (still "Sunday night" in the US).
+    - cron: "*/15 0-5 * 9-12,1 1"
+    # Monday Night Football: kicks off ~8:15pm ET -> 23:00-23:59 UTC Monday, running into Tuesday.
+    - cron: "*/15 23 * 9-12,1 1"
+    - cron: "*/15 0-5 * 9-12,1 2"
+    # Thursday Night Football: same kickoff window -> 23:00-23:59 UTC Thursday, running into Friday.
+    - cron: "*/15 23 * 9-12,1 4"
+    - cron: "*/15 0-5 * 9-12,1 5"
+    # Every other day/time in season: every 4 hours is plenty.
+    - cron: "0 */4 * 9-12,1 1-6"
   workflow_dispatch:
     inputs:
       season:
