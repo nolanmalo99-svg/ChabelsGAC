@@ -21,11 +21,16 @@ def _grade_for_rank_pct(pct):
 def _draft_picks(season):
     d = espn(["mDraftDetail", "mSettings"], season)
     if not d:
+        print("[draft] espn() returned nothing for mDraftDetail/mSettings")
         return None, None
-    picks = (d.get("draftDetail") or {}).get("picks") or []
+    detail = d.get("draftDetail") or {}
+    picks = detail.get("picks") or []
+    print(f"[draft] drafted={detail.get('drafted')} inProgress={detail.get('inProgress')} "
+          f"num_picks={len(picks)}")
     if not picks:
         return None, None
     draft_type = (d.get("settings", {}).get("draftSettings", {}) or {}).get("type", "SNAKE")
+    print(f"[draft] draft_type={draft_type}, sample pick={picks[0]}")
     return picks, draft_type
 
 
