@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-01T16:36:48+00:00",
+  "generated_at": "2026-09-01T20:09:50+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -4187,7 +4187,7 @@ window.SITE_DATA = {
           "games_played": 0,
           "preseason_proj_total": 265.4,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361307,
@@ -11492,7 +11492,7 @@ window.SITE_DATA = {
           "games_played": 0,
           "preseason_proj_total": 0.0,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3916433,
@@ -15222,7 +15222,7 @@ window.SITE_DATA = {
           "games_played": 0,
           "preseason_proj_total": 202.2,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4371733,
@@ -15300,9 +15300,24 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
+          "player_id": 4430834,
+          "name": "Jalen McMillan",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 8.2,
+          "actual": 0.0,
+          "season_ppg": 0.0,
+          "season_total": 0.0,
+          "games_played": 0,
+          "preseason_proj_total": 30.5,
+          "starter": false,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4880281,
           "name": "Jordyn Tyson",
-          "slot": "BE",
+          "slot": "IR",
           "pos": "WR",
           "pro": "NO",
           "proj": 0.0,

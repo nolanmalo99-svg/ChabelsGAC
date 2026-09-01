@@ -208,7 +208,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.9,
+          "bench_proj": 70.1,
           "injuries": []
         },
         "played": false,
@@ -785,7 +785,7 @@ window.MATCHUPS_DATA = {
               "pro": "CIN",
               "proj": 13.0,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "DJ Moore",
@@ -841,6 +841,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "TB",
               "proj": 14.0,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Tee Higgins",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CIN",
+              "proj": 13.0,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
