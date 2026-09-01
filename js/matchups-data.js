@@ -95,7 +95,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 69.4,
+          "bench_proj": 68.3,
           "injuries": [
             {
               "name": "Jeremiyah Love",
@@ -124,7 +124,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 123.2,
+          "projected": 123.1,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -216,7 +216,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (0-0) at Jordan Schommer (0-0). Projected: Peter Lundquist 123.2 - Jordan Schommer 120.9. Peter Lundquist favored by 2.3.",
+        "blurb": "Peter Lundquist (0-0) at Jordan Schommer (0-0). Projected: Peter Lundquist 123.1 - Jordan Schommer 120.9. Peter Lundquist favored by 2.2.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -348,7 +348,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "NYJ",
-              "proj": 14.7,
+              "proj": 14.8,
               "actual": 0.0,
               "injury": null
             },
@@ -398,7 +398,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 73.7,
+          "bench_proj": 72.6,
           "injuries": [
             {
               "name": "Ja'Marr Chase",
@@ -418,7 +418,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 117.8,
+          "projected": 118.5,
           "starters": [
             {
               "name": "James Cook III",
@@ -443,7 +443,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "DAL",
-              "proj": 14.0,
+              "proj": 14.7,
               "actual": 0.0,
               "injury": null
             },
@@ -502,7 +502,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 78.3,
+          "bench_proj": 78.2,
           "injuries": [
             {
               "name": "Malik Nabers",
@@ -520,7 +520,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (0-0) at logan rezac (0-0). Projected: Isaac Douglas 117.8 - logan rezac 124.7. logan rezac favored by 6.9.",
+        "blurb": "Isaac Douglas (0-0) at logan rezac (0-0). Projected: Isaac Douglas 118.5 - logan rezac 124.7. logan rezac favored by 6.2.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -598,8 +598,8 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 49.7,
-            "away_proj": 44.9,
+            "home_proj": 49.8,
+            "away_proj": 45.6,
             "edge": "home"
           }
         ],
@@ -702,7 +702,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 60.0,
+          "bench_proj": 60.2,
           "injuries": [
             {
               "name": "Luther Burden III",
@@ -765,7 +765,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "ARI",
-              "proj": 14.3,
+              "proj": 14.4,
               "actual": 0.0,
               "injury": null
             },
@@ -824,7 +824,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 74.3,
+          "bench_proj": 74.9,
           "injuries": [
             {
               "name": "Christian McCaffrey",
@@ -924,7 +924,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 12.2,
-            "away_proj": 14.3,
+            "away_proj": 14.4,
             "edge": "away"
           },
           {
@@ -1459,7 +1459,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 71.7,
+          "bench_proj": 73.2,
           "injuries": [
             {
               "name": "Puka Nacua",
