@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Matchups — Chabels</title>
+  <title>Matchups — Fant Squad</title>
   <link rel="stylesheet" href="css/style.css?v=1">
   <style>
     .mx-wrap{max-width:820px;margin:0 auto;padding:0 1.25rem 3rem}
@@ -14,21 +14,21 @@
     .mx-owner{font-weight:800;font-size:1.05rem;color:#f5f7fa}
     .mx-sub{font-size:.72rem;color:#a7aebb}
     .mx-link{text-decoration:none;transition:all 0.18s ease}
-    .mx-link:hover .mx-owner{color:#D4AF37}
-    .mx-link:hover .mx-sub{color:#D4AF37}
+    .mx-link:hover .mx-owner{color:#3E8ED9}
+    .mx-link:hover .mx-sub{color:#3E8ED9}
     .mx-pts{font-weight:900;font-size:1.5rem;color:#f5f7fa}
-    .mx-pts.win{color:#D4AF37}
+    .mx-pts.win{color:#3E8ED9}
     .mx-vs{font-weight:800;font-size:.7rem;color:#6b7280;letter-spacing:.1em;padding:0 .4rem}
     .mx-body{padding:1.1rem 1.3rem}
     .mx-body p{color:#c8ccd6;font-size:.9rem;line-height:1.6;margin:0}
     .mx-badge{display:inline-block;font-size:.6rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
-      padding:.2rem .5rem;border-radius:4px;background:rgba(212, 175, 55,0.12);color:#D4AF37;margin-left:.5rem;vertical-align:middle}
+      padding:.2rem .5rem;border-radius:4px;background:rgba(62, 142, 217,0.12);color:#3E8ED9;margin-left:.5rem;vertical-align:middle}
     .mx-extra{padding:0 1.3rem 1.2rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
     @media (max-width:560px){.mx-extra{grid-template-columns:1fr}}
     .mx-form{background:#181a1f;border:1px solid #2f333b;border-radius:6px;padding:.8rem .9rem}
     .mx-form-title{font-size:.6rem;color:#a7aebb;letter-spacing:.1em;text-transform:uppercase;font-weight:800;margin-bottom:.45rem}
     .mx-form-line{font-size:.82rem;color:#e8e8e8}
-    .mx-trend-up{color:#D4AF37}
+    .mx-trend-up{color:#3E8ED9}
     .mx-trend-down{color:#ff6b70}
     .mx-trend-steady{color:#a7aebb}
     .mx-watch{background:#181a1f;border:1px solid #2f333b;border-radius:6px;padding:.8rem .9rem}
@@ -36,7 +36,7 @@
     .mx-watch-row:last-child{border-bottom:none}
     .mx-watch-name{color:#f5f7fa;font-weight:700}
     .mx-watch-meta{color:#a7aebb;font-size:.72rem}
-    .mx-watch-proj{color:#D4AF37;font-weight:800}
+    .mx-watch-proj{color:#3E8ED9;font-weight:800}
     .mx-injury{color:#ff6b70;font-weight:800;font-size:.65rem;margin-left:.3rem;vertical-align:middle}
     .mx-story{padding:0 1.3rem 1rem;display:flex;flex-wrap:wrap;gap:.4rem}
     .mx-chip{font-size:.72rem;font-weight:700;padding:.3rem .65rem;border-radius:20px;
@@ -49,7 +49,7 @@
     .mx-edge-row{display:grid;grid-template-columns:2.6rem 1fr 2.6rem;align-items:center;gap:.5rem;
       font-size:.78rem;padding:.2rem 0}
     .mx-edge-bar{height:6px;border-radius:3px;background:#2f333b;overflow:hidden;position:relative}
-    .mx-edge-fill{position:absolute;top:0;bottom:0;background:#D4AF37}
+    .mx-edge-fill{position:absolute;top:0;bottom:0;background:#3E8ED9}
     select#week-select {
       background:#1e2128;color:#f5f7fa;border:2px solid #2f333b;padding:0.6rem 1.2rem;border-radius:4px;
       font-weight:700;min-width:180px;cursor:pointer;
@@ -61,9 +61,9 @@
   <nav class="nav">
     <div class="nav-inner">
       <a href="home.html" class="nav-logo" style="display:flex;align-items:center;"><svg width="30" height="34" viewBox="0 0 60 68" style="vertical-align:middle;margin-right:0.4rem;flex-shrink:0;" aria-hidden="true">
-        <path d="M30 2 L56 12 V34 C56 50 44 60 30 66 C16 60 4 50 4 34 V12 Z" fill="#0a0a0a" stroke="#D4AF37" stroke-width="3"/>
-        <text x="30" y="42" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#D4AF37" text-anchor="middle">G</text>
-      </svg><span>CHABELS<span class="sub">Golden Gusties League</span></span></a>
+        <path d="M30 2 L56 12 V34 C56 50 44 60 30 66 C16 60 4 50 4 34 V12 Z" fill="#0a0a0a" stroke="#3E8ED9" stroke-width="3"/>
+        <text x="30" y="42" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#3E8ED9" text-anchor="middle">F</text>
+      </svg><span>FANT SQUAD<span class="sub">Fantasy Football League</span></span></a>
       <div class="nav-toggle"><span></span><span></span><span></span></div>
       <div class="nav-links">
         <a href="home.html">Home</a>
@@ -89,7 +89,7 @@
   </div>
 
   <footer class="footer">
-    <p><span class="gold">CHABELS</span> &mdash; Golden Gusties Fantasy Football &bull; Est. 2022</p>
+    <p><span class="gold">FANT SQUAD</span> &mdash; Fantasy Football &bull; Est. 2015</p>
   </footer>
 
   <script src="js/site-data.js"></script>
@@ -142,7 +142,7 @@
       return edges.map(function (e) {
         var total = e.home_proj + e.away_proj;
         var homePct = total > 0 ? Math.round(100 * e.home_proj / total) : 50;
-        var color = e.edge === 'home' ? '#D4AF37' : (e.edge === 'away' ? '#5aa7ff' : '#6b7280');
+        var color = e.edge === 'home' ? '#3E8ED9' : (e.edge === 'away' ? '#5aa7ff' : '#6b7280');
         return '<div class="mx-edge-row"><span style="text-align:right;color:#a7aebb;">' + e.away_proj + '</span>' +
           '<span><div style="font-size:.62rem;color:#a7aebb;text-align:center;margin-bottom:.15rem;">' + e.pos + '</div>' +
           '<div class="mx-edge-bar"><div class="mx-edge-fill" style="left:' + (e.edge === 'away' ? 0 : 100 - homePct) + '%;' +
@@ -159,8 +159,16 @@
           ' (' + m.revenge.home_pts + '-' + m.revenge.away_pts + ')</span>');
       }
       if (m.head_to_head) {
-        chips.push('<span class="mx-chip">\ud83c\udfc6 All-time: ' + m.home.owner + ' leads ' +
-          m.head_to_head.home_w + '-' + m.head_to_head.home_l + ' vs ' + m.away.owner + '</span>');
+        var hw = m.head_to_head.home_w, hl = m.head_to_head.home_l;
+        var h2hText;
+        if (hw > hl) {
+          h2hText = m.home.owner + ' leads ' + hw + '-' + hl + ' vs ' + m.away.owner;
+        } else if (hl > hw) {
+          h2hText = m.away.owner + ' leads ' + hl + '-' + hw + ' vs ' + m.home.owner;
+        } else {
+          h2hText = m.home.owner + ' and ' + m.away.owner + ' are tied ' + hw + '-' + hl + ' all-time';
+        }
+        chips.push('<span class="mx-chip">\ud83c\udfc6 All-time: ' + h2hText + '</span>');
       }
       return chips.join('');
     }
