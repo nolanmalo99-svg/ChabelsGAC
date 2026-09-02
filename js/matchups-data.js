@@ -95,7 +95,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 68.3,
+          "bench_proj": 68.8,
           "injuries": [
             {
               "name": "Jeremiyah Love",
@@ -398,7 +398,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 72.6,
+          "bench_proj": 72.3,
           "injuries": [
             {
               "name": "Ja'Marr Chase",
@@ -702,7 +702,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 60.2,
+          "bench_proj": 60.5,
           "injuries": [
             {
               "name": "Luther Burden III",
@@ -810,7 +810,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "HOU",
-              "proj": 5.3,
+              "proj": 5.2,
               "actual": 0.0,
               "injury": null
             },
@@ -909,8 +909,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 6.3,
-            "away_proj": 5.3,
-            "edge": "even"
+            "away_proj": 5.2,
+            "edge": "home"
           },
           {
             "pos": "K",
@@ -976,7 +976,7 @@ window.MATCHUPS_DATA = {
               "pro": "KC",
               "proj": 14.7,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Javonte Williams",
@@ -1042,17 +1042,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 71.5,
+          "bench_proj": 71.9,
           "injuries": [
-            {
-              "name": "Kenneth Walker III",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "KC",
-              "proj": 14.7,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Zay Flowers",
               "slot": "WR",
@@ -1080,14 +1071,14 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 121.3,
+          "projected": 121.4,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
               "slot": "RB",
               "pos": "RB",
               "pro": "DET",
-              "proj": 21.5,
+              "proj": 21.7,
               "actual": 0.0,
               "injury": null
             },
@@ -1182,7 +1173,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Brady Kienitz (0-0) at Nolan Malo (0-0). Projected: Brady Kienitz 121.3 - Nolan Malo 120.0. Brady Kienitz favored by 1.3.",
+        "blurb": "Brady Kienitz (0-0) at Nolan Malo (0-0). Projected: Brady Kienitz 121.4 - Nolan Malo 120.0. Brady Kienitz favored by 1.4.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -1191,7 +1182,7 @@ window.MATCHUPS_DATA = {
             "slot": "RB",
             "pos": "RB",
             "pro": "DET",
-            "proj": 21.5,
+            "proj": 21.7,
             "actual": 0.0,
             "injury": null,
             "owner": "Brady Kienitz"
@@ -1249,7 +1240,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 29.9,
-            "away_proj": 51.2,
+            "away_proj": 51.4,
             "edge": "away"
           },
           {
@@ -1454,7 +1445,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "SEA",
-              "proj": 7.2,
+              "proj": 7.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1535,7 +1526,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 5.4,
-            "away_proj": 7.2,
+            "away_proj": 7.1,
             "edge": "away"
           },
           {
