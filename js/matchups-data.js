@@ -463,7 +463,7 @@ window.MATCHUPS_DATA = {
               "pro": "CHI",
               "proj": 12.3,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kyle Pitts Sr.",
@@ -510,6 +510,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "NYG",
               "proj": 13.8,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "D'Andre Swift",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "CHI",
+              "proj": 12.3,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1316,7 +1325,7 @@ window.MATCHUPS_DATA = {
               "pro": "CHI",
               "proj": 12.4,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jameson Williams",
@@ -1363,6 +1372,15 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LV",
               "proj": 18.1,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Rome Odunze",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CHI",
+              "proj": 12.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
