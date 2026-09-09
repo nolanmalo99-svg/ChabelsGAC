@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-09T16:10:21+00:00",
+  "generated_at": "2026-09-09T20:10:16+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -4205,17 +4205,17 @@
           "injury": null
         },
         {
-          "player_id": 3915416,
-          "name": "DJ Moore",
+          "player_id": 4569173,
+          "name": "Rhamondre Stevenson",
           "slot": "FLEX",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 11.6,
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 14.1,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 0,
-          "preseason_proj_total": 237.9,
+          "preseason_proj_total": 173.1,
           "starter": true,
           "injury": null
         },
@@ -4265,21 +4265,6 @@
           "injury": null
         },
         {
-          "player_id": 4569173,
-          "name": "Rhamondre Stevenson",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 14.1,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
-          "preseason_proj_total": 173.1,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 3128429,
           "name": "Courtland Sutton",
           "slot": "BE",
@@ -4291,6 +4276,21 @@
           "season_total": 0.0,
           "games_played": 0,
           "preseason_proj_total": 227.6,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 3915416,
+          "name": "DJ Moore",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 11.6,
+          "actual": 0.0,
+          "season_ppg": 0.0,
+          "season_total": 0.0,
+          "games_played": 0,
+          "preseason_proj_total": 237.9,
           "starter": false,
           "injury": null
         },
@@ -9452,7 +9452,7 @@
           "games_played": 0,
           "preseason_proj_total": 191.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4608686,
@@ -13182,7 +13182,7 @@
           "games_played": 0,
           "preseason_proj_total": 258.5,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4248528,
@@ -16873,7 +16873,7 @@
           "games_played": 0,
           "preseason_proj_total": 262.2,
           "starter": true,
-          "injury": null
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4426388,

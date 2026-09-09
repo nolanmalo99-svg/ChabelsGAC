@@ -749,7 +749,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 118.1,
+          "projected": 120.6,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -797,11 +797,11 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "DJ Moore",
+              "name": "Rhamondre Stevenson",
               "slot": "FLEX",
-              "pos": "WR",
-              "pro": "BUF",
-              "proj": 11.6,
+              "pos": "RB",
+              "pro": "NE",
+              "proj": 14.1,
               "actual": 0.0,
               "injury": null
             },
@@ -833,7 +833,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 78.5,
+          "bench_proj": 76.0,
           "injuries": [
             {
               "name": "Emeka Egbuka",
@@ -860,7 +860,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (0-0) at Austin Carter (0-0). Projected: Adam Schumacher 118.1 - Austin Carter 117.7. Adam Schumacher favored by 0.4.",
+        "blurb": "Adam Schumacher (0-0) at Austin Carter (0-0). Projected: Adam Schumacher 120.6 - Austin Carter 117.7. Adam Schumacher favored by 2.9.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -927,7 +927,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 29.7,
-            "away_proj": 36.1,
+            "away_proj": 50.2,
             "edge": "away"
           },
           {
@@ -939,7 +939,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 40.0,
-            "away_proj": 38.6,
+            "away_proj": 27.0,
             "edge": "home"
           }
         ],
@@ -1298,7 +1298,7 @@ window.MATCHUPS_DATA = {
               "pro": "LV",
               "proj": 15.6,
               "actual": 0.0,
-              "injury": null
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Kyren Williams",
@@ -1365,6 +1365,15 @@ window.MATCHUPS_DATA = {
               "proj": 18.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Brock Bowers",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "LV",
+              "proj": 15.6,
+              "actual": 0.0,
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Rome Odunze",
