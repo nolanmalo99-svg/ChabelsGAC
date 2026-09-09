@@ -758,7 +758,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 18.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Saquon Barkley",
@@ -836,15 +836,6 @@ window.MATCHUPS_DATA = {
           "bench_proj": 78.5,
           "injuries": [
             {
-              "name": "Christian McCaffrey",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "SF",
-              "proj": 18.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Emeka Egbuka",
               "slot": "WR",
               "pos": "WR",
@@ -890,7 +881,7 @@ window.MATCHUPS_DATA = {
             "pro": "SF",
             "proj": 18.4,
             "actual": 0.0,
-            "injury": "QUESTIONABLE",
+            "injury": null,
             "owner": "Adam Schumacher"
           },
           {
@@ -1402,7 +1393,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 21.1,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Derrick Henry",
@@ -1478,17 +1469,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 63.1,
-          "injuries": [
-            {
-              "name": "Puka Nacua",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "LAR",
-              "proj": 21.1,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "played": false,
         "playoff": false,
@@ -1506,7 +1487,7 @@ window.MATCHUPS_DATA = {
             "pro": "LAR",
             "proj": 21.1,
             "actual": 0.0,
-            "injury": "QUESTIONABLE",
+            "injury": null,
             "owner": "Adam Biewen"
           },
           {
