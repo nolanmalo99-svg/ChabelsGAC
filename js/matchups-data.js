@@ -743,7 +743,7 @@ window.MATCHUPS_DATA = {
               "pro": "BAL",
               "proj": 14.2,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Jaylen Waddle",
@@ -792,17 +792,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 71.7,
-          "injuries": [
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 14.2,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 3,
