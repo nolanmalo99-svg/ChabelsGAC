@@ -314,7 +314,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 124.8,
+          "projected": 118.4,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -367,7 +367,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "NE",
               "proj": 16.3,
-              "actual": 0.0,
+              "actual": 9.8,
               "injury": null
             },
             {
@@ -510,7 +510,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (0-0) at logan rezac (0-0). Projected: Isaac Douglas 119.5 - logan rezac 124.8. logan rezac favored by 5.3.",
+        "blurb": "Isaac Douglas (0-0) at logan rezac (0-0). Projected: Isaac Douglas 119.5 - logan rezac 118.4. Isaac Douglas favored by 1.1.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -702,7 +702,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 120.5,
+          "projected": 121.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -755,7 +755,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "NE",
               "proj": 14.0,
-              "actual": 0.0,
+              "actual": 14.5,
               "injury": null
             },
             {
@@ -794,7 +794,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (0-0) at Austin Carter (0-0). Projected: Adam Schumacher 120.5 - Austin Carter 118.5. Adam Schumacher favored by 2.0.",
+        "blurb": "Adam Schumacher (0-0) at Austin Carter (0-0). Projected: Adam Schumacher 121.1 - Austin Carter 118.5. Adam Schumacher favored by 2.6.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -996,7 +996,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 122.0,
+          "projected": 113.4,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -1022,8 +1022,8 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "NE",
               "proj": 14.2,
-              "actual": 0.0,
-              "injury": null
+              "actual": 5.6,
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Quinshon Judkins",
@@ -1067,7 +1067,7 @@ window.MATCHUPS_DATA = {
               "pos": "K",
               "pro": "SEA",
               "proj": 9.4,
-              "actual": 0.0,
+              "actual": 7.0,
               "injury": null
             },
             {
@@ -1076,19 +1076,29 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "NE",
               "proj": 4.7,
-              "actual": 0.0,
+              "actual": 7.0,
               "injury": null
             }
           ],
           "bench_proj": 64.8,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "A.J. Brown",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "NE",
+              "proj": 14.2,
+              "actual": 5.6,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Brady Kienitz (0-0) at Nolan Malo (0-0). Projected: Brady Kienitz 122.0 - Nolan Malo 119.9. Brady Kienitz favored by 2.1.",
+        "blurb": "Brady Kienitz (0-0) at Nolan Malo (0-0). Projected: Brady Kienitz 113.4 - Nolan Malo 119.9. Nolan Malo favored by 6.5.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -1186,7 +1196,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 117.1,
+          "projected": 124.4,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1194,7 +1204,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "SEA",
               "proj": 18.9,
-              "actual": 0.0,
+              "actual": 26.2,
               "injury": null
             },
             {
@@ -1290,7 +1300,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 122.3,
+          "projected": 129.0,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1361,7 +1371,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "SEA",
               "proj": 7.2,
-              "actual": 0.0,
+              "actual": 14.0,
               "injury": null
             },
             {
@@ -1382,7 +1392,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (0-0) at Evan Wieker (0-0). Projected: Adam Biewen 122.3 - Evan Wieker 117.1. Adam Biewen favored by 5.2.",
+        "blurb": "Adam Biewen (0-0) at Evan Wieker (0-0). Projected: Adam Biewen 129.0 - Evan Wieker 124.4. Adam Biewen favored by 4.6.",
         "home_form": null,
         "away_form": null,
         "players_to_watch": [
@@ -1402,7 +1412,7 @@ window.MATCHUPS_DATA = {
             "pos": "WR",
             "pro": "SEA",
             "proj": 18.9,
-            "actual": 0.0,
+            "actual": 26.2,
             "injury": null,
             "owner": "Evan Wieker"
           },
