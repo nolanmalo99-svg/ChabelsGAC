@@ -74,7 +74,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 8.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Broncos D/ST",
@@ -103,15 +103,6 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "ARI",
               "proj": 14.7,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "George Kittle",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "SF",
-              "proj": 8.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
