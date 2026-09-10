@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-10T12:12:44+00:00",
+  "generated_at": "2026-09-10T15:36:44+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -2470,17 +2470,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4242355,
-          "name": "Jake Ferguson",
+          "player_id": 3116365,
+          "name": "Mark Andrews",
           "slot": "TE",
           "pos": "TE",
-          "pro": "DAL",
-          "proj": 9.8,
+          "pro": "BAL",
+          "proj": 10.1,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 0,
-          "preseason_proj_total": 150.4,
+          "preseason_proj_total": 173.4,
           "starter": true,
           "injury": null
         },
@@ -2575,17 +2575,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3116365,
-          "name": "Mark Andrews",
+          "player_id": 4242355,
+          "name": "Jake Ferguson",
           "slot": "BE",
           "pos": "TE",
-          "pro": "BAL",
-          "proj": 10.1,
+          "pro": "DAL",
+          "proj": 9.8,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 0,
-          "preseason_proj_total": 173.4,
+          "preseason_proj_total": 150.4,
           "starter": false,
           "injury": null
         },
