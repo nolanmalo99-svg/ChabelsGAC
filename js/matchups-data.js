@@ -11,7 +11,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "0-0",
           "actual": 6.2,
-          "projected": 123.2,
+          "projected": 121.1,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -114,8 +114,8 @@ window.MATCHUPS_DATA = {
           "team": "Rebound, Execute, Defend",
           "owner": "Peter Lundquist",
           "record": "0-0",
-          "actual": 9.0,
-          "projected": 123.7,
+          "actual": 11.0,
+          "projected": 124.8,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -195,7 +195,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "LAR",
               "proj": 6.1,
-              "actual": 9.0,
+              "actual": 11.0,
               "injury": null
             }
           ],
@@ -204,10 +204,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 2.8,
+        "margin": 4.8,
         "winner": "Peter Lundquist",
         "phase": "recap",
-        "blurb": "Final: Peter Lundquist 9.0 - Jordan Schommer 6.2. Peter Lundquist won by 2.8. Top scorers for Peter Lundquist: Rams D/ST (9.0), Jonathan Taylor (0.0)."
+        "blurb": "Final: Peter Lundquist 11.0 - Jordan Schommer 6.2. Peter Lundquist won by 4.8. Top scorers for Peter Lundquist: Rams D/ST (11.0), Jonathan Taylor (0.0)."
       },
       {
         "home": {
@@ -310,8 +310,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Douglas",
           "owner": "Isaac Douglas",
           "record": "0-0",
-          "actual": 0.0,
-          "projected": 117.4,
+          "actual": 1.0,
+          "projected": 117.2,
           "starters": [
             {
               "name": "James Cook III",
@@ -391,7 +391,7 @@ window.MATCHUPS_DATA = {
               "pos": "K",
               "pro": "LAR",
               "proj": 9.4,
-              "actual": 0.0,
+              "actual": 1.0,
               "injury": null
             }
           ],
@@ -410,10 +410,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 9.8,
+        "margin": 8.8,
         "winner": "logan rezac",
         "phase": "recap",
-        "blurb": "Final: Isaac Douglas 0.0 - logan rezac 9.8. logan rezac won by 9.8. Top scorers for logan rezac: Drake Maye (9.8), Ja'Marr Chase (0.0)."
+        "blurb": "Final: Isaac Douglas 1.0 - logan rezac 9.8. logan rezac won by 8.8. Top scorers for logan rezac: Drake Maye (9.8), Ja'Marr Chase (0.0)."
       },
       {
         "home": {
@@ -516,8 +516,8 @@ window.MATCHUPS_DATA = {
           "team": "I Wanna Go Fast",
           "owner": "Adam Schumacher",
           "record": "0-0",
-          "actual": 19.4,
-          "projected": 118.4,
+          "actual": 20.2,
+          "projected": 114.9,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -525,7 +525,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "SF",
               "proj": 18.4,
-              "actual": 2.4,
+              "actual": 4.3,
               "injury": null
             },
             {
@@ -579,7 +579,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "SF",
               "proj": 15.5,
-              "actual": 2.5,
+              "actual": 1.4,
               "injury": null
             },
             {
@@ -606,10 +606,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 19.4,
+        "margin": 20.2,
         "winner": "Adam Schumacher",
         "phase": "recap",
-        "blurb": "Final: Adam Schumacher 19.4 - Austin Carter 0.0. Adam Schumacher won by 19.4. Top scorers for Adam Schumacher: Rhamondre Stevenson (14.5), Brock Purdy (2.5)."
+        "blurb": "Final: Adam Schumacher 20.2 - Austin Carter 0.0. Adam Schumacher won by 20.2. Top scorers for Adam Schumacher: Rhamondre Stevenson (14.5), Christian McCaffrey (4.3)."
       },
       {
         "home": {
@@ -713,7 +713,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-0",
           "actual": 19.6,
-          "projected": 110.6,
+          "projected": 108.9,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -824,8 +824,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Wieker",
           "owner": "Evan Wieker",
           "record": "0-0",
-          "actual": 29.2,
-          "projected": 124.3,
+          "actual": 36.0,
+          "projected": 129.4,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -851,7 +851,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LAR",
               "proj": 13.7,
-              "actual": 3.0,
+              "actual": 9.8,
               "injury": null
             },
             {
@@ -929,7 +929,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "0-0",
           "actual": 20.5,
-          "projected": 130.8,
+          "projected": 128.2,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1018,10 +1018,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 8.7,
+        "margin": 15.5,
         "winner": "Evan Wieker",
         "phase": "recap",
-        "blurb": "Final: Adam Biewen 20.5 - Evan Wieker 29.2. Evan Wieker won by 8.7. Top scorers for Evan Wieker: Jaxon Smith-Njigba (26.2), Kyren Williams (3.0)."
+        "blurb": "Final: Adam Biewen 20.5 - Evan Wieker 36.0. Evan Wieker won by 15.5. Top scorers for Evan Wieker: Jaxon Smith-Njigba (26.2), Kyren Williams (9.8)."
       }
     ],
     "2": [
@@ -1059,8 +1059,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1068,8 +1068,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1078,6 +1078,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be Adam Schumacher's worst week of the season."
         ],
         "head_to_head": {
@@ -1189,8 +1190,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1301,8 +1302,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1424,8 +1425,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1442,7 +1443,9 @@ window.MATCHUPS_DATA = {
         "players_to_watch": [],
         "positional_edges": [],
         "revenge": null,
-        "fun_facts": [],
+        "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
+        ],
         "head_to_head": {
           "home_w": 2,
           "home_l": 5
@@ -1482,8 +1485,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1491,8 +1494,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1604,8 +1607,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1675,8 +1678,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1856,8 +1859,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1866,7 +1869,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Jordan Schommer's worst week of the season."
+          "If the projection holds, this would be Jordan Schommer's worst week of the season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -1907,8 +1911,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1916,8 +1920,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2090,8 +2094,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2099,8 +2103,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2160,8 +2164,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2170,7 +2174,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Brady Kienitz's worst week of the season."
+          "If the projection holds, this would be Brady Kienitz's worst week of the season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -2220,8 +2225,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2274,8 +2279,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2283,8 +2288,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2293,7 +2298,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Peter Lundquist's worst week of the season."
+          "If the projection holds, this would be Peter Lundquist's worst week of the season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -2334,8 +2340,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2455,8 +2461,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2587,8 +2593,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2648,8 +2654,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2769,8 +2775,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2821,8 +2827,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2839,7 +2845,9 @@ window.MATCHUPS_DATA = {
         "players_to_watch": [],
         "positional_edges": [],
         "revenge": null,
-        "fun_facts": [],
+        "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
+        ],
         "head_to_head": {
           "home_w": 1,
           "home_l": 5
@@ -2881,8 +2889,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2941,8 +2949,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3063,8 +3071,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3072,8 +3080,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3082,7 +3090,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Evan Wieker's worst week of the season."
+          "If the projection holds, this would be Evan Wieker's worst week of the season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 1,
@@ -3194,8 +3203,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3306,8 +3315,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3326,7 +3335,7 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": true,
-          "home_pts": 19.4,
+          "home_pts": 20.2,
           "away_pts": 0.0
         },
         "fun_facts": [
@@ -3372,8 +3381,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3391,6 +3400,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be Brady Kienitz's worst week of the season."
         ],
         "head_to_head": {
@@ -3441,8 +3451,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3453,7 +3463,7 @@ window.MATCHUPS_DATA = {
           "week": 1,
           "home_won": false,
           "home_pts": 20.5,
-          "away_pts": 29.2
+          "away_pts": 36.0
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3510,8 +3520,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3562,8 +3572,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3582,11 +3592,12 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": false,
-          "home_pts": 0.0,
+          "home_pts": 1.0,
           "away_pts": 9.8
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be logan rezac's worst week of the season."
         ],
         "head_to_head": {
@@ -3628,8 +3639,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3764,8 +3775,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3817,8 +3828,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3836,6 +3847,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be Adam Biewen's worst week of the season."
         ],
         "head_to_head": {
@@ -3938,8 +3950,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3947,8 +3959,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4068,8 +4080,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4130,8 +4142,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4191,8 +4203,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4200,7 +4212,9 @@ window.MATCHUPS_DATA = {
         "players_to_watch": [],
         "positional_edges": [],
         "revenge": null,
-        "fun_facts": [],
+        "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
+        ],
         "head_to_head": {
           "home_w": 5,
           "home_l": 2
@@ -4361,8 +4375,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4370,8 +4384,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4543,8 +4557,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4552,8 +4566,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4604,8 +4618,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4623,6 +4637,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
+          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be Jordan Schommer's worst week of the season."
         ],
         "head_to_head": {
@@ -4664,8 +4679,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4727,8 +4742,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 9.0,
-          "recent_avg": 9.0,
+          "season_avg": 11.0,
+          "recent_avg": 11.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4747,7 +4762,7 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": true,
-          "home_pts": 9.0,
+          "home_pts": 11.0,
           "away_pts": 6.2
         },
         "fun_facts": [
@@ -4794,8 +4809,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 19.4,
-          "recent_avg": 19.4,
+          "season_avg": 20.2,
+          "recent_avg": 20.2,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4803,8 +4818,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 0.0,
-          "recent_avg": 0.0,
+          "season_avg": 1.0,
+          "recent_avg": 1.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4813,7 +4828,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Adam Schumacher's worst week of the season."
+          "If the projection holds, this would be Adam Schumacher's worst week of the season.",
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 5,
@@ -4915,8 +4931,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 29.2,
-          "recent_avg": 29.2,
+          "season_avg": 36.0,
+          "recent_avg": 36.0,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
