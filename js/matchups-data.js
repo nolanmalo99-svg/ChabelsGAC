@@ -423,14 +423,14 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 118.5,
+          "projected": 118.4,
           "starters": [
             {
               "name": "CeeDee Lamb",
               "slot": "WR",
               "pos": "WR",
               "pro": "DAL",
-              "proj": 17.2,
+              "proj": 17.3,
               "actual": 0.0,
               "injury": null
             },
@@ -502,7 +502,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "PHI",
-              "proj": 6.3,
+              "proj": 6.2,
               "actual": 0.0,
               "injury": null
             }
@@ -619,7 +619,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 119.7,
+          "projected": 119.8,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -644,7 +644,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "DAL",
-              "proj": 15.2,
+              "proj": 15.3,
               "actual": 0.0,
               "injury": null
             },

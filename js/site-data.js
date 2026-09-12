@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-11T20:09:58+00:00",
+  "generated_at": "2026-09-12T00:12:55+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -375,7 +375,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "DAL",
-          "proj": 15.2,
+          "proj": 15.3,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -6042,7 +6042,7 @@ window.SITE_DATA = {
           "games_played": 0,
           "preseason_proj_total": 70.9,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4241985,
@@ -11507,7 +11507,7 @@ window.SITE_DATA = {
           "games_played": 0,
           "preseason_proj_total": 219.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4870653,
@@ -13085,7 +13085,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "DAL",
-          "proj": 17.2,
+          "proj": 17.3,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -13145,7 +13145,7 @@ window.SITE_DATA = {
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "PHI",
-          "proj": 6.3,
+          "proj": 6.2,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
