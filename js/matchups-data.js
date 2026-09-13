@@ -301,7 +301,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 73.1,
+          "bench_proj": 72.6,
           "injuries": []
         },
         "away": {
@@ -311,7 +311,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "0-0",
           "actual": 1.0,
-          "projected": 110.4,
+          "projected": 109.3,
           "starters": [
             {
               "name": "James Cook III",
@@ -345,7 +345,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "NYG",
-              "proj": 13.8,
+              "proj": 12.7,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -402,7 +402,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "NYG",
-              "proj": 13.8,
+              "proj": 12.7,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -484,7 +484,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "TEN",
-              "proj": 11.5,
+              "proj": 11.6,
               "actual": 0.0,
               "injury": null
             },
@@ -507,7 +507,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 60.6,
+          "bench_proj": 61.0,
           "injuries": []
         },
         "away": {
@@ -653,7 +653,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "BAL",
-              "proj": 14.2,
+              "proj": 14.3,
               "actual": 0.0,
               "injury": null
             },
@@ -919,7 +919,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "0-0",
           "actual": 26.4,
-          "projected": 119.7,
+          "projected": 120.6,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -953,7 +953,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "NO",
-              "proj": 14.3,
+              "proj": 15.1,
               "actual": 0.0,
               "injury": null
             },
