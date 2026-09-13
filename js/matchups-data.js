@@ -311,7 +311,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "0-0",
           "actual": 79.5,
-          "projected": 126.0,
+          "projected": 125.4,
           "starters": [
             {
               "name": "James Cook III",
@@ -507,7 +507,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "0-0",
           "actual": 106.1,
-          "projected": 106.4,
+          "projected": 106.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -609,7 +609,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "0-0",
           "actual": 85.5,
-          "projected": 137.9,
+          "projected": 137.6,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
