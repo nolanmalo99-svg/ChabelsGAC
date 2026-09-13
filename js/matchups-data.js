@@ -395,7 +395,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 79.6,
+          "bench_proj": 79.5,
           "injuries": [
             {
               "name": "Malik Nabers",
@@ -423,7 +423,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "0-0",
           "actual": 0.0,
-          "projected": 118.4,
+          "projected": 118.3,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -502,7 +502,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "PHI",
-              "proj": 6.2,
+              "proj": 6.1,
               "actual": 0.0,
               "injury": null
             }
@@ -825,7 +825,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-0",
           "actual": 41.7,
-          "projected": 126.2,
+          "projected": 125.9,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -841,7 +841,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "LV",
-              "proj": 18.3,
+              "proj": 17.9,
               "actual": 0.0,
               "injury": null
             },
@@ -861,7 +861,7 @@ window.MATCHUPS_DATA = {
               "pro": "CHI",
               "proj": 12.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Jameson Williams",
@@ -909,18 +909,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.1,
-          "injuries": [
-            {
-              "name": "Rome Odunze",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "CHI",
-              "proj": 12.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 67.0,
+          "injuries": []
         },
         "away": {
           "teamId": 6,

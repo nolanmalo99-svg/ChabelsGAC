@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-12T20:09:17+00:00",
+  "generated_at": "2026-09-13T16:10:54+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -4322,7 +4322,7 @@
           "games_played": 0,
           "preseason_proj_total": 123.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4683062,
@@ -9490,12 +9490,12 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "PHI",
-          "proj": 8.5,
+          "proj": 8.4,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 0,
-          "preseason_proj_total": 155.2,
+          "preseason_proj_total": 153.7,
           "starter": false,
           "injury": null
         },
@@ -11550,7 +11550,7 @@
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 0,
-          "preseason_proj_total": 146.4,
+          "preseason_proj_total": 146.2,
           "starter": false,
           "injury": null
         }
@@ -13145,7 +13145,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "PHI",
-          "proj": 6.2,
+          "proj": 6.1,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -15312,7 +15312,7 @@
           "games_played": 0,
           "preseason_proj_total": 30.5,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 4880281,
@@ -16806,7 +16806,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "LV",
-          "proj": 18.3,
+          "proj": 17.9,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -16858,7 +16858,7 @@
           "games_played": 0,
           "preseason_proj_total": 217.1,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 3121023,
@@ -16926,7 +16926,7 @@
           "slot": "BE",
           "pos": "QB",
           "pro": "DEN",
-          "proj": 16.2,
+          "proj": 16.1,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
