@@ -10,8 +10,8 @@ window.MATCHUPS_DATA = {
           "team": "Schommer",
           "owner": "Jordan Schommer",
           "record": "0-0",
-          "actual": 92.7,
-          "projected": 133.3,
+          "actual": 101.2,
+          "projected": 138.9,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -28,7 +28,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "ARI",
               "proj": 13.9,
-              "actual": 12.3,
+              "actual": 12.6,
               "injury": null
             },
             {
@@ -55,7 +55,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "LAC",
               "proj": 13.7,
-              "actual": 11.4,
+              "actual": 19.2,
               "injury": null
             },
             {
@@ -64,7 +64,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "PHI",
               "proj": 21.1,
-              "actual": 14.0,
+              "actual": 14.4,
               "injury": null
             },
             {
@@ -104,8 +104,8 @@ window.MATCHUPS_DATA = {
           "team": "Rebound, Execute, Defend",
           "owner": "Peter Lundquist",
           "record": "0-0",
-          "actual": 119.6,
-          "projected": 126.4,
+          "actual": 121.6,
+          "projected": 127.5,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -140,7 +140,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "PHI",
               "proj": 14.8,
-              "actual": 2.2,
+              "actual": 4.2,
               "injury": null
             },
             {
@@ -194,10 +194,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 26.9,
+        "margin": 20.4,
         "winner": "Peter Lundquist",
         "phase": "recap",
-        "blurb": "Final: Peter Lundquist 119.6 - Jordan Schommer 92.7. Peter Lundquist won by 26.9. Top scorers for Peter Lundquist: Chris Olave (28.2), Jonathan Taylor (25.1)."
+        "blurb": "Final: Peter Lundquist 121.6 - Jordan Schommer 101.2. Peter Lundquist won by 20.4. Top scorers for Peter Lundquist: Chris Olave (28.2), Jonathan Taylor (25.1)."
       },
       {
         "home": {
@@ -206,8 +206,8 @@ window.MATCHUPS_DATA = {
           "team": "The Hamptons",
           "owner": "logan rezac",
           "record": "0-0",
-          "actual": 74.9,
-          "projected": 95.4,
+          "actual": 75.1,
+          "projected": 94.6,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -224,7 +224,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LAC",
               "proj": 17.6,
-              "actual": 7.4,
+              "actual": 7.6,
               "injury": null
             },
             {
@@ -301,7 +301,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "0-0",
           "actual": 66.9,
-          "projected": 121.4,
+          "projected": 120.2,
           "starters": [
             {
               "name": "James Cook III",
@@ -400,10 +400,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 8.0,
+        "margin": 8.2,
         "winner": "logan rezac",
         "phase": "recap",
-        "blurb": "Final: Isaac Douglas 66.9 - logan rezac 74.9. logan rezac won by 8.0. Top scorers for logan rezac: Steelers D/ST (19.0), Garrett Wilson (13.9)."
+        "blurb": "Final: Isaac Douglas 66.9 - logan rezac 75.1. logan rezac won by 8.2. Top scorers for logan rezac: Steelers D/ST (19.0), Garrett Wilson (13.9)."
       },
       {
         "home": {
@@ -412,8 +412,8 @@ window.MATCHUPS_DATA = {
           "team": "Osama Bin Madden",
           "owner": "Austin Carter",
           "record": "0-0",
-          "actual": 95.4,
-          "projected": 124.1,
+          "actual": 96.4,
+          "projected": 122.7,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -484,7 +484,7 @@ window.MATCHUPS_DATA = {
               "pos": "K",
               "pro": "LAC",
               "proj": 10.3,
-              "actual": 1.0,
+              "actual": 2.0,
               "injury": null
             },
             {
@@ -506,8 +506,8 @@ window.MATCHUPS_DATA = {
           "team": "I Wanna Go Fast",
           "owner": "Adam Schumacher",
           "record": "0-0",
-          "actual": 88.3,
-          "projected": 106.2,
+          "actual": 90.0,
+          "projected": 105.4,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -533,7 +533,7 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "ARI",
               "proj": 14.3,
-              "actual": 12.4,
+              "actual": 14.1,
               "injury": null
             },
             {
@@ -596,10 +596,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 7.1,
+        "margin": 6.4,
         "winner": "Austin Carter",
         "phase": "recap",
-        "blurb": "Final: Adam Schumacher 88.3 - Austin Carter 95.4. Austin Carter won by 7.1. Top scorers for Austin Carter: Josh Allen (35.7), Parker Washington (19.3)."
+        "blurb": "Final: Adam Schumacher 90.0 - Austin Carter 96.4. Austin Carter won by 6.4. Top scorers for Austin Carter: Josh Allen (35.7), Parker Washington (19.3)."
       },
       {
         "home": {
@@ -608,8 +608,8 @@ window.MATCHUPS_DATA = {
           "team": "The K9 Unit",
           "owner": "Nolan Malo",
           "record": "0-0",
-          "actual": 76.6,
-          "projected": 140.6,
+          "actual": 83.4,
+          "projected": 145.6,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -662,7 +662,7 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "GB",
               "proj": 9.0,
-              "actual": 7.3,
+              "actual": 9.5,
               "injury": null
             },
             {
@@ -671,7 +671,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "LAC",
               "proj": 19.0,
-              "actual": 6.6,
+              "actual": 11.2,
               "injury": null
             },
             {
@@ -812,10 +812,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 32.1,
+        "margin": 25.3,
         "winner": "Brady Kienitz",
         "phase": "recap",
-        "blurb": "Final: Brady Kienitz 108.7 - Nolan Malo 76.6. Brady Kienitz won by 32.1. Top scorers for Brady Kienitz: Jahmyr Gibbs (33.6), Breece Hall (19.8)."
+        "blurb": "Final: Brady Kienitz 108.7 - Nolan Malo 83.4. Brady Kienitz won by 25.3. Top scorers for Brady Kienitz: Jahmyr Gibbs (33.6), Breece Hall (19.8)."
       },
       {
         "home": {
@@ -824,8 +824,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Wieker",
           "owner": "Evan Wieker",
           "record": "0-0",
-          "actual": 114.5,
-          "projected": 138.1,
+          "actual": 125.7,
+          "projected": 147.1,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -842,7 +842,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LV",
               "proj": 17.9,
-              "actual": 15.6,
+              "actual": 28.8,
               "injury": null
             },
             {
@@ -905,7 +905,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "LAC",
               "proj": 7.4,
-              "actual": 3.0,
+              "actual": 1.0,
               "injury": null
             }
           ],
@@ -918,8 +918,8 @@ window.MATCHUPS_DATA = {
           "team": "Queen Henry",
           "owner": "Adam Biewen",
           "record": "0-0",
-          "actual": 120.0,
-          "projected": 143.0,
+          "actual": 120.7,
+          "projected": 142.0,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -972,7 +972,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "WSH",
               "proj": 16.8,
-              "actual": 3.3,
+              "actual": 4.0,
               "injury": null
             },
             {
@@ -1008,10 +1008,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 5.5,
-        "winner": "Adam Biewen",
+        "margin": 5.0,
+        "winner": "Evan Wieker",
         "phase": "recap",
-        "blurb": "Final: Adam Biewen 120.0 - Evan Wieker 114.5. Adam Biewen won by 5.5. Top scorers for Adam Biewen: Derrick Henry (35.3), Nico Collins (21.2)."
+        "blurb": "Final: Adam Biewen 120.7 - Evan Wieker 125.7. Evan Wieker won by 5.0. Top scorers for Evan Wieker: Ashton Jeanty (28.8), Jaxon Smith-Njigba (26.2)."
       }
     ],
     "2": [
@@ -1058,8 +1058,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1119,8 +1119,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1169,19 +1169,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Peter Lundquist (0-0) at Adam Biewen (0-0). Projected: Peter Lundquist 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1232,8 +1232,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1241,8 +1241,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1291,19 +1291,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Austin Carter (0-0) at Evan Wieker (0-0). Projected: Austin Carter 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1363,12 +1363,12 @@ window.MATCHUPS_DATA = {
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1426,8 +1426,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1478,19 +1478,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1539,8 +1539,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1548,8 +1548,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1600,8 +1600,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1609,8 +1609,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1663,19 +1663,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1724,8 +1724,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1785,19 +1785,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1846,8 +1846,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1907,8 +1907,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1916,8 +1916,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1970,8 +1970,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1979,8 +1979,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2031,8 +2031,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2040,8 +2040,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2090,19 +2090,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Peter Lundquist (0-0) at Evan Wieker (0-0). Projected: Peter Lundquist 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2212,19 +2212,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Adam Schumacher (0-0) at Adam Biewen (0-0). Projected: Adam Schumacher 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2277,8 +2277,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2338,8 +2338,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2397,19 +2397,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Nolan Malo (0-0) at Adam Biewen (0-0). Projected: Nolan Malo 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2458,19 +2458,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "logan rezac (0-0) at Evan Wieker (0-0). Projected: logan rezac 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2521,8 +2521,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2530,8 +2530,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2593,8 +2593,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2645,8 +2645,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2654,8 +2654,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2706,19 +2706,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2767,19 +2767,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2837,8 +2837,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2891,8 +2891,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2900,8 +2900,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2952,8 +2952,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2961,8 +2961,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3011,19 +3011,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Jordan Schommer (0-0) at Adam Biewen (0-0). Projected: Jordan Schommer 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3072,12 +3072,12 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Isaac Douglas (0-0) at Evan Wieker (0-0). Projected: Isaac Douglas 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
@@ -3135,8 +3135,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3198,8 +3198,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3207,8 +3207,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3259,8 +3259,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3268,8 +3268,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3320,8 +3320,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3329,8 +3329,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3340,8 +3340,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": false,
-          "home_pts": 88.3,
-          "away_pts": 95.4
+          "home_pts": 90.0,
+          "away_pts": 96.4
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3446,30 +3446,30 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Evan Wieker (0-0) at Adam Biewen (0-0). Projected: Evan Wieker 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
         "positional_edges": [],
         "revenge": {
           "week": 1,
-          "home_won": true,
-          "home_pts": 120.0,
-          "away_pts": 114.5
+          "home_won": false,
+          "home_pts": 120.7,
+          "away_pts": 125.7
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3517,8 +3517,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3526,8 +3526,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3587,8 +3587,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3599,7 +3599,7 @@ window.MATCHUPS_DATA = {
           "week": 1,
           "home_won": false,
           "home_pts": 66.9,
-          "away_pts": 74.9
+          "away_pts": 75.1
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3645,19 +3645,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -3715,8 +3715,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3727,7 +3727,7 @@ window.MATCHUPS_DATA = {
           "week": 1,
           "home_won": true,
           "home_pts": 108.7,
-          "away_pts": 76.6
+          "away_pts": 83.4
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3773,19 +3773,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -3843,12 +3843,12 @@ window.MATCHUPS_DATA = {
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -3897,8 +3897,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3956,19 +3956,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Adam Schumacher (0-0) at Evan Wieker (0-0). Projected: Adam Schumacher 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4019,8 +4019,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4028,8 +4028,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4080,8 +4080,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4089,8 +4089,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4150,12 +4150,12 @@ window.MATCHUPS_DATA = {
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -4204,8 +4204,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4263,19 +4263,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Austin Carter (0-0) at Adam Biewen (0-0). Projected: Austin Carter 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4326,8 +4326,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4335,8 +4335,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4387,8 +4387,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4396,8 +4396,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4450,8 +4450,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4459,8 +4459,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4520,8 +4520,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4572,19 +4572,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -4642,8 +4642,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4694,19 +4694,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -4757,8 +4757,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 119.6,
-          "recent_avg": 119.6,
+          "season_avg": 121.6,
+          "recent_avg": 121.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4766,8 +4766,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 92.7,
-          "recent_avg": 92.7,
+          "season_avg": 101.2,
+          "recent_avg": 101.2,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4777,8 +4777,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": true,
-          "home_pts": 119.6,
-          "away_pts": 92.7
+          "home_pts": 121.6,
+          "away_pts": 101.2
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -4824,8 +4824,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.0,
+          "recent_avg": 90.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4883,12 +4883,12 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Brady Kienitz (0-0) at Adam Biewen (0-0). Projected: Brady Kienitz 0 - Adam Biewen 0. Adam Biewen favored by 0.",
         "home_form": {
-          "record_last_n": "1-0",
+          "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 120.0,
-          "recent_avg": 120.0,
+          "season_avg": 120.7,
+          "recent_avg": 120.7,
           "streak": 1,
-          "streak_type": "W",
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
@@ -4944,19 +4944,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Nolan Malo (0-0) at Evan Wieker (0-0). Projected: Nolan Malo 0 - Evan Wieker 0. Evan Wieker favored by 0.",
         "home_form": {
-          "record_last_n": "0-1",
+          "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 114.5,
-          "recent_avg": 114.5,
+          "season_avg": 125.7,
+          "recent_avg": 125.7,
           "streak": 1,
-          "streak_type": "L",
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 76.6,
-          "recent_avg": 76.6,
+          "season_avg": 83.4,
+          "recent_avg": 83.4,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -5007,8 +5007,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 95.4,
-          "recent_avg": 95.4,
+          "season_avg": 96.4,
+          "recent_avg": 96.4,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -5016,8 +5016,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 74.9,
-          "recent_avg": 74.9,
+          "season_avg": 75.1,
+          "recent_avg": 75.1,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
