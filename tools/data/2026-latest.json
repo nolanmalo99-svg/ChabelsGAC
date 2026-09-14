@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-14T03:27:40+00:00",
+  "generated_at": "2026-09-14T03:44:07+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -9281,9 +9281,9 @@
           "pos": "QB",
           "pro": "NYG",
           "proj": 18.5,
-          "actual": 26.7,
-          "season_ppg": 26.7,
-          "season_total": 26.7,
+          "actual": 26.6,
+          "season_ppg": 26.6,
+          "season_total": 26.6,
           "games_played": 1,
           "preseason_proj_total": 132.2,
           "starter": true,
@@ -9529,7 +9529,7 @@
           "pick_in_round": 2,
           "overall_pick": 92,
           "bid_amount": null,
-          "points": 26.7,
+          "points": 26.6,
           "value_diff": 77,
           "dropped": false
         },
@@ -9662,7 +9662,7 @@
             "pick_in_round": 2,
             "overall_pick": 92,
             "bid_amount": null,
-            "points": 26.7,
+            "points": 26.6,
             "value_diff": 77,
             "dropped": false
           },
@@ -10659,7 +10659,7 @@
             "pick_in_round": 2,
             "overall_pick": 92,
             "bid_amount": null,
-            "points": 26.7,
+            "points": 26.6,
             "value_diff": 77,
             "dropped": false
           },
@@ -10792,7 +10792,7 @@
               "pick_in_round": 2,
               "overall_pick": 92,
               "bid_amount": null,
-              "points": 26.7,
+              "points": 26.6,
               "value_diff": 77,
               "dropped": false
             },
