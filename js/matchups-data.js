@@ -216,8 +216,8 @@ window.MATCHUPS_DATA = {
           "team": "The Hamptons",
           "owner": "logan rezac",
           "record": "0-0",
-          "actual": 83.4,
-          "projected": 94.2,
+          "actual": 83.5,
+          "projected": 92.7,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -261,7 +261,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "NYG",
               "proj": 13.7,
-              "actual": 7.6,
+              "actual": 7.7,
               "injury": null
             },
             {
@@ -310,8 +310,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Douglas",
           "owner": "Isaac Douglas",
           "record": "0-0",
-          "actual": 88.3,
-          "projected": 124.2,
+          "actual": 90.5,
+          "projected": 121.1,
           "starters": [
             {
               "name": "James Cook III",
@@ -346,7 +346,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "NYG",
               "proj": 12.7,
-              "actual": 1.9,
+              "actual": 3.6,
               "injury": null
             },
             {
@@ -373,7 +373,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "NYG",
               "proj": 18.5,
-              "actual": 3.2,
+              "actual": 3.7,
               "injury": null
             },
             {
@@ -400,10 +400,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 4.9,
+        "margin": 7.0,
         "winner": "Isaac Douglas",
         "phase": "recap",
-        "blurb": "Final: Isaac Douglas 88.3 - logan rezac 83.4. Isaac Douglas won by 4.9. Top scorers for Isaac Douglas: D'Andre Swift (32.4), Justin Jefferson (31.2)."
+        "blurb": "Final: Isaac Douglas 90.5 - logan rezac 83.5. Isaac Douglas won by 7.0. Top scorers for Isaac Douglas: D'Andre Swift (32.4), Justin Jefferson (31.2)."
       },
       {
         "home": {
@@ -413,7 +413,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "0-0",
           "actual": 96.8,
-          "projected": 110.3,
+          "projected": 108.3,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -608,8 +608,8 @@ window.MATCHUPS_DATA = {
           "team": "The K9 Unit",
           "owner": "Nolan Malo",
           "record": "0-0",
-          "actual": 86.5,
-          "projected": 133.2,
+          "actual": 87.0,
+          "projected": 130.7,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -635,7 +635,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "DAL",
               "proj": 15.3,
-              "actual": 1.0,
+              "actual": 1.5,
               "injury": null
             },
             {
@@ -812,10 +812,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 22.2,
+        "margin": 21.7,
         "winner": "Brady Kienitz",
         "phase": "recap",
-        "blurb": "Final: Brady Kienitz 108.7 - Nolan Malo 86.5. Brady Kienitz won by 22.2. Top scorers for Brady Kienitz: Jahmyr Gibbs (33.6), Breece Hall (19.8)."
+        "blurb": "Final: Brady Kienitz 108.7 - Nolan Malo 87.0. Brady Kienitz won by 21.7. Top scorers for Brady Kienitz: Jahmyr Gibbs (33.6), Breece Hall (19.8)."
       },
       {
         "home": {
@@ -918,8 +918,8 @@ window.MATCHUPS_DATA = {
           "team": "Queen Henry",
           "owner": "Adam Biewen",
           "record": "0-0",
-          "actual": 140.1,
-          "projected": 147.5,
+          "actual": 141.8,
+          "projected": 148.1,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -981,7 +981,7 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "NYG",
               "proj": 9.5,
-              "actual": 2.3,
+              "actual": 4.0,
               "injury": null
             },
             {
@@ -1008,10 +1008,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 0.2,
+        "margin": 1.9,
         "winner": "Adam Biewen",
         "phase": "recap",
-        "blurb": "Final: Adam Biewen 140.1 - Evan Wieker 139.9. Adam Biewen won by 0.2. Top scorers for Adam Biewen: Derrick Henry (35.3), Nico Collins (21.2)."
+        "blurb": "Final: Adam Biewen 141.8 - Evan Wieker 139.9. Adam Biewen won by 1.9. Top scorers for Adam Biewen: Derrick Henry (35.3), Nico Collins (21.2)."
       }
     ],
     "2": [
@@ -1049,8 +1049,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1171,8 +1171,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1232,8 +1232,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1241,8 +1241,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1365,8 +1365,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1417,8 +1417,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1426,8 +1426,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1548,8 +1548,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1663,8 +1663,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1724,8 +1724,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1794,8 +1794,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1855,8 +1855,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1970,8 +1970,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2031,8 +2031,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2162,8 +2162,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2214,8 +2214,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2286,8 +2286,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2399,8 +2399,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2408,8 +2408,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2469,8 +2469,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2645,8 +2645,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2706,8 +2706,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2715,8 +2715,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2828,8 +2828,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2900,8 +2900,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2961,8 +2961,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3013,8 +3013,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3083,8 +3083,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3198,8 +3198,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3268,8 +3268,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3387,8 +3387,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3448,8 +3448,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3468,7 +3468,7 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": true,
-          "home_pts": 140.1,
+          "home_pts": 141.8,
           "away_pts": 139.9
         },
         "fun_facts": [
@@ -3578,8 +3578,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3587,8 +3587,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3598,8 +3598,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 1,
           "home_won": true,
-          "home_pts": 88.3,
-          "away_pts": 83.4
+          "home_pts": 90.5,
+          "away_pts": 83.5
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3654,8 +3654,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3715,8 +3715,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3727,7 +3727,7 @@ window.MATCHUPS_DATA = {
           "week": 1,
           "home_won": true,
           "home_pts": 108.7,
-          "away_pts": 86.5
+          "away_pts": 87.0
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3836,8 +3836,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3845,8 +3845,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4019,8 +4019,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4028,8 +4028,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4204,8 +4204,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4213,8 +4213,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4265,8 +4265,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4326,8 +4326,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4450,8 +4450,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4520,8 +4520,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4633,8 +4633,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4703,8 +4703,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4833,8 +4833,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4885,8 +4885,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
-          "season_avg": 140.1,
-          "recent_avg": 140.1,
+          "season_avg": 141.8,
+          "recent_avg": 141.8,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4955,8 +4955,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 86.5,
-          "recent_avg": 86.5,
+          "season_avg": 87.0,
+          "recent_avg": 87.0,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -5016,8 +5016,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
-          "season_avg": 83.4,
-          "recent_avg": 83.4,
+          "season_avg": 83.5,
+          "recent_avg": 83.5,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
