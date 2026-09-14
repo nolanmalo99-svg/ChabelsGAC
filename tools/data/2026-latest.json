@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-14T00:14:23+00:00",
+  "generated_at": "2026-09-14T00:37:23+00:00",
   "current_week": 1,
   "standings": [
     {
@@ -376,10 +376,10 @@
           "pos": "RB",
           "pro": "DAL",
           "proj": 15.3,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 0.1,
+          "season_ppg": 0.1,
+          "season_total": 0.1,
+          "games_played": 1,
           "preseason_proj_total": 217.2,
           "starter": true,
           "injury": null
@@ -622,7 +622,7 @@
           "overall_pick": 13,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -111,
+          "value_diff": -117,
           "dropped": false
         },
         "picks": [
@@ -647,7 +647,7 @@
             "overall_pick": 13,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -111,
+            "value_diff": -117,
             "dropped": false
           },
           {
@@ -658,8 +658,8 @@
             "pick_in_round": 8,
             "overall_pick": 28,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -99,
+            "points": 0.1,
+            "value_diff": -100,
             "dropped": false
           },
           {
@@ -683,7 +683,7 @@
             "overall_pick": 48,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -85,
+            "value_diff": -87,
             "dropped": false
           },
           {
@@ -779,7 +779,7 @@
             "overall_pick": 128,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -22,
+            "value_diff": -23,
             "dropped": false
           },
           {
@@ -791,7 +791,7 @@
             "overall_pick": 133,
             "bid_amount": null,
             "points": 2.3,
-            "value_diff": 15,
+            "value_diff": 14,
             "dropped": false
           },
           {
@@ -1752,7 +1752,7 @@
             "overall_pick": 13,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -111,
+            "value_diff": -117,
             "dropped": false
           },
           "picks": [
@@ -1777,7 +1777,7 @@
               "overall_pick": 13,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -111,
+              "value_diff": -117,
               "dropped": false
             },
             {
@@ -1788,8 +1788,8 @@
               "pick_in_round": 8,
               "overall_pick": 28,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -99,
+              "points": 0.1,
+              "value_diff": -100,
               "dropped": false
             },
             {
@@ -1813,7 +1813,7 @@
               "overall_pick": 48,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -85,
+              "value_diff": -87,
               "dropped": false
             },
             {
@@ -1909,7 +1909,7 @@
               "overall_pick": 128,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -22,
+              "value_diff": -23,
               "dropped": false
             },
             {
@@ -1921,7 +1921,7 @@
               "overall_pick": 133,
               "bid_amount": null,
               "points": 2.3,
-              "value_diff": 15,
+              "value_diff": 14,
               "dropped": false
             },
             {
@@ -2747,7 +2747,7 @@
             "overall_pick": 61,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -73,
+            "value_diff": -75,
             "dropped": false
           },
           {
@@ -2795,7 +2795,7 @@
             "overall_pick": 101,
             "bid_amount": null,
             "points": 1.4,
-            "value_diff": -19,
+            "value_diff": -22,
             "dropped": false
           },
           {
@@ -2807,7 +2807,7 @@
             "overall_pick": 120,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -27,
+            "value_diff": -28,
             "dropped": false
           },
           {
@@ -3877,7 +3877,7 @@
               "overall_pick": 61,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -73,
+              "value_diff": -75,
               "dropped": false
             },
             {
@@ -3925,7 +3925,7 @@
               "overall_pick": 101,
               "bid_amount": null,
               "points": 1.4,
-              "value_diff": -19,
+              "value_diff": -22,
               "dropped": false
             },
             {
@@ -3937,7 +3937,7 @@
               "overall_pick": 120,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -27,
+              "value_diff": -28,
               "dropped": false
             },
             {
@@ -4356,8 +4356,8 @@
         }
       ],
       "draft": {
-        "grade": "D",
-        "league_rank": 9,
+        "grade": "F",
+        "league_rank": 10,
         "league_size": 10,
         "draft_type": "SNAKE",
         "mode": "actual",
@@ -4382,7 +4382,7 @@
           "overall_pick": 65,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -71,
+          "value_diff": -73,
           "dropped": false
         },
         "picks": [
@@ -4467,7 +4467,7 @@
             "overall_pick": 65,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -71,
+            "value_diff": -73,
             "dropped": false
           },
           {
@@ -4491,7 +4491,7 @@
             "overall_pick": 85,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -53,
+            "value_diff": -55,
             "dropped": false
           },
           {
@@ -4503,7 +4503,7 @@
             "overall_pick": 96,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -45,
+            "value_diff": -46,
             "dropped": false
           },
           {
@@ -4527,7 +4527,7 @@
             "overall_pick": 116,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -28,
+            "value_diff": -29,
             "dropped": false
           },
           {
@@ -4539,7 +4539,7 @@
             "overall_pick": 125,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -24,
+            "value_diff": -25,
             "dropped": true
           },
           {
@@ -4551,7 +4551,7 @@
             "overall_pick": 136,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -16,
+            "value_diff": -17,
             "dropped": false
           },
           {
@@ -5486,8 +5486,8 @@
           "season": 2025
         },
         {
-          "grade": "D",
-          "league_rank": 9,
+          "grade": "F",
+          "league_rank": 10,
           "league_size": 10,
           "draft_type": "SNAKE",
           "mode": "actual",
@@ -5512,7 +5512,7 @@
             "overall_pick": 65,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -71,
+            "value_diff": -73,
             "dropped": false
           },
           "picks": [
@@ -5597,7 +5597,7 @@
               "overall_pick": 65,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -71,
+              "value_diff": -73,
               "dropped": false
             },
             {
@@ -5621,7 +5621,7 @@
               "overall_pick": 85,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -53,
+              "value_diff": -55,
               "dropped": false
             },
             {
@@ -5633,7 +5633,7 @@
               "overall_pick": 96,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -45,
+              "value_diff": -46,
               "dropped": false
             },
             {
@@ -5657,7 +5657,7 @@
               "overall_pick": 116,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -28,
+              "value_diff": -29,
               "dropped": false
             },
             {
@@ -5669,7 +5669,7 @@
               "overall_pick": 125,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -24,
+              "value_diff": -25,
               "dropped": true
             },
             {
@@ -5681,7 +5681,7 @@
               "overall_pick": 136,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -16,
+              "value_diff": -17,
               "dropped": false
             },
             {
@@ -5976,10 +5976,10 @@
           "pos": "QB",
           "pro": "DAL",
           "proj": 16.7,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 0.3,
+          "season_ppg": 0.3,
+          "season_total": 0.3,
+          "games_played": 1,
           "preseason_proj_total": 285.8,
           "starter": false,
           "injury": null
@@ -6102,7 +6102,7 @@
           "overall_pick": 22,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -103,
+          "value_diff": -109,
           "dropped": false
         },
         "picks": [
@@ -6139,7 +6139,7 @@
             "overall_pick": 22,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -103,
+            "value_diff": -109,
             "dropped": false
           },
           {
@@ -6235,7 +6235,7 @@
             "overall_pick": 102,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -40,
+            "value_diff": -41,
             "dropped": false
           },
           {
@@ -6247,7 +6247,7 @@
             "overall_pick": 119,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -27,
+            "value_diff": -28,
             "dropped": false
           },
           {
@@ -6259,7 +6259,7 @@
             "overall_pick": 122,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -26,
+            "value_diff": -27,
             "dropped": false
           },
           {
@@ -6270,8 +6270,8 @@
             "pick_in_round": 9,
             "overall_pick": 139,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -15,
+            "points": 0.3,
+            "value_diff": 12,
             "dropped": false
           },
           {
@@ -7232,7 +7232,7 @@
             "overall_pick": 22,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -103,
+            "value_diff": -109,
             "dropped": false
           },
           "picks": [
@@ -7269,7 +7269,7 @@
               "overall_pick": 22,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -103,
+              "value_diff": -109,
               "dropped": false
             },
             {
@@ -7365,7 +7365,7 @@
               "overall_pick": 102,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -40,
+              "value_diff": -41,
               "dropped": false
             },
             {
@@ -7377,7 +7377,7 @@
               "overall_pick": 119,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -27,
+              "value_diff": -28,
               "dropped": false
             },
             {
@@ -7389,7 +7389,7 @@
               "overall_pick": 122,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -26,
+              "value_diff": -27,
               "dropped": false
             },
             {
@@ -7400,8 +7400,8 @@
               "pick_in_round": 9,
               "overall_pick": 139,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -15,
+              "points": 0.3,
+              "value_diff": 12,
               "dropped": false
             },
             {
@@ -7822,7 +7822,7 @@
           "overall_pick": 64,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -71,
+          "value_diff": -73,
           "dropped": false
         },
         "picks": [
@@ -7907,7 +7907,7 @@
             "overall_pick": 64,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -71,
+            "value_diff": -73,
             "dropped": false
           },
           {
@@ -7955,7 +7955,7 @@
             "overall_pick": 104,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -39,
+            "value_diff": -40,
             "dropped": false
           },
           {
@@ -7967,7 +7967,7 @@
             "overall_pick": 117,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -28,
+            "value_diff": -29,
             "dropped": false
           },
           {
@@ -8952,7 +8952,7 @@
             "overall_pick": 64,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -71,
+            "value_diff": -73,
             "dropped": false
           },
           "picks": [
@@ -9037,7 +9037,7 @@
               "overall_pick": 64,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -71,
+              "value_diff": -73,
               "dropped": false
             },
             {
@@ -9085,7 +9085,7 @@
               "overall_pick": 104,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -39,
+              "value_diff": -40,
               "dropped": false
             },
             {
@@ -9097,7 +9097,7 @@
               "overall_pick": 117,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -28,
+              "value_diff": -29,
               "dropped": false
             },
             {
@@ -9281,10 +9281,10 @@
           "pos": "QB",
           "pro": "NYG",
           "proj": 18.5,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 2.7,
+          "season_ppg": 2.7,
+          "season_total": 2.7,
+          "games_played": 1,
           "preseason_proj_total": 132.2,
           "starter": true,
           "injury": null
@@ -9341,10 +9341,10 @@
           "pos": "WR",
           "pro": "DAL",
           "proj": 14.7,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 1.8,
+          "season_ppg": 1.8,
+          "season_total": 1.8,
+          "games_played": 1,
           "preseason_proj_total": 221.4,
           "starter": true,
           "injury": null
@@ -9371,10 +9371,10 @@
           "pos": "WR",
           "pro": "NYG",
           "proj": 12.7,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 1.9,
+          "season_ppg": 1.9,
+          "season_total": 1.9,
+          "games_played": 1,
           "preseason_proj_total": 301.4,
           "starter": true,
           "injury": null
@@ -9516,8 +9516,8 @@
         }
       ],
       "draft": {
-        "grade": "F",
-        "league_rank": 10,
+        "grade": "D",
+        "league_rank": 9,
         "league_size": 10,
         "draft_type": "SNAKE",
         "mode": "actual",
@@ -9541,8 +9541,8 @@
           "pick_in_round": 9,
           "overall_pick": 29,
           "bid_amount": null,
-          "points": 0.0,
-          "value_diff": -99,
+          "points": 1.8,
+          "value_diff": -93,
           "dropped": false
         },
         "picks": [
@@ -9578,8 +9578,8 @@
             "pick_in_round": 9,
             "overall_pick": 29,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -99,
+            "points": 1.8,
+            "value_diff": -93,
             "dropped": false
           },
           {
@@ -9590,8 +9590,8 @@
             "pick_in_round": 2,
             "overall_pick": 32,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -98,
+            "points": 1.9,
+            "value_diff": -89,
             "dropped": false
           },
           {
@@ -9627,7 +9627,7 @@
             "overall_pick": 69,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -68,
+            "value_diff": -70,
             "dropped": false
           },
           {
@@ -9662,8 +9662,8 @@
             "pick_in_round": 2,
             "overall_pick": 92,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -47,
+            "points": 2.7,
+            "value_diff": -25,
             "dropped": false
           },
           {
@@ -9687,7 +9687,7 @@
             "overall_pick": 112,
             "bid_amount": null,
             "points": 2.5,
-            "value_diff": -5,
+            "value_diff": -6,
             "dropped": false
           },
           {
@@ -9699,7 +9699,7 @@
             "overall_pick": 129,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -22,
+            "value_diff": -23,
             "dropped": false
           },
           {
@@ -9735,7 +9735,7 @@
             "overall_pick": 152,
             "bid_amount": null,
             "points": 1.0,
-            "value_diff": 30,
+            "value_diff": 27,
             "dropped": false
           }
         ]
@@ -10646,8 +10646,8 @@
           "season": 2025
         },
         {
-          "grade": "F",
-          "league_rank": 10,
+          "grade": "D",
+          "league_rank": 9,
           "league_size": 10,
           "draft_type": "SNAKE",
           "mode": "actual",
@@ -10671,8 +10671,8 @@
             "pick_in_round": 9,
             "overall_pick": 29,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -99,
+            "points": 1.8,
+            "value_diff": -93,
             "dropped": false
           },
           "picks": [
@@ -10708,8 +10708,8 @@
               "pick_in_round": 9,
               "overall_pick": 29,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -99,
+              "points": 1.8,
+              "value_diff": -93,
               "dropped": false
             },
             {
@@ -10720,8 +10720,8 @@
               "pick_in_round": 2,
               "overall_pick": 32,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -98,
+              "points": 1.9,
+              "value_diff": -89,
               "dropped": false
             },
             {
@@ -10757,7 +10757,7 @@
               "overall_pick": 69,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -68,
+              "value_diff": -70,
               "dropped": false
             },
             {
@@ -10792,8 +10792,8 @@
               "pick_in_round": 2,
               "overall_pick": 92,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -47,
+              "points": 2.7,
+              "value_diff": -25,
               "dropped": false
             },
             {
@@ -10817,7 +10817,7 @@
               "overall_pick": 112,
               "bid_amount": null,
               "points": 2.5,
-              "value_diff": -5,
+              "value_diff": -6,
               "dropped": false
             },
             {
@@ -10829,7 +10829,7 @@
               "overall_pick": 129,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -22,
+              "value_diff": -23,
               "dropped": false
             },
             {
@@ -10865,7 +10865,7 @@
               "overall_pick": 152,
               "bid_amount": null,
               "points": 1.0,
-              "value_diff": 30,
+              "value_diff": 27,
               "dropped": false
             }
           ],
@@ -11351,10 +11351,10 @@
           "pos": "RB",
           "pro": "NYG",
           "proj": 13.7,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 0,
+          "actual": 0.5,
+          "season_ppg": 0.5,
+          "season_total": 0.5,
+          "games_played": 1,
           "preseason_proj_total": 139.3,
           "starter": true,
           "injury": null
@@ -11642,8 +11642,8 @@
             "pick_in_round": 3,
             "overall_pick": 43,
             "bid_amount": null,
-            "points": 0.0,
-            "value_diff": -88,
+            "points": 0.5,
+            "value_diff": -83,
             "dropped": false
           },
           {
@@ -11751,7 +11751,7 @@
             "overall_pick": 138,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -15,
+            "value_diff": -16,
             "dropped": false
           },
           {
@@ -12772,8 +12772,8 @@
               "pick_in_round": 3,
               "overall_pick": 43,
               "bid_amount": null,
-              "points": 0.0,
-              "value_diff": -88,
+              "points": 0.5,
+              "value_diff": -83,
               "dropped": false
             },
             {
@@ -12881,7 +12881,7 @@
               "overall_pick": 138,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -15,
+              "value_diff": -16,
               "dropped": false
             },
             {
@@ -13302,7 +13302,7 @@
           "overall_pick": 10,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -113,
+          "value_diff": -119,
           "dropped": false
         },
         "picks": [
@@ -13315,7 +13315,7 @@
             "overall_pick": 10,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -113,
+            "value_diff": -119,
             "dropped": false
           },
           {
@@ -13339,7 +13339,7 @@
             "overall_pick": 30,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -99,
+            "value_diff": -103,
             "dropped": false
           },
           {
@@ -13459,7 +13459,7 @@
             "overall_pick": 130,
             "bid_amount": null,
             "points": 2.0,
-            "value_diff": 11,
+            "value_diff": 10,
             "dropped": false
           },
           {
@@ -14432,7 +14432,7 @@
             "overall_pick": 10,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -113,
+            "value_diff": -119,
             "dropped": false
           },
           "picks": [
@@ -14445,7 +14445,7 @@
               "overall_pick": 10,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -113,
+              "value_diff": -119,
               "dropped": false
             },
             {
@@ -14469,7 +14469,7 @@
               "overall_pick": 30,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -99,
+              "value_diff": -103,
               "dropped": false
             },
             {
@@ -14589,7 +14589,7 @@
               "overall_pick": 130,
               "bid_amount": null,
               "points": 2.0,
-              "value_diff": 11,
+              "value_diff": 10,
               "dropped": false
             },
             {
@@ -15357,7 +15357,7 @@
           "overall_pick": 47,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -85,
+          "value_diff": -87,
           "dropped": false
         },
         "picks": [
@@ -15418,7 +15418,7 @@
             "overall_pick": 47,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -85,
+            "value_diff": -87,
             "dropped": false
           },
           {
@@ -15538,7 +15538,7 @@
             "overall_pick": 147,
             "bid_amount": null,
             "points": 1.0,
-            "value_diff": 26,
+            "value_diff": 23,
             "dropped": false
           },
           {
@@ -16487,7 +16487,7 @@
             "overall_pick": 47,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -85,
+            "value_diff": -87,
             "dropped": false
           },
           "picks": [
@@ -16548,7 +16548,7 @@
               "overall_pick": 47,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -85,
+              "value_diff": -87,
               "dropped": false
             },
             {
@@ -16668,7 +16668,7 @@
               "overall_pick": 147,
               "bid_amount": null,
               "points": 1.0,
-              "value_diff": 26,
+              "value_diff": 23,
               "dropped": false
             },
             {
@@ -17053,7 +17053,7 @@
           "overall_pick": 26,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -100,
+          "value_diff": -106,
           "dropped": false
         },
         "picks": [
@@ -17090,7 +17090,7 @@
             "overall_pick": 26,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -100,
+            "value_diff": -106,
             "dropped": false
           },
           {
@@ -17174,7 +17174,7 @@
             "overall_pick": 95,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -45,
+            "value_diff": -46,
             "dropped": false
           },
           {
@@ -17957,7 +17957,7 @@
             "overall_pick": 26,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -100,
+            "value_diff": -106,
             "dropped": false
           },
           "picks": [
@@ -17994,7 +17994,7 @@
               "overall_pick": 26,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -100,
+              "value_diff": -106,
               "dropped": false
             },
             {
@@ -18078,7 +18078,7 @@
               "overall_pick": 95,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -45,
+              "value_diff": -46,
               "dropped": false
             },
             {
