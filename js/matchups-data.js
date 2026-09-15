@@ -1206,7 +1206,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "0-1",
           "actual": 0.0,
-          "projected": 120.4,
+          "projected": 121.8,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1245,20 +1245,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Cam Skattebo",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NYG",
-              "proj": 12.3,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Drake Maye",
               "slot": "QB",
               "pos": "QB",
               "pro": "NE",
               "proj": 18.1,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Bucky Irving",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "TB",
+              "proj": 13.7,
               "actual": 0.0,
               "injury": null
             },
@@ -1290,7 +1290,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 77.9,
+          "bench_proj": 76.5,
           "injuries": []
         },
         "played": false,
@@ -1298,7 +1298,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "logan rezac (0-1) at Nolan Malo (1-0). Projected: logan rezac 120.4 - Nolan Malo 131.9. Nolan Malo favored by 11.5.",
+        "blurb": "logan rezac (0-1) at Nolan Malo (1-0). Projected: logan rezac 121.8 - Nolan Malo 131.9. Nolan Malo favored by 10.1.",
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
@@ -1381,7 +1381,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 49.3,
-            "away_proj": 28.3,
+            "away_proj": 29.7,
             "edge": "home"
           },
           {
@@ -1509,7 +1509,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "1-0",
           "actual": 0.0,
-          "projected": 122.8,
+          "projected": 125.5,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -1539,15 +1539,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Luther Burden III",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "CHI",
-              "proj": 12.5,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Tyler Warren",
               "slot": "TE",
               "pos": "TE",
@@ -1566,11 +1557,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Tony Pollard",
+              "name": "Christian Watson",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "GB",
+              "proj": 12.3,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Chuba Hubbard",
               "slot": "RB",
               "pos": "RB",
-              "pro": "TEN",
-              "proj": 11.3,
+              "pro": "CAR",
+              "proj": 14.3,
               "actual": 0.0,
               "injury": null
             },
@@ -1593,7 +1593,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.1,
+          "bench_proj": 64.3,
           "injuries": []
         },
         "played": false,
@@ -1601,7 +1601,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (1-0) at Evan Wieker (0-1). Projected: Austin Carter 122.8 - Evan Wieker 116.2. Austin Carter favored by 6.6.",
+        "blurb": "Austin Carter (1-0) at Evan Wieker (0-1). Projected: Austin Carter 125.5 - Evan Wieker 116.2. Austin Carter favored by 9.3.",
         "home_form": {
           "record_last_n": "0-1",
           "games_considered": 1,
@@ -1684,8 +1684,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 31.3,
-            "away_proj": 28.3,
-            "edge": "home"
+            "away_proj": 31.3,
+            "edge": "even"
           },
           {
             "pos": "TE",
@@ -1696,7 +1696,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 42.2,
-            "away_proj": 43.0,
+            "away_proj": 42.8,
             "edge": "even"
           }
         ],
