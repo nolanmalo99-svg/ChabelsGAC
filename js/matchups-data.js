@@ -351,7 +351,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 53.2,
+          "bench_proj": 54.2,
           "injuries": []
         },
         "played": false,
@@ -1186,7 +1186,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 72.3,
+          "bench_proj": 70.0,
           "injuries": [
             {
               "name": "Zay Flowers",

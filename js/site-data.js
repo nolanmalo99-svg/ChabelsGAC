@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-16T04:09:54+00:00",
+  "generated_at": "2026-09-16T08:10:25+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -13,7 +13,7 @@ window.SITE_DATA = {
       "record": "1-0",
       "pf": 165.6,
       "pa": 146.9,
-      "waiver_rank": 10
+      "waiver_rank": 8
     },
     {
       "team_id": 1,
@@ -23,7 +23,7 @@ window.SITE_DATA = {
       "record": "1-0",
       "pf": 147.0,
       "pa": 108.7,
-      "waiver_rank": 9
+      "waiver_rank": 10
     },
     {
       "team_id": 12,
@@ -33,7 +33,7 @@ window.SITE_DATA = {
       "record": "1-0",
       "pf": 125.7,
       "pa": 123.8,
-      "waiver_rank": 8
+      "waiver_rank": 7
     },
     {
       "team_id": 7,
@@ -43,7 +43,7 @@ window.SITE_DATA = {
       "record": "1-0",
       "pf": 124.8,
       "pa": 89.9,
-      "waiver_rank": 7
+      "waiver_rank": 6
     },
     {
       "team_id": 10,
@@ -53,7 +53,7 @@ window.SITE_DATA = {
       "record": "1-0",
       "pf": 112.2,
       "pa": 106.1,
-      "waiver_rank": 6
+      "waiver_rank": 5
     },
     {
       "team_id": 13,
@@ -63,7 +63,7 @@ window.SITE_DATA = {
       "record": "0-1",
       "pf": 146.9,
       "pa": 165.6,
-      "waiver_rank": 5
+      "waiver_rank": 4
     },
     {
       "team_id": 5,
@@ -73,7 +73,7 @@ window.SITE_DATA = {
       "record": "0-1",
       "pf": 123.8,
       "pa": 125.7,
-      "waiver_rank": 4
+      "waiver_rank": 3
     },
     {
       "team_id": 3,
@@ -83,7 +83,7 @@ window.SITE_DATA = {
       "record": "0-1",
       "pf": 108.7,
       "pa": 147.0,
-      "waiver_rank": 3
+      "waiver_rank": 2
     },
     {
       "team_id": 4,
@@ -93,7 +93,7 @@ window.SITE_DATA = {
       "record": "0-1",
       "pf": 106.1,
       "pa": 112.2,
-      "waiver_rank": 2
+      "waiver_rank": 9
     },
     {
       "team_id": 9,
@@ -113,48 +113,48 @@ window.SITE_DATA = {
       "waiver_rank": 1
     },
     {
-      "owner": "Adam Schumacher",
-      "team": "I Wanna Go Fast",
-      "waiver_rank": 2
-    },
-    {
       "owner": "Brady Kienitz",
       "team": "Tyreek's Condom",
-      "waiver_rank": 3
+      "waiver_rank": 2
     },
     {
       "owner": "Jordan Schommer",
       "team": "Schommer",
-      "waiver_rank": 4
+      "waiver_rank": 3
     },
     {
       "owner": "Evan Wieker",
       "team": "Team Wieker",
-      "waiver_rank": 5
+      "waiver_rank": 4
     },
     {
       "owner": "Austin Carter",
       "team": "Osama Bin Madden",
-      "waiver_rank": 6
+      "waiver_rank": 5
     },
     {
       "owner": "Isaac Douglas",
       "team": "Team Douglas",
-      "waiver_rank": 7
+      "waiver_rank": 6
     },
     {
       "owner": "Peter Lundquist",
       "team": "Rebound, Execute, Defend",
-      "waiver_rank": 8
-    },
-    {
-      "owner": "Nolan Malo",
-      "team": "The K9 Unit",
-      "waiver_rank": 9
+      "waiver_rank": 7
     },
     {
       "owner": "Adam Biewen",
       "team": "Queen Henry",
+      "waiver_rank": 8
+    },
+    {
+      "owner": "Adam Schumacher",
+      "team": "I Wanna Go Fast",
+      "waiver_rank": 9
+    },
+    {
+      "owner": "Nolan Malo",
+      "team": "The K9 Unit",
       "waiver_rank": 10
     }
   ],
@@ -520,21 +520,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4429023,
-          "name": "MarShawn Lloyd",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "GB",
-          "proj": 11.2,
-          "actual": 0.0,
-          "season_ppg": 3.7,
-          "season_total": 3.7,
-          "games_played": 1,
-          "preseason_proj_total": 53.6,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 2976212,
           "name": "Stefon Diggs",
           "slot": "BE",
@@ -576,6 +561,21 @@ window.SITE_DATA = {
           "season_total": 18.0,
           "games_played": 1,
           "preseason_proj_total": 146.8,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4869645,
+          "name": "Caleb Douglas",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "MIA",
+          "proj": 8.9,
+          "actual": 0.0,
+          "season_ppg": 14.4,
+          "season_total": 14.4,
+          "games_played": 1,
+          "preseason_proj_total": 144.5,
           "starter": false,
           "injury": null
         },
@@ -4310,17 +4310,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4360939,
-          "name": "Rashod Bateman",
+          "player_id": 4696044,
+          "name": "Kaelon Black",
           "slot": "BE",
-          "pos": "WR",
-          "pro": "BAL",
-          "proj": 7.4,
+          "pos": "RB",
+          "pro": "SF",
+          "proj": 8.4,
           "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
+          "season_ppg": 8.0,
+          "season_total": 8.0,
           "games_played": 1,
-          "preseason_proj_total": 136.0,
+          "preseason_proj_total": 114.3,
           "starter": false,
           "injury": null
         },
@@ -4568,15 +4568,15 @@ window.SITE_DATA = {
           },
           {
             "name": "Rashod Bateman",
-            "pos": "WR",
-            "pro": "BAL",
+            "pos": "?",
+            "pro": "?",
             "round": 16,
             "pick_in_round": 6,
             "overall_pick": 156,
             "bid_amount": null,
             "points": 0.0,
             "value_diff": -2,
-            "dropped": false
+            "dropped": true
           }
         ]
       },
@@ -5698,15 +5698,15 @@ window.SITE_DATA = {
             },
             {
               "name": "Rashod Bateman",
-              "pos": "WR",
-              "pro": "BAL",
+              "pos": "?",
+              "pro": "?",
               "round": 16,
               "pick_in_round": 6,
               "overall_pick": 156,
               "bid_amount": null,
               "points": 0.0,
               "value_diff": -2,
-              "dropped": false
+              "dropped": true
             }
           ],
           "season": 2026
