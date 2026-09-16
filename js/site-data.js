@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-16T08:10:25+00:00",
+  "generated_at": "2026-09-16T12:12:55+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -15165,17 +15165,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4569987,
-          "name": "Jaylen Warren",
+          "player_id": 3116165,
+          "name": "Chris Godwin Jr.",
           "slot": "FLEX",
-          "pos": "RB",
-          "pro": "PIT",
-          "proj": 11.4,
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 10.0,
           "actual": 0.0,
-          "season_ppg": 10.3,
-          "season_total": 10.3,
+          "season_ppg": 8.3,
+          "season_total": 8.3,
           "games_played": 1,
-          "preseason_proj_total": 250.2,
+          "preseason_proj_total": 187.6,
           "starter": true,
           "injury": null
         },
@@ -15225,6 +15225,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4569987,
+          "name": "Jaylen Warren",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "PIT",
+          "proj": 11.4,
+          "actual": 0.0,
+          "season_ppg": 10.3,
+          "season_total": 10.3,
+          "games_played": 1,
+          "preseason_proj_total": 250.2,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4429025,
           "name": "Quentin Johnston",
           "slot": "BE",
@@ -15236,21 +15251,6 @@ window.SITE_DATA = {
           "season_total": 3.7,
           "games_played": 1,
           "preseason_proj_total": 163.9,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 3116165,
-          "name": "Chris Godwin Jr.",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "TB",
-          "proj": 10.0,
-          "actual": 0.0,
-          "season_ppg": 8.3,
-          "season_total": 8.3,
-          "games_played": 1,
-          "preseason_proj_total": 187.6,
           "starter": false,
           "injury": null
         },

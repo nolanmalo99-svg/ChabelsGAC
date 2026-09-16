@@ -893,7 +893,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "1-0",
           "actual": 0.0,
-          "projected": 123.6,
+          "projected": 122.2,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -950,11 +950,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Jaylen Warren",
+              "name": "Chris Godwin Jr.",
               "slot": "FLEX",
-              "pos": "RB",
-              "pro": "PIT",
-              "proj": 11.4,
+              "pos": "WR",
+              "pro": "TB",
+              "proj": 10.0,
               "actual": 0.0,
               "injury": null
             },
@@ -977,7 +977,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 65.0,
+          "bench_proj": 66.4,
           "injuries": []
         },
         "played": false,
@@ -985,7 +985,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 123.6 - Adam Biewen 126.3. Adam Biewen favored by 2.7.",
+        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 122.2 - Adam Biewen 126.3. Adam Biewen favored by 4.1.",
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
@@ -1068,7 +1068,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 29.3,
-            "away_proj": 45.1,
+            "away_proj": 33.7,
             "edge": "away"
           },
           {
@@ -1080,7 +1080,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 50.0,
-            "away_proj": 29.8,
+            "away_proj": 39.8,
             "edge": "home"
           }
         ],
