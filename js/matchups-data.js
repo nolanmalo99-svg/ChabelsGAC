@@ -530,7 +530,7 @@ window.MATCHUPS_DATA = {
               "pro": "CIN",
               "proj": 16.6,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Mark Andrews",
@@ -570,6 +570,15 @@ window.MATCHUPS_DATA = {
               "proj": 0.0,
               "actual": 0.0,
               "injury": "INJURY_RESERVE"
+            },
+            {
+              "name": "Joe Burrow",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "CIN",
+              "proj": 16.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             }
           ]
         },
@@ -739,7 +748,7 @@ window.MATCHUPS_DATA = {
             "pro": "CIN",
             "proj": 16.6,
             "actual": 0.0,
-            "injury": null,
+            "injury": "QUESTIONABLE",
             "owner": "Brady Kienitz"
           }
         ],
