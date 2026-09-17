@@ -858,7 +858,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Nico Collins",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "HOU",
               "proj": 16.2,
@@ -876,7 +876,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Terry McLaurin",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "WSH",
               "proj": 12.6,
@@ -924,7 +924,7 @@ window.MATCHUPS_DATA = {
           "injuries": [
             {
               "name": "Nico Collins",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "HOU",
               "proj": 16.2,
@@ -967,7 +967,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 15.8,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "DeVonta Smith",
@@ -1025,7 +1025,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 66.7,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Chris Olave",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "NO",
+              "proj": 15.8,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,

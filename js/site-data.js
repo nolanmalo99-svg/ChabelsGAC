@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-17T20:10:34+00:00",
+  "generated_at": "2026-09-17T23:06:36+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -4307,7 +4307,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 113.5,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360939,
@@ -7615,19 +7615,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4258173,
-          "name": "Nico Collins",
+          "player_id": 3121422,
+          "name": "Terry McLaurin",
           "slot": "WR",
           "pos": "WR",
-          "pro": "HOU",
-          "proj": 16.2,
+          "pro": "WSH",
+          "proj": 12.6,
           "actual": 0.0,
-          "season_ppg": 21.2,
-          "season_total": 21.2,
+          "season_ppg": 3.4,
+          "season_total": 3.4,
           "games_played": 1,
-          "preseason_proj_total": 289.1,
+          "preseason_proj_total": 247.7,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4361050,
@@ -7645,19 +7645,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3121422,
-          "name": "Terry McLaurin",
+          "player_id": 4258173,
+          "name": "Nico Collins",
           "slot": "FLEX",
           "pos": "WR",
-          "pro": "WSH",
-          "proj": 12.6,
+          "pro": "HOU",
+          "proj": 16.2,
           "actual": 0.0,
-          "season_ppg": 3.4,
-          "season_total": 3.4,
+          "season_ppg": 21.2,
+          "season_total": 21.2,
           "games_played": 1,
-          "preseason_proj_total": 247.7,
+          "preseason_proj_total": 289.1,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16026,
@@ -15147,7 +15147,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 209.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4241478,
