@@ -218,7 +218,7 @@ window.MATCHUPS_DATA = {
               "pro": "CHI",
               "proj": 13.4,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kyle Pitts Sr.",
@@ -258,7 +258,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 80.8,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "D'Andre Swift",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "CHI",
+              "proj": 13.4,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 4,
@@ -652,7 +662,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 10.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Broncos D/ST",
@@ -670,7 +680,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 9.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             }
           ],
           "bench_proj": 72.6,
@@ -681,6 +691,24 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "LAC",
               "proj": 14.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "George Kittle",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "SF",
+              "proj": 10.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Eddy Pineiro",
+              "slot": "K",
+              "pos": "K",
+              "pro": "SF",
+              "proj": 9.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -835,7 +863,7 @@ window.MATCHUPS_DATA = {
               "pro": "HOU",
               "proj": 16.2,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Travis Etienne Jr.",
@@ -893,7 +921,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 77.2,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Nico Collins",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "HOU",
+              "proj": 16.2,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 12,

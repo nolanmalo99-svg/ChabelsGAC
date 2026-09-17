@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-16T20:10:45+00:00",
+  "generated_at": "2026-09-17T00:12:33+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -5922,7 +5922,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 227.7,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4612826,
@@ -5967,7 +5967,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 0.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 2577417,
@@ -6012,7 +6012,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 70.9,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 15847,
@@ -7627,7 +7627,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 289.1,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361050,
@@ -7717,7 +7717,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 201.1,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360569,
@@ -7747,7 +7747,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 207.3,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360761,
@@ -7777,7 +7777,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 223.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4373626,
@@ -9317,7 +9317,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 226.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4262921,
@@ -9482,7 +9482,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 51.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4870795,
@@ -11507,7 +11507,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 219.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4870653,
