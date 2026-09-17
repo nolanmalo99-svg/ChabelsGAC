@@ -361,7 +361,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 54.2,
+          "bench_proj": 50.5,
           "injuries": []
         },
         "played": false,
