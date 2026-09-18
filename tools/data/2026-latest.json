@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-18T01:07:14+00:00",
+  "generated_at": "2026-09-18T01:23:41+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -406,7 +406,7 @@
           "pos": "WR",
           "pro": "DET",
           "proj": 20.4,
-          "actual": 0.0,
+          "actual": 2.1,
           "season_ppg": 28.7,
           "season_total": 28.7,
           "games_played": 1,
@@ -2416,7 +2416,7 @@
           "pos": "RB",
           "pro": "DET",
           "proj": 24.1,
-          "actual": 4.7,
+          "actual": 16.1,
           "season_ppg": 33.6,
           "season_total": 33.6,
           "games_played": 1,
@@ -2759,7 +2759,7 @@
             "overall_pick": 80,
             "bid_amount": null,
             "points": 10.0,
-            "value_diff": 6,
+            "value_diff": 5,
             "dropped": false
           },
           {
@@ -3889,7 +3889,7 @@
               "overall_pick": 80,
               "bid_amount": null,
               "points": 10.0,
-              "value_diff": 6,
+              "value_diff": 5,
               "dropped": false
             },
             {
@@ -6199,7 +6199,7 @@
             "overall_pick": 79,
             "bid_amount": null,
             "points": 10.1,
-            "value_diff": 7,
+            "value_diff": 6,
             "dropped": false
           },
           {
@@ -6247,7 +6247,7 @@
             "overall_pick": 119,
             "bid_amount": null,
             "points": 10.1,
-            "value_diff": 46,
+            "value_diff": 45,
             "dropped": false
           },
           {
@@ -6295,7 +6295,7 @@
             "overall_pick": 159,
             "bid_amount": null,
             "points": 10.0,
-            "value_diff": 84,
+            "value_diff": 83,
             "dropped": false
           }
         ]
@@ -7329,7 +7329,7 @@
               "overall_pick": 79,
               "bid_amount": null,
               "points": 10.1,
-              "value_diff": 7,
+              "value_diff": 6,
               "dropped": false
             },
             {
@@ -7377,7 +7377,7 @@
               "overall_pick": 119,
               "bid_amount": null,
               "points": 10.1,
-              "value_diff": 46,
+              "value_diff": 45,
               "dropped": false
             },
             {
@@ -7425,7 +7425,7 @@
               "overall_pick": 159,
               "bid_amount": null,
               "points": 10.0,
-              "value_diff": 84,
+              "value_diff": 83,
               "dropped": false
             }
           ],
@@ -9311,9 +9311,9 @@
           "pos": "RB",
           "pro": "BUF",
           "proj": 18.7,
-          "actual": 3.9,
-          "season_ppg": 9.9,
-          "season_total": 9.9,
+          "actual": 10.1,
+          "season_ppg": 10.1,
+          "season_total": 10.1,
           "games_played": 1,
           "preseason_proj_total": 269.9,
           "starter": true,
@@ -9569,8 +9569,8 @@
             "pick_in_round": 9,
             "overall_pick": 9,
             "bid_amount": null,
-            "points": 9.9,
-            "value_diff": -67,
+            "points": 10.1,
+            "value_diff": -63,
             "dropped": false
           },
           {
@@ -10699,8 +10699,8 @@
               "pick_in_round": 9,
               "overall_pick": 9,
               "bid_amount": null,
-              "points": 9.9,
-              "value_diff": -67,
+              "points": 10.1,
+              "value_diff": -63,
               "dropped": false
             },
             {
