@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-18T01:50:51+00:00",
+  "generated_at": "2026-09-18T02:07:24+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -2416,7 +2416,7 @@
           "pos": "RB",
           "pro": "DET",
           "proj": 24.1,
-          "actual": 18.7,
+          "actual": 18.9,
           "season_ppg": 33.6,
           "season_total": 33.6,
           "games_played": 1,
