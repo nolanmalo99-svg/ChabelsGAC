@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-18T03:24:45+00:00",
+  "generated_at": "2026-09-18T03:38:24+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -4217,7 +4217,7 @@
           "games_played": 1,
           "preseason_proj_total": 237.9,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16034,
@@ -9311,9 +9311,9 @@
           "pos": "RB",
           "pro": "BUF",
           "proj": 18.7,
-          "actual": 20.8,
-          "season_ppg": 20.8,
-          "season_total": 20.8,
+          "actual": 20.9,
+          "season_ppg": 20.9,
+          "season_total": 20.9,
           "games_played": 1,
           "preseason_proj_total": 269.9,
           "starter": true,
@@ -9569,7 +9569,7 @@
             "pick_in_round": 9,
             "overall_pick": 9,
             "bid_amount": null,
-            "points": 20.8,
+            "points": 20.9,
             "value_diff": -23,
             "dropped": false
           },
@@ -10699,7 +10699,7 @@
               "pick_in_round": 9,
               "overall_pick": 9,
               "bid_amount": null,
-              "points": 20.8,
+              "points": 20.9,
               "value_diff": -23,
               "dropped": false
             },
@@ -13056,9 +13056,9 @@
           "pos": "QB",
           "pro": "BUF",
           "proj": 22.7,
-          "actual": 41.1,
-          "season_ppg": 41.1,
-          "season_total": 41.1,
+          "actual": 40.8,
+          "season_ppg": 40.8,
+          "season_total": 40.8,
           "games_played": 1,
           "preseason_proj_total": 367.9,
           "starter": true,
@@ -13365,7 +13365,7 @@
             "pick_in_round": 1,
             "overall_pick": 31,
             "bid_amount": null,
-            "points": 41.1,
+            "points": 40.8,
             "value_diff": 30,
             "dropped": false
           },
@@ -14495,7 +14495,7 @@
               "pick_in_round": 1,
               "overall_pick": 31,
               "bid_amount": null,
-              "points": 41.1,
+              "points": 40.8,
               "value_diff": 30,
               "dropped": false
             },
