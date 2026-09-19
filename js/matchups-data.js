@@ -173,7 +173,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-0",
           "actual": 16.9,
-          "projected": 116.5,
+          "projected": 116.4,
           "starters": [
             {
               "name": "James Cook III",
@@ -328,7 +328,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "SF",
-              "proj": 20.7,
+              "proj": 20.6,
               "actual": 0.0,
               "injury": null
             },
@@ -351,7 +351,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 54.0,
+          "bench_proj": 54.1,
           "injuries": [
             {
               "name": "DJ Moore",
@@ -379,7 +379,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-1",
           "actual": 23.3,
-          "projected": 107.7,
+          "projected": 107.6,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -576,7 +576,7 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 73.2,
+          "bench_proj": 73.3,
           "injuries": [
             {
               "name": "Ladd McConkey",
@@ -733,7 +733,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "CIN",
-              "proj": 15.4,
+              "proj": 15.5,
               "actual": 0.0,
               "injury": null
             },
@@ -902,7 +902,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 29.8,
-            "away_proj": 33.8,
+            "away_proj": 33.9,
             "edge": "away"
           },
           {
@@ -1015,7 +1015,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "BAL",
-              "proj": 6.8,
+              "proj": 6.9,
               "actual": 0.0,
               "injury": null
             }
@@ -1083,7 +1083,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "NE",
-              "proj": 18.3,
+              "proj": 18.2,
               "actual": 0.0,
               "injury": null
             },
