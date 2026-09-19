@@ -555,7 +555,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 10.5,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Broncos D/ST",
@@ -588,15 +588,6 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "George Kittle",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "SF",
-              "proj": 10.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Eddy Pineiro",
               "slot": "K",
               "pos": "K",
@@ -622,16 +613,16 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-0",
           "actual": 0.0,
-          "projected": 109.8,
+          "projected": 120.9,
           "starters": [
             {
               "name": "Puka Nacua",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "LAR",
               "proj": 21.2,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Derrick Henry",
@@ -641,15 +632,6 @@ window.MATCHUPS_DATA = {
               "proj": 17.6,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Nico Collins",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "HOU",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "OUT"
             },
             {
               "name": "Travis Etienne Jr.",
@@ -704,18 +686,27 @@ window.MATCHUPS_DATA = {
               "proj": 8.0,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Xavier Worthy",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "KC",
+              "proj": 11.0,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 62.6,
+          "bench_proj": 55.8,
           "injuries": [
             {
-              "name": "Nico Collins",
+              "name": "Puka Nacua",
               "slot": "FLEX",
               "pos": "WR",
-              "pro": "HOU",
-              "proj": 0.0,
+              "pro": "LAR",
+              "proj": 21.2,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             }
           ]
         },
@@ -828,7 +819,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 122.4 - Adam Biewen 109.8. Peter Lundquist favored by 12.6.",
+        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 122.4 - Adam Biewen 120.9. Peter Lundquist favored by 1.5.",
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
@@ -860,12 +851,12 @@ window.MATCHUPS_DATA = {
           },
           {
             "name": "Puka Nacua",
-            "slot": "WR",
+            "slot": "FLEX",
             "pos": "WR",
             "pro": "LAR",
             "proj": 21.2,
             "actual": 0.0,
-            "injury": null,
+            "injury": "QUESTIONABLE",
             "owner": "Adam Biewen"
           },
           {
@@ -922,9 +913,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 33.6,
+            "home_proj": 44.6,
             "away_proj": 39.9,
-            "edge": "away"
+            "edge": "home"
           }
         ],
         "revenge": null,
