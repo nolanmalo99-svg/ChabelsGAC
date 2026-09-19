@@ -936,7 +936,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "1-0",
           "actual": 35.2,
-          "projected": 131.5,
+          "projected": 144.5,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -966,20 +966,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "DOUBTFUL"
-            },
-            {
               "name": "David Montgomery",
               "slot": "FLEX",
               "pos": "RB",
               "pro": "HOU",
               "proj": 14.2,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Mike Evans",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "SF",
+              "proj": 13.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1020,18 +1020,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 70.2,
-          "injuries": [
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "DOUBTFUL"
-            }
-          ]
+          "bench_proj": 57.2,
+          "injuries": []
         },
         "away": {
           "teamId": 9,
