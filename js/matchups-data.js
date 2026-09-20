@@ -620,7 +620,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 19.8,
               "actual": 14.7,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Michael Wilson",
@@ -677,7 +677,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 19.8,
               "actual": 14.7,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             }
           ]
         },
