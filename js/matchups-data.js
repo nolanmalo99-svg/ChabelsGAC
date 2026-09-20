@@ -173,7 +173,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-0",
           "actual": 40.8,
-          "projected": 100.2,
+          "projected": 98.1,
           "starters": [
             {
               "name": "James Cook III",
@@ -266,8 +266,8 @@ window.MATCHUPS_DATA = {
           "team": "I Wanna Go Fast",
           "owner": "Adam Schumacher",
           "record": "0-1",
-          "actual": 40.7,
-          "projected": 100.8,
+          "actual": 44.7,
+          "projected": 102.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -338,7 +338,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "HOU",
               "proj": 6.2,
-              "actual": 6.0,
+              "actual": 7.0,
               "injury": null
             },
             {
@@ -347,7 +347,7 @@ window.MATCHUPS_DATA = {
               "pos": "K",
               "pro": "MIN",
               "proj": 8.5,
-              "actual": 7.0,
+              "actual": 10.0,
               "injury": null
             }
           ],
@@ -366,10 +366,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 0.1,
-        "winner": "Isaac Douglas",
+        "margin": 3.9,
+        "winner": "Adam Schumacher",
         "phase": "recap",
-        "blurb": "Final: Adam Schumacher 40.7 - Isaac Douglas 40.8. Isaac Douglas won by 0.1. Top scorers for Isaac Douglas: James Cook III (20.9), D'Andre Swift (12.9)."
+        "blurb": "Final: Adam Schumacher 44.7 - Isaac Douglas 40.8. Adam Schumacher won by 3.9. Top scorers for Adam Schumacher: Tee Higgins (14.5), Emeka Egbuka (10.3)."
       },
       {
         "home": {
@@ -378,8 +378,8 @@ window.MATCHUPS_DATA = {
           "team": "Tyreek's Condom",
           "owner": "Brady Kienitz",
           "record": "0-1",
-          "actual": 87.3,
-          "projected": 128.1,
+          "actual": 90.4,
+          "projected": 128.5,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -396,7 +396,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "NYJ",
               "proj": 15.8,
-              "actual": 13.8,
+              "actual": 14.1,
               "injury": null
             },
             {
@@ -432,7 +432,7 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "BAL",
               "proj": 10.4,
-              "actual": 8.5,
+              "actual": 10.9,
               "injury": null
             },
             {
@@ -441,7 +441,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "TB",
               "proj": 16.8,
-              "actual": 11.2,
+              "actual": 11.6,
               "injury": null
             },
             {
@@ -472,8 +472,8 @@ window.MATCHUPS_DATA = {
           "team": "Schommer",
           "owner": "Jordan Schommer",
           "record": "0-1",
-          "actual": 35.5,
-          "projected": 109.0,
+          "actual": 52.4,
+          "projected": 111.0,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -526,7 +526,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "PHI",
               "proj": 19.9,
-              "actual": 9.3,
+              "actual": 16.2,
               "injury": null
             },
             {
@@ -544,7 +544,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "DEN",
               "proj": 6.3,
-              "actual": 0.0,
+              "actual": 10.0,
               "injury": null
             },
             {
@@ -562,10 +562,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 51.8,
+        "margin": 38.0,
         "winner": "Brady Kienitz",
         "phase": "recap",
-        "blurb": "Final: Jordan Schommer 35.5 - Brady Kienitz 87.3. Brady Kienitz won by 51.8. Top scorers for Brady Kienitz: Jahmyr Gibbs (23.3), Patriots D/ST (20.0)."
+        "blurb": "Final: Jordan Schommer 52.4 - Brady Kienitz 90.4. Brady Kienitz won by 38.0. Top scorers for Brady Kienitz: Jahmyr Gibbs (23.3), Patriots D/ST (20.0)."
       },
       {
         "home": {
@@ -575,7 +575,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-0",
           "actual": 36.8,
-          "projected": 110.5,
+          "projected": 108.9,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -668,8 +668,8 @@ window.MATCHUPS_DATA = {
           "team": "Rebound, Execute, Defend",
           "owner": "Peter Lundquist",
           "record": "1-0",
-          "actual": 81.0,
-          "projected": 111.1,
+          "actual": 92.4,
+          "projected": 117.8,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -686,7 +686,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "CIN",
               "proj": 15.4,
-              "actual": 9.5,
+              "actual": 11.2,
               "injury": null
             },
             {
@@ -704,7 +704,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "PHI",
               "proj": 14.0,
-              "actual": 19.9,
+              "actual": 27.7,
               "injury": null
             },
             {
@@ -722,7 +722,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "BAL",
               "proj": 21.7,
-              "actual": 14.7,
+              "actual": 14.8,
               "injury": null
             },
             {
@@ -731,7 +731,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "TB",
               "proj": 10.0,
-              "actual": 7.0,
+              "actual": 8.8,
               "injury": null
             },
             {
@@ -758,10 +758,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 44.2,
+        "margin": 55.6,
         "winner": "Peter Lundquist",
         "phase": "recap",
-        "blurb": "Final: Peter Lundquist 81.0 - Adam Biewen 36.8. Peter Lundquist won by 44.2. Top scorers for Peter Lundquist: Chris Olave (22.6), DeVonta Smith (19.9)."
+        "blurb": "Final: Peter Lundquist 92.4 - Adam Biewen 36.8. Peter Lundquist won by 55.6. Top scorers for Peter Lundquist: DeVonta Smith (27.7), Chris Olave (22.6)."
       },
       {
         "home": {
@@ -770,8 +770,8 @@ window.MATCHUPS_DATA = {
           "team": "The K9 Unit",
           "owner": "Nolan Malo",
           "record": "1-0",
-          "actual": 48.1,
-          "projected": 129.4,
+          "actual": 48.7,
+          "projected": 126.4,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -833,7 +833,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "LAC",
               "proj": 19.5,
-              "actual": 0.0,
+              "actual": 0.6,
               "injury": null
             },
             {
@@ -864,8 +864,8 @@ window.MATCHUPS_DATA = {
           "team": "The Hamptons",
           "owner": "logan rezac",
           "record": "0-1",
-          "actual": 85.9,
-          "projected": 118.6,
+          "actual": 91.1,
+          "projected": 116.2,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -882,7 +882,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LAC",
               "proj": 15.8,
-              "actual": 0.0,
+              "actual": 0.5,
               "injury": null
             },
             {
@@ -900,7 +900,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "NYJ",
               "proj": 15.9,
-              "actual": 12.8,
+              "actual": 16.7,
               "injury": null
             },
             {
@@ -909,7 +909,7 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "NE",
               "proj": 18.2,
-              "actual": 8.3,
+              "actual": 8.0,
               "injury": null
             },
             {
@@ -918,7 +918,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "TB",
               "proj": 14.6,
-              "actual": 11.0,
+              "actual": 12.1,
               "injury": null
             },
             {
@@ -954,10 +954,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 37.8,
+        "margin": 42.4,
         "winner": "logan rezac",
         "phase": "recap",
-        "blurb": "Final: logan rezac 85.9 - Nolan Malo 48.1. logan rezac won by 37.8. Top scorers for logan rezac: Ja'Marr Chase (26.5), Garrett Wilson (12.8)."
+        "blurb": "Final: logan rezac 91.1 - Nolan Malo 48.7. logan rezac won by 42.4. Top scorers for logan rezac: Ja'Marr Chase (26.5), Garrett Wilson (16.7)."
       },
       {
         "home": {
@@ -966,8 +966,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Wieker",
           "owner": "Evan Wieker",
           "record": "0-1",
-          "actual": 15.9,
-          "projected": 95.8,
+          "actual": 18.0,
+          "projected": 95.7,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1002,7 +1002,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "CHI",
               "proj": 11.7,
-              "actual": 4.2,
+              "actual": 7.3,
               "injury": null
             },
             {
@@ -1047,7 +1047,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "TB",
               "proj": 8.2,
-              "actual": 5.0,
+              "actual": 4.0,
               "injury": null
             }
           ],
@@ -1070,8 +1070,8 @@ window.MATCHUPS_DATA = {
           "team": "Osama Bin Madden",
           "owner": "Austin Carter",
           "record": "1-0",
-          "actual": 64.5,
-          "projected": 136.6,
+          "actual": 71.8,
+          "projected": 140.0,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -1124,7 +1124,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "GB",
               "proj": 12.5,
-              "actual": 5.3,
+              "actual": 12.6,
               "injury": null
             },
             {
@@ -1160,10 +1160,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 48.6,
+        "margin": 53.8,
         "winner": "Austin Carter",
         "phase": "recap",
-        "blurb": "Final: Austin Carter 64.5 - Evan Wieker 15.9. Austin Carter won by 48.6. Top scorers for Austin Carter: Josh Allen (40.8), Chuba Hubbard (14.4)."
+        "blurb": "Final: Austin Carter 71.8 - Evan Wieker 18.0. Austin Carter won by 53.8. Top scorers for Austin Carter: Josh Allen (40.8), Chuba Hubbard (14.4)."
       }
     ],
     "3": [
@@ -1201,8 +1201,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1260,19 +1260,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Nolan Malo (1-0) at Isaac Douglas (1-0). Projected: Nolan Malo 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1282,8 +1282,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "If the projection holds, this would be Nolan Malo's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Nolan Malo's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 2,
@@ -1322,19 +1321,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Evan Wieker (0-1) at Adam Schumacher (0-1). Projected: Evan Wieker 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1385,8 +1384,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1394,8 +1393,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1446,8 +1445,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -1455,8 +1454,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -1466,7 +1465,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Peter Lundquist's worst week of the season.",
-          "If the projection holds, this would be Austin Carter's worst week of the season."
+          "If the projection holds, this would be Austin Carter's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -1509,8 +1509,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1518,8 +1518,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1570,8 +1570,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1579,8 +1579,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1631,8 +1631,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -1651,7 +1651,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "If the projection holds, this would be Adam Biewen's worst week of the season."
+          "If the projection holds, this would be Adam Biewen's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 3,
@@ -1692,19 +1693,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1712,8 +1713,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Jordan Schommer's worst week of the season.",
-          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -1754,19 +1754,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -1817,8 +1817,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -1826,8 +1826,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -1837,7 +1837,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be logan rezac's worst week of the season.",
-          "If the projection holds, this would be Austin Carter's worst week of the season."
+          "If the projection holds, this would be Austin Carter's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 3,
@@ -1878,8 +1879,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -1887,8 +1888,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1939,8 +1940,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1948,8 +1949,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2000,19 +2001,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2020,8 +2021,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Brady Kienitz's worst week of the season.",
-          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -2069,12 +2069,12 @@ window.MATCHUPS_DATA = {
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2125,19 +2125,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2145,8 +2145,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Peter Lundquist's worst week of the season.",
-          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -2185,19 +2184,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Brady Kienitz (0-1) at Adam Schumacher (0-1). Projected: Brady Kienitz 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2257,8 +2256,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2309,8 +2308,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2318,8 +2317,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2370,8 +2369,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2379,8 +2378,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2390,7 +2389,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "If the projection holds, this would be Jordan Schommer's worst week of the season."
+          "If the projection holds, this would be Jordan Schommer's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 2,
@@ -2433,8 +2433,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2442,8 +2442,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2494,19 +2494,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2555,8 +2555,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2616,8 +2616,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2625,8 +2625,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2675,19 +2675,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Austin Carter (1-0) at Isaac Douglas (1-0). Projected: Austin Carter 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2698,7 +2698,7 @@ window.MATCHUPS_DATA = {
         "fun_facts": [
           "If the projection holds, this would be Isaac Douglas's worst week of the season.",
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 1,
@@ -2741,8 +2741,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2750,8 +2750,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -2800,19 +2800,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "logan rezac (0-1) at Adam Schumacher (0-1). Projected: logan rezac 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -2872,8 +2872,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2924,19 +2924,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -2944,8 +2944,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Evan Wieker's worst week of the season.",
-          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 1,
@@ -2986,8 +2985,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -2995,8 +2994,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3006,7 +3005,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "If the projection holds, this would be Brady Kienitz's worst week of the season."
+          "If the projection holds, this would be Brady Kienitz's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -3049,8 +3049,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3058,8 +3058,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3110,8 +3110,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3119,8 +3119,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3169,19 +3169,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Austin Carter (1-0) at Adam Schumacher (0-1). Projected: Austin Carter 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3236,19 +3236,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Brady Kienitz (0-1) at Isaac Douglas (1-0). Projected: Brady Kienitz 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3258,8 +3258,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "If the projection holds, this would be Brady Kienitz's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Brady Kienitz's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 3,
@@ -3309,8 +3308,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3369,19 +3368,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -3428,19 +3427,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "logan rezac (0-1) at Isaac Douglas (1-0). Projected: logan rezac 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3497,8 +3496,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3517,7 +3516,7 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 2,
           "home_won": true,
-          "home_pts": 81.0,
+          "home_pts": 92.4,
           "away_pts": 36.8
         },
         "fun_facts": [
@@ -3564,8 +3563,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3573,8 +3572,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3631,8 +3630,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3640,8 +3639,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3651,8 +3650,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 2,
           "home_won": true,
-          "home_pts": 64.5,
-          "away_pts": 15.9
+          "home_pts": 71.8,
+          "away_pts": 18.0
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3698,12 +3697,12 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Adam Biewen (1-0) at Isaac Douglas (1-0). Projected: Adam Biewen 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
@@ -3720,8 +3719,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "If the projection holds, this would be Adam Biewen's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Adam Biewen's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 3,
@@ -3762,8 +3760,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3771,8 +3769,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3782,8 +3780,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 2,
           "home_won": false,
-          "home_pts": 35.5,
-          "away_pts": 87.3
+          "home_pts": 52.4,
+          "away_pts": 90.4
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3829,19 +3827,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -3890,8 +3888,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -3899,8 +3897,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -3910,8 +3908,8 @@ window.MATCHUPS_DATA = {
         "revenge": {
           "week": 2,
           "home_won": true,
-          "home_pts": 85.9,
-          "away_pts": 48.1
+          "home_pts": 91.1,
+          "away_pts": 48.7
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3957,8 +3955,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3966,8 +3964,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -3977,7 +3975,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "If the projection holds, this would be Peter Lundquist's worst week of the season."
+          "If the projection holds, this would be Peter Lundquist's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -4020,8 +4019,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4029,8 +4028,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4081,19 +4080,19 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
@@ -4101,8 +4100,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Nolan Malo's worst week of the season.",
-          "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Isaac Douglas's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 5,
@@ -4152,8 +4150,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4163,7 +4161,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Adam Biewen's worst week of the season.",
-          "If the projection holds, this would be Austin Carter's worst week of the season."
+          "If the projection holds, this would be Austin Carter's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -4204,8 +4203,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4213,8 +4212,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4263,19 +4262,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Peter Lundquist (1-0) at Adam Schumacher (0-1). Projected: Peter Lundquist 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4328,8 +4327,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4337,8 +4336,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4348,7 +4347,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Nolan Malo's worst week of the season.",
-          "If the projection holds, this would be Austin Carter's worst week of the season."
+          "If the projection holds, this would be Austin Carter's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 4,
@@ -4389,8 +4389,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4398,8 +4398,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4450,8 +4450,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4459,8 +4459,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4509,19 +4509,19 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Jordan Schommer (0-1) at Isaac Douglas (1-0). Projected: Jordan Schommer 0 - Isaac Douglas 0. Isaac Douglas favored by 0.",
         "home_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4531,8 +4531,7 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Isaac Douglas's worst week of the season.",
-          "If the projection holds, this would be Jordan Schommer's worst week of the season.",
-          "Isaac Douglas owns the league's longest active winning streak at 2 games."
+          "If the projection holds, this would be Jordan Schommer's worst week of the season."
         ],
         "head_to_head": {
           "home_w": 3,
@@ -4571,12 +4570,12 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Adam Biewen (1-0) at Adam Schumacher (0-1). Projected: Adam Biewen 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
@@ -4636,8 +4635,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 103.3,
-          "recent_avg": 103.3,
+          "season_avg": 109.1,
+          "recent_avg": 109.1,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4645,8 +4644,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 79.7,
-          "recent_avg": 79.7,
+          "season_avg": 88.1,
+          "recent_avg": 88.1,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4701,29 +4700,29 @@ window.MATCHUPS_DATA = {
         "phase": "preview",
         "blurb": "Isaac Douglas (1-0) at Adam Schumacher (0-1). Projected: Isaac Douglas 0 - Adam Schumacher 0. Adam Schumacher favored by 0.",
         "home_form": {
-          "record_last_n": "0-2",
+          "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 73.4,
-          "recent_avg": 73.4,
-          "streak": 2,
-          "streak_type": "L",
+          "season_avg": 75.4,
+          "recent_avg": 75.4,
+          "streak": 1,
+          "streak_type": "W",
           "trend": "steady"
         },
         "away_form": {
-          "record_last_n": "2-0",
+          "record_last_n": "1-1",
           "games_considered": 2,
           "season_avg": 82.8,
           "recent_avg": 82.8,
-          "streak": 2,
-          "streak_type": "W",
+          "streak": 1,
+          "streak_type": "L",
           "trend": "steady"
         },
         "players_to_watch": [],
         "positional_edges": [],
         "revenge": {
           "week": 2,
-          "home_won": false,
-          "home_pts": 40.7,
+          "home_won": true,
+          "home_pts": 44.7,
           "away_pts": 40.8
         },
         "fun_facts": [
@@ -4779,8 +4778,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 98.0,
-          "recent_avg": 98.0,
+          "season_avg": 99.6,
+          "recent_avg": 99.6,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4831,8 +4830,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 81.4,
-          "recent_avg": 81.4,
+          "season_avg": 82.5,
+          "recent_avg": 82.5,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4840,8 +4839,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 97.5,
-          "recent_avg": 97.5,
+          "season_avg": 97.8,
+          "recent_avg": 97.8,
           "streak": 1,
           "streak_type": "L",
           "trend": "steady"
@@ -4892,8 +4891,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
-          "season_avg": 88.3,
-          "recent_avg": 88.3,
+          "season_avg": 92.0,
+          "recent_avg": 92.0,
           "streak": 2,
           "streak_type": "W",
           "trend": "steady"
@@ -4901,8 +4900,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
-          "season_avg": 87.9,
-          "recent_avg": 87.9,
+          "season_avg": 90.5,
+          "recent_avg": 90.5,
           "streak": 1,
           "streak_type": "W",
           "trend": "steady"
@@ -4912,7 +4911,8 @@ window.MATCHUPS_DATA = {
         "revenge": null,
         "fun_facts": [
           "If the projection holds, this would be Austin Carter's worst week of the season.",
-          "If the projection holds, this would be logan rezac's worst week of the season."
+          "If the projection holds, this would be logan rezac's worst week of the season.",
+          "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
           "home_w": 7,
