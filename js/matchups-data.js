@@ -173,7 +173,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-0",
           "actual": 50.8,
-          "projected": 94.1,
+          "projected": 93.3,
           "starters": [
             {
               "name": "James Cook III",
@@ -584,7 +584,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-0",
           "actual": 72.3,
-          "projected": 95.0,
+          "projected": 94.3,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -789,8 +789,8 @@ window.MATCHUPS_DATA = {
           "team": "The K9 Unit",
           "owner": "Nolan Malo",
           "record": "1-0",
-          "actual": 89.3,
-          "projected": 108.5,
+          "actual": 89.4,
+          "projected": 107.2,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -816,7 +816,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "DAL",
               "proj": 16.7,
-              "actual": 7.9,
+              "actual": 8.0,
               "injury": null
             },
             {
@@ -983,10 +983,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 26.7,
+        "margin": 26.6,
         "winner": "logan rezac",
         "phase": "recap",
-        "blurb": "Final: logan rezac 116.0 - Nolan Malo 89.3. logan rezac won by 26.7. Top scorers for logan rezac: Ja'Marr Chase (26.5), Omarion Hampton (17.5)."
+        "blurb": "Final: logan rezac 116.0 - Nolan Malo 89.4. logan rezac won by 26.6. Top scorers for logan rezac: Ja'Marr Chase (26.5), Omarion Hampton (17.5)."
       },
       {
         "home": {
@@ -1100,7 +1100,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "1-0",
           "actual": 138.7,
-          "projected": 151.0,
+          "projected": 150.1,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -3938,7 +3938,7 @@ window.MATCHUPS_DATA = {
           "week": 2,
           "home_won": true,
           "home_pts": 116.0,
-          "away_pts": 89.3
+          "away_pts": 89.4
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
