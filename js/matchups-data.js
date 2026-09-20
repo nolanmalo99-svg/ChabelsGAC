@@ -525,7 +525,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "PHI",
-              "proj": 20.0,
+              "proj": 19.9,
               "actual": 0.0,
               "injury": null
             },
@@ -594,7 +594,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-0",
           "actual": 0.0,
-          "projected": 120.9,
+          "projected": 121.5,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -619,7 +619,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "NO",
-              "proj": 12.2,
+              "proj": 12.8,
               "actual": 0.0,
               "injury": null
             },
@@ -698,7 +698,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "1-0",
           "actual": 0.0,
-          "projected": 122.4,
+          "projected": 122.5,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -790,7 +790,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 122.4 - Adam Biewen 120.9. Peter Lundquist favored by 1.5.",
+        "blurb": "Peter Lundquist (1-0) at Adam Biewen (1-0). Projected: Peter Lundquist 122.5 - Adam Biewen 121.5. Peter Lundquist favored by 1.0.",
         "home_form": {
           "record_last_n": "1-0",
           "games_considered": 1,
@@ -872,7 +872,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 29.8,
+            "home_proj": 30.4,
             "away_proj": 33.8,
             "edge": "away"
           },
@@ -1026,7 +1026,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "ATL",
-              "proj": 12.8,
+              "proj": 12.9,
               "actual": 0.0,
               "injury": null
             },
