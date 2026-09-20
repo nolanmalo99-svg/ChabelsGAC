@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-19T20:08:51+00:00",
+  "generated_at": "2026-09-20T16:10:42+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -495,7 +495,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "DEN",
-          "proj": 12.1,
+          "proj": 12.2,
           "actual": 0.0,
           "season_ppg": 1.2,
           "season_total": 1.2,
@@ -2395,19 +2395,19 @@ window.SITE_DATA = {
       "winning_seasons": 1,
       "roster": [
         {
-          "player_id": 3915511,
-          "name": "Joe Burrow",
+          "player_id": 3052587,
+          "name": "Baker Mayfield",
           "slot": "QB",
           "pos": "QB",
-          "pro": "CIN",
-          "proj": 16.5,
+          "pro": "TB",
+          "proj": 16.8,
           "actual": 0.0,
-          "season_ppg": 14.2,
-          "season_total": 14.2,
+          "season_ppg": 11.6,
+          "season_total": 11.6,
           "games_played": 1,
-          "preseason_proj_total": 330.5,
+          "preseason_proj_total": 311.0,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4429795,
@@ -2455,19 +2455,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4047646,
-          "name": "A.J. Brown",
+          "player_id": 3126486,
+          "name": "Deebo Samuel Sr.",
           "slot": "WR",
           "pos": "WR",
-          "pro": "NE",
-          "proj": 0.0,
+          "pro": "SF",
+          "proj": 12.0,
           "actual": 0.0,
-          "season_ppg": 5.6,
-          "season_total": 5.6,
+          "season_ppg": 18.0,
+          "season_total": 18.0,
           "games_played": 1,
-          "preseason_proj_total": 275.6,
+          "preseason_proj_total": 203.1,
           "starter": true,
-          "injury": "INJURY_RESERVE"
+          "injury": null
         },
         {
           "player_id": 3116365,
@@ -2485,17 +2485,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4685702,
-          "name": "Quinshon Judkins",
+          "player_id": 3042519,
+          "name": "Aaron Jones Sr.",
           "slot": "FLEX",
           "pos": "RB",
-          "pro": "CLE",
-          "proj": 12.0,
+          "pro": "MIN",
+          "proj": 14.1,
           "actual": 0.0,
-          "season_ppg": 7.0,
-          "season_total": 7.0,
+          "season_ppg": 10.0,
+          "season_total": 10.0,
           "games_played": 1,
-          "preseason_proj_total": 49.6,
+          "preseason_proj_total": 216.3,
           "starter": true,
           "injury": null
         },
@@ -2530,47 +2530,32 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3052587,
-          "name": "Baker Mayfield",
+          "player_id": 3915511,
+          "name": "Joe Burrow",
           "slot": "BE",
           "pos": "QB",
-          "pro": "TB",
-          "proj": 16.8,
+          "pro": "CIN",
+          "proj": 16.5,
           "actual": 0.0,
-          "season_ppg": 11.6,
-          "season_total": 11.6,
+          "season_ppg": 14.2,
+          "season_total": 14.2,
           "games_played": 1,
-          "preseason_proj_total": 311.0,
+          "preseason_proj_total": 330.5,
           "starter": false,
           "injury": null
         },
         {
-          "player_id": 3042519,
-          "name": "Aaron Jones Sr.",
+          "player_id": 4685702,
+          "name": "Quinshon Judkins",
           "slot": "BE",
           "pos": "RB",
-          "pro": "MIN",
-          "proj": 14.1,
-          "actual": 0.0,
-          "season_ppg": 10.0,
-          "season_total": 10.0,
-          "games_played": 1,
-          "preseason_proj_total": 216.3,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 3126486,
-          "name": "Deebo Samuel Sr.",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "SF",
+          "pro": "CLE",
           "proj": 12.0,
           "actual": 0.0,
-          "season_ppg": 18.0,
-          "season_total": 18.0,
+          "season_ppg": 7.0,
+          "season_total": 7.0,
           "games_played": 1,
-          "preseason_proj_total": 203.1,
+          "preseason_proj_total": 49.6,
           "starter": false,
           "injury": null
         },
@@ -2618,6 +2603,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 179.2,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4047646,
+          "name": "A.J. Brown",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "NE",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 5.6,
+          "season_total": 5.6,
+          "games_played": 1,
+          "preseason_proj_total": 275.6,
+          "starter": false,
+          "injury": "INJURY_RESERVE"
         },
         {
           "player_id": 4426385,
@@ -4342,7 +4342,7 @@ window.SITE_DATA = {
         {
           "player_id": 4710714,
           "name": "De'Zhaun Stribling",
-          "slot": "BE",
+          "slot": "IR",
           "pos": "WR",
           "pro": "SF",
           "proj": 0.0,
@@ -4352,7 +4352,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 0.0,
           "starter": false,
-          "injury": "OUT"
+          "injury": "INJURY_RESERVE"
         }
       ],
       "draft": {
@@ -5990,7 +5990,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "DEN",
-          "proj": 11.7,
+          "proj": 12.6,
           "actual": 0.0,
           "season_ppg": 3.6,
           "season_total": 3.6,
@@ -7650,7 +7650,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "WR",
           "pro": "LAR",
-          "proj": 21.2,
+          "proj": 21.3,
           "actual": 0.0,
           "season_ppg": 12.4,
           "season_total": 12.4,
@@ -7720,21 +7720,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4568490,
-          "name": "RJ Harvey",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "DEN",
-          "proj": 10.0,
-          "actual": 0.0,
-          "season_ppg": 8.1,
-          "season_total": 8.1,
-          "games_played": 1,
-          "preseason_proj_total": 207.3,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4432710,
           "name": "TreVeyon Henderson",
           "slot": "BE",
@@ -7793,6 +7778,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 201.1,
           "starter": false,
           "injury": "OUT"
+        },
+        {
+          "player_id": 4568490,
+          "name": "RJ Harvey",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "DEN",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 8.1,
+          "season_total": 8.1,
+          "games_played": 1,
+          "preseason_proj_total": 207.3,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360569,
@@ -11565,7 +11565,7 @@ window.SITE_DATA = {
           "season_ppg": 11.4,
           "season_total": 11.4,
           "games_played": 1,
-          "preseason_proj_total": 127.1,
+          "preseason_proj_total": 127.2,
           "starter": false,
           "injury": null
         }
@@ -13235,7 +13235,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "TE",
           "pro": "MIN",
-          "proj": 10.1,
+          "proj": 9.6,
           "actual": 0.0,
           "season_ppg": 13.6,
           "season_total": 13.6,
@@ -15125,7 +15125,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "CIN",
-          "proj": 15.5,
+          "proj": 15.4,
           "actual": 0.0,
           "season_ppg": 18.8,
           "season_total": 18.8,
@@ -15147,7 +15147,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 209.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4241478,
@@ -15327,7 +15327,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 30.5,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4880281,
@@ -16806,7 +16806,7 @@ window.SITE_DATA = {
           "slot": "QB",
           "pos": "QB",
           "pro": "DEN",
-          "proj": 18.5,
+          "proj": 18.6,
           "actual": 0.0,
           "season_ppg": 5.4,
           "season_total": 5.4,

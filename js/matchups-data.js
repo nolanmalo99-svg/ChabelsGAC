@@ -379,7 +379,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-1",
           "actual": 23.3,
-          "projected": 107.6,
+          "projected": 122.2,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -400,24 +400,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "A.J. Brown",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NE",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "INJURY_RESERVE"
-            },
-            {
-              "name": "Quinshon Judkins",
-              "slot": "FLEX",
-              "pos": "RB",
-              "pro": "CLE",
-              "proj": 12.0,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Davante Adams",
               "slot": "WR",
               "pos": "WR",
@@ -427,13 +409,22 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Joe Burrow",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "CIN",
-              "proj": 16.5,
+              "name": "Aaron Jones Sr.",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "MIN",
+              "proj": 14.1,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "SF",
+              "proj": 12.0,
+              "actual": 0.0,
+              "injury": null
             },
             {
               "name": "Mark Andrews",
@@ -441,6 +432,15 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "BAL",
               "proj": 10.4,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Baker Mayfield",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "TB",
+              "proj": 16.8,
               "actual": 0.0,
               "injury": null
             },
@@ -463,27 +463,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 71.9,
-          "injuries": [
-            {
-              "name": "A.J. Brown",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NE",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "INJURY_RESERVE"
-            },
-            {
-              "name": "Joe Burrow",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "CIN",
-              "proj": 16.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 57.5,
+          "injuries": []
         },
         "away": {
           "teamId": 5,
@@ -576,7 +557,7 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 73.3,
+          "bench_proj": 74.2,
           "injuries": [
             {
               "name": "Ladd McConkey",
@@ -620,7 +601,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 21.2,
+              "proj": 21.3,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -697,14 +678,14 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 55.8,
+          "bench_proj": 45.8,
           "injuries": [
             {
               "name": "Puka Nacua",
               "slot": "FLEX",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 21.2,
+              "proj": 21.3,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -733,7 +714,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "CIN",
-              "proj": 15.5,
+              "proj": 15.4,
               "actual": 0.0,
               "injury": null
             },
@@ -744,7 +725,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 15.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "DeVonta Smith",
@@ -802,17 +783,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 66.6,
-          "injuries": [
-            {
-              "name": "Chris Olave",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NO",
-              "proj": 15.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "played": false,
         "playoff": false,
@@ -854,7 +825,7 @@ window.MATCHUPS_DATA = {
             "slot": "FLEX",
             "pos": "WR",
             "pro": "LAR",
-            "proj": 21.2,
+            "proj": 21.3,
             "actual": 0.0,
             "injury": "QUESTIONABLE",
             "owner": "Adam Biewen"
@@ -902,7 +873,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 29.8,
-            "away_proj": 33.9,
+            "away_proj": 33.8,
             "edge": "away"
           },
           {
@@ -913,7 +884,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 44.6,
+            "home_proj": 44.7,
             "away_proj": 39.9,
             "edge": "home"
           }
@@ -1020,7 +991,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 57.2,
+          "bench_proj": 57.3,
           "injuries": []
         },
         "away": {
@@ -1132,7 +1103,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-1",
           "actual": 5.3,
-          "projected": 114.6,
+          "projected": 114.7,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1184,7 +1155,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "DEN",
-              "proj": 18.5,
+              "proj": 18.6,
               "actual": 0.0,
               "injury": null
             },
@@ -1310,7 +1281,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 64.5,
+          "bench_proj": 64.0,
           "injuries": []
         },
         "played": true,
