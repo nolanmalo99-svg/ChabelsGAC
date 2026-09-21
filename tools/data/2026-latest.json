@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-21T00:13:41+00:00",
+  "generated_at": "2026-09-21T00:35:10+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -6006,7 +6006,7 @@
           "pos": "WR",
           "pro": "IND",
           "proj": 11.0,
-          "actual": 0.0,
+          "actual": 2.1,
           "season_ppg": 10.1,
           "season_total": 10.1,
           "games_played": 1,
@@ -7567,7 +7567,7 @@
           "games_played": 1,
           "preseason_proj_total": 371.6,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 3043078,
@@ -13131,7 +13131,7 @@
           "pos": "TE",
           "pro": "IND",
           "proj": 11.4,
-          "actual": 0.0,
+          "actual": 7.4,
           "season_ppg": 10.3,
           "season_total": 10.3,
           "games_played": 1,
@@ -13266,7 +13266,7 @@
           "pos": "WR",
           "pro": "IND",
           "proj": 9.4,
-          "actual": 0.0,
+          "actual": 2.1,
           "season_ppg": 5.7,
           "season_total": 5.7,
           "games_played": 1,
@@ -15111,7 +15111,7 @@
           "pos": "RB",
           "pro": "IND",
           "proj": 18.4,
-          "actual": 0.0,
+          "actual": 2.2,
           "season_ppg": 25.1,
           "season_total": 25.1,
           "games_played": 1,
