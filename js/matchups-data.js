@@ -7,7 +7,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 123.8,
@@ -478,7 +478,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 88.4,
@@ -1383,7 +1383,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -1692,7 +1692,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -1890,7 +1890,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -2380,7 +2380,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -2615,7 +2615,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -2874,7 +2874,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -3109,7 +3109,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -3367,7 +3367,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -3759,7 +3759,7 @@ window.MATCHUPS_DATA = {
         "home": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -4214,7 +4214,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -4522,7 +4522,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,
@@ -4646,7 +4646,7 @@ window.MATCHUPS_DATA = {
         "away": {
           "teamId": 5,
           "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "owner": "Jordan Schommer",
           "record": "0-1",
           "actual": 0.0,

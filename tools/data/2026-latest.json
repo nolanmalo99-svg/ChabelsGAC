@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-20T23:50:35+00:00",
+  "generated_at": "2026-09-21T00:12:43+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "team_id": 5,
-      "name": "Schommer",
+      "name": "Lovin Hurts",
       "guid": "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}",
       "owner": "Jordan Schommer",
       "record": "0-1",
@@ -119,7 +119,7 @@
     },
     {
       "owner": "Jordan Schommer",
-      "team": "Schommer",
+      "team": "Lovin Hurts",
       "waiver_rank": 3
     },
     {
@@ -5715,7 +5715,7 @@
     },
     "{7BD3788C-9335-48CB-9DFF-0A5BB903C94F}": {
       "owner": "Jordan Schommer",
-      "team": "Schommer",
+      "team": "Lovin Hurts",
       "record": "29-28",
       "pf": 6670.5,
       "win_pct": 51,
@@ -5746,7 +5746,7 @@
         },
         {
           "season": 2026,
-          "team": "Schommer",
+          "team": "Lovin Hurts",
           "record": "0-1",
           "pf": 123.8
         }
