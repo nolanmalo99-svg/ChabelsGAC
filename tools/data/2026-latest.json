@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-21T01:52:33+00:00",
+  "generated_at": "2026-09-21T02:09:04+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -376,7 +376,7 @@
           "pos": "RB",
           "pro": "KC",
           "proj": 17.8,
-          "actual": 7.6,
+          "actual": 10.3,
           "season_ppg": 34.1,
           "season_total": 34.1,
           "games_played": 1,
@@ -11471,7 +11471,7 @@
           "pos": "QB",
           "pro": "KC",
           "proj": 18.2,
-          "actual": 13.5,
+          "actual": 13.7,
           "season_ppg": 21.7,
           "season_total": 21.7,
           "games_played": 1,
