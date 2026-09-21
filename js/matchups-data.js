@@ -1059,7 +1059,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 10.8,
               "actual": 1.4,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Harrison Butker",
@@ -1089,7 +1089,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 10.8,
               "actual": 1.4,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             }
           ]
         },
