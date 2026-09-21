@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-21T16:10:09+00:00",
+  "generated_at": "2026-09-21T20:09:45+00:00",
   "current_week": 2,
   "standings": [
     {
@@ -4337,7 +4337,7 @@
           "games_played": 1,
           "preseason_proj_total": 306.9,
           "starter": false,
-          "injury": "OUT"
+          "injury": null
         },
         {
           "player_id": 4710714,
@@ -7702,7 +7702,7 @@
           "games_played": 1,
           "preseason_proj_total": 279.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4432710,
