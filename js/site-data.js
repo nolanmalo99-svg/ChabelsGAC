@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-22T16:09:52+00:00",
+  "generated_at": "2026-09-22T20:09:18+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -9290,19 +9290,19 @@ window.SITE_DATA = {
       "winning_seasons": 2,
       "roster": [
         {
-          "player_id": 4689114,
-          "name": "Jaxson Dart",
+          "player_id": 12483,
+          "name": "Matthew Stafford",
           "slot": "QB",
           "pos": "QB",
-          "pro": "NYG",
-          "proj": 0.0,
+          "pro": "LAR",
+          "proj": 15.7,
           "actual": 0.0,
-          "season_ppg": 0.8,
-          "season_total": 0.8,
+          "season_ppg": 27.0,
+          "season_total": 27.0,
           "games_played": 1,
-          "preseason_proj_total": 132.2,
+          "preseason_proj_total": 274.1,
           "starter": true,
-          "injury": "DOUBTFUL"
+          "injury": null
         },
         {
           "player_id": 4379399,
@@ -9365,17 +9365,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4360248,
-          "name": "Kyle Pitts Sr.",
+          "player_id": 4430027,
+          "name": "Sam LaPorta",
           "slot": "TE",
           "pos": "TE",
-          "pro": "ATL",
-          "proj": 9.9,
+          "pro": "DET",
+          "proj": 11.2,
           "actual": 0.0,
-          "season_ppg": 2.5,
-          "season_total": 2.5,
+          "season_ppg": 17.2,
+          "season_total": 17.2,
           "games_played": 1,
-          "preseason_proj_total": 143.1,
+          "preseason_proj_total": 191.8,
           "starter": true,
           "injury": null
         },
@@ -9425,21 +9425,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 12483,
-          "name": "Matthew Stafford",
-          "slot": "BE",
-          "pos": "QB",
-          "pro": "LAR",
-          "proj": 15.7,
-          "actual": 0.0,
-          "season_ppg": 27.0,
-          "season_total": 27.0,
-          "games_played": 1,
-          "preseason_proj_total": 274.1,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 4685512,
           "name": "Jadarian Price",
           "slot": "BE",
@@ -9470,17 +9455,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4430027,
-          "name": "Sam LaPorta",
+          "player_id": 4360248,
+          "name": "Kyle Pitts Sr.",
           "slot": "BE",
           "pos": "TE",
-          "pro": "DET",
-          "proj": 11.2,
+          "pro": "ATL",
+          "proj": 9.9,
           "actual": 0.0,
-          "season_ppg": 17.2,
-          "season_total": 17.2,
+          "season_ppg": 2.5,
+          "season_total": 2.5,
           "games_played": 1,
-          "preseason_proj_total": 191.8,
+          "preseason_proj_total": 143.1,
           "starter": false,
           "injury": null
         },
@@ -9528,6 +9513,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 144.5,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4689114,
+          "name": "Jaxson Dart",
+          "slot": "BE",
+          "pos": "QB",
+          "pro": "NYG",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 0.8,
+          "season_total": 0.8,
+          "games_played": 1,
+          "preseason_proj_total": 132.2,
+          "starter": false,
+          "injury": "DOUBTFUL"
         }
       ],
       "draft": {
@@ -15180,17 +15180,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3116165,
-          "name": "Chris Godwin Jr.",
+          "player_id": 4569987,
+          "name": "Jaylen Warren",
           "slot": "FLEX",
-          "pos": "WR",
-          "pro": "TB",
-          "proj": 8.8,
+          "pos": "RB",
+          "pro": "PIT",
+          "proj": 13.3,
           "actual": 0.0,
-          "season_ppg": 8.8,
-          "season_total": 8.8,
+          "season_ppg": 9.7,
+          "season_total": 9.7,
           "games_played": 1,
-          "preseason_proj_total": 187.6,
+          "preseason_proj_total": 250.2,
           "starter": true,
           "injury": null
         },
@@ -15222,21 +15222,6 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 135.9,
           "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4569987,
-          "name": "Jaylen Warren",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "PIT",
-          "proj": 13.3,
-          "actual": 0.0,
-          "season_ppg": 9.7,
-          "season_total": 9.7,
-          "games_played": 1,
-          "preseason_proj_total": 250.2,
-          "starter": false,
           "injury": null
         },
         {
@@ -15296,6 +15281,21 @@ window.SITE_DATA = {
           "season_total": 14.3,
           "games_played": 1,
           "preseason_proj_total": 128.1,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 3116165,
+          "name": "Chris Godwin Jr.",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 8.8,
+          "actual": 0.0,
+          "season_ppg": 8.8,
+          "season_total": 8.8,
+          "games_played": 1,
+          "preseason_proj_total": 187.6,
           "starter": false,
           "injury": null
         },

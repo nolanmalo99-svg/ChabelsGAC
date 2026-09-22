@@ -656,7 +656,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 101.1,
+          "projected": 118.1,
           "starters": [
             {
               "name": "James Cook III",
@@ -704,22 +704,22 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Kyle Pitts Sr.",
+              "name": "Sam LaPorta",
               "slot": "TE",
               "pos": "TE",
-              "pro": "ATL",
-              "proj": 9.9,
+              "pro": "DET",
+              "proj": 11.2,
               "actual": 0.0,
               "injury": null
             },
             {
-              "name": "Jaxson Dart",
+              "name": "Matthew Stafford",
               "slot": "QB",
               "pos": "QB",
-              "pro": "NYG",
-              "proj": 0.0,
+              "pro": "LAR",
+              "proj": 15.7,
               "actual": 0.0,
-              "injury": "DOUBTFUL"
+              "injury": null
             },
             {
               "name": "Lions D/ST",
@@ -740,7 +740,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 76.0,
+          "bench_proj": 59.0,
           "injuries": [
             {
               "name": "Malik Nabers",
@@ -750,15 +750,6 @@ window.MATCHUPS_DATA = {
               "proj": 14.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Jaxson Dart",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "NYG",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "DOUBTFUL"
             }
           ]
         },
@@ -871,7 +862,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 111.9 - Isaac Douglas 101.1. Nolan Malo favored by 10.8.",
+        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 111.9 - Isaac Douglas 118.1. Isaac Douglas favored by 6.2.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -947,7 +938,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "QB",
-            "home_proj": 0.0,
+            "home_proj": 15.7,
             "away_proj": 17.3,
             "edge": "away"
           },
@@ -959,9 +950,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "TE",
-            "home_proj": 9.9,
+            "home_proj": 11.2,
             "away_proj": 11.6,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "WR",
@@ -1621,7 +1612,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-0",
           "actual": 0.0,
-          "projected": 125.0,
+          "projected": 129.5,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1678,11 +1669,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Chris Godwin Jr.",
+              "name": "Jaylen Warren",
               "slot": "FLEX",
-              "pos": "WR",
-              "pro": "TB",
-              "proj": 8.8,
+              "pos": "RB",
+              "pro": "PIT",
+              "proj": 13.3,
               "actual": 0.0,
               "injury": null
             },
@@ -1705,7 +1696,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 69.4,
+          "bench_proj": 64.9,
           "injuries": []
         },
         "away": {
@@ -1807,7 +1798,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (2-0) at Peter Lundquist (2-0). Projected: Austin Carter 130.5 - Peter Lundquist 125.0. Austin Carter favored by 5.5.",
+        "blurb": "Austin Carter (2-0) at Peter Lundquist (2-0). Projected: Austin Carter 130.5 - Peter Lundquist 129.5. Austin Carter favored by 1.0.",
         "home_form": {
           "record_last_n": "2-0",
           "games_considered": 2,
@@ -1889,7 +1880,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 37.2,
+            "home_proj": 50.5,
             "away_proj": 33.8,
             "edge": "home"
           },
@@ -1901,14 +1892,13 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 42.2,
+            "home_proj": 33.4,
             "away_proj": 46.3,
             "edge": "away"
           }
         ],
         "revenge": null,
         "fun_facts": [
-          "If the projection holds, this would be Peter Lundquist's worst week of the season.",
           "Austin Carter owns the league's longest active winning streak at 2 games."
         ],
         "head_to_head": {
