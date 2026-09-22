@@ -173,7 +173,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-0",
           "actual": 55.7,
-          "projected": 58.2,
+          "projected": 55.7,
           "starters": [
             {
               "name": "James Cook III",
@@ -398,7 +398,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "0-1",
           "actual": 144.1,
-          "projected": 145.7,
+          "projected": 144.1,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -594,7 +594,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-0",
           "actual": 94.1,
-          "projected": 95.3,
+          "projected": 94.1,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -698,7 +698,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "1-0",
           "actual": 132.6,
-          "projected": 132.1,
+          "projected": 132.6,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1005,8 +1005,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Wieker",
           "owner": "Evan Wieker",
           "record": "0-1",
-          "actual": 115.9,
-          "projected": 117.4,
+          "actual": 116.6,
+          "projected": 116.6,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1032,7 +1032,7 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "LAR",
               "proj": 14.5,
-              "actual": 15.0,
+              "actual": 15.7,
               "injury": null
             },
             {
@@ -1199,10 +1199,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 37.2,
+        "margin": 36.5,
         "winner": "Austin Carter",
         "phase": "recap",
-        "blurb": "Final: Austin Carter 153.1 - Evan Wieker 115.9. Austin Carter won by 37.2. Top scorers for Austin Carter: Josh Allen (40.8), CeeDee Lamb (35.3)."
+        "blurb": "Final: Austin Carter 153.1 - Evan Wieker 116.6. Austin Carter won by 36.5. Top scorers for Austin Carter: Josh Allen (40.8), CeeDee Lamb (35.3)."
       }
     ],
     "3": [
@@ -1371,8 +1371,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1557,8 +1557,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -1979,8 +1979,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2347,8 +2347,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2664,8 +2664,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -2963,8 +2963,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3347,8 +3347,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3678,8 +3678,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -3690,7 +3690,7 @@ window.MATCHUPS_DATA = {
           "week": 2,
           "home_won": true,
           "home_pts": 153.1,
-          "away_pts": 115.9
+          "away_pts": 116.6
         },
         "fun_facts": [
           "This is their 2nd meeting this season.",
@@ -3866,8 +3866,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4067,8 +4067,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4498,8 +4498,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
@@ -4869,8 +4869,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
-          "season_avg": 131.4,
-          "recent_avg": 131.4,
+          "season_avg": 131.8,
+          "recent_avg": 131.8,
           "streak": 2,
           "streak_type": "L",
           "trend": "steady"
