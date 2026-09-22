@@ -209,7 +209,7 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 14.9,
               "actual": 1.1,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "D'Andre Swift",
@@ -259,6 +259,15 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 82.0,
           "injuries": [
+            {
+              "name": "Malik Nabers",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "NYG",
+              "proj": 14.9,
+              "actual": 1.1,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Jaxson Dart",
               "slot": "QB",
