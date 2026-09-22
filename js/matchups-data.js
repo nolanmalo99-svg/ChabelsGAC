@@ -236,7 +236,7 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 18.2,
               "actual": 0.8,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Lions D/ST",
@@ -266,7 +266,7 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 18.2,
               "actual": 0.8,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             }
           ]
         },
