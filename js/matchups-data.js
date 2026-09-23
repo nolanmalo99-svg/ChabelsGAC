@@ -335,7 +335,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 121.6,
+          "projected": 122.5,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -356,6 +356,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Quinshon Judkins",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "CLE",
+              "proj": 13.7,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Davante Adams",
               "slot": "WR",
               "pos": "WR",
@@ -365,11 +374,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Aaron Jones Sr.",
-              "slot": "FLEX",
-              "pos": "RB",
-              "pro": "MIN",
-              "proj": 13.6,
+              "name": "Joe Burrow",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "CIN",
+              "proj": 16.4,
               "actual": 0.0,
               "injury": null
             },
@@ -392,15 +401,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Baker Mayfield",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "TB",
-              "proj": 15.6,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Jason Myers",
               "slot": "K",
               "pos": "K",
@@ -419,7 +419,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.1,
+          "bench_proj": 60.2,
           "injuries": []
         },
         "away": {
@@ -540,7 +540,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 99.1 - Brady Kienitz 121.6. Brady Kienitz favored by 22.5.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 99.1 - Brady Kienitz 122.5. Brady Kienitz favored by 23.4.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -591,11 +591,11 @@ window.MATCHUPS_DATA = {
             "owner": "Adam Biewen"
           },
           {
-            "name": "Breece Hall",
-            "slot": "RB",
-            "pos": "RB",
-            "pro": "NYJ",
-            "proj": 16.2,
+            "name": "Joe Burrow",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "CIN",
+            "proj": 16.4,
             "actual": 0.0,
             "injury": null,
             "owner": "Brady Kienitz"
@@ -616,13 +616,13 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "QB",
-            "home_proj": 15.6,
+            "home_proj": 16.4,
             "away_proj": 0.0,
             "edge": "home"
           },
           {
             "pos": "RB",
-            "home_proj": 55.1,
+            "home_proj": 55.2,
             "away_proj": 40.2,
             "edge": "home"
           },
