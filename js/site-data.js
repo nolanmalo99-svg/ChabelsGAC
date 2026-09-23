@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-22T20:09:18+00:00",
+  "generated_at": "2026-09-23T00:12:52+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -427,7 +427,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 232.5,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4385690,
@@ -6057,7 +6057,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 177.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4366031,
@@ -7612,7 +7612,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 298.6,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4683062,
@@ -7702,7 +7702,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 289.1,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3121422,
@@ -7732,7 +7732,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 201.1,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360761,
@@ -7762,7 +7762,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 207.3,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4373626,
@@ -16963,7 +16963,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 262.2,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4047650,

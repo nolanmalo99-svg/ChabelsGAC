@@ -429,7 +429,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 79.2,
+          "projected": 99.1,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -438,7 +438,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 19.9,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Derrick Henry",
@@ -522,7 +522,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 19.9,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jayden Daniels",
@@ -540,7 +540,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 79.2 - Brady Kienitz 121.6. Brady Kienitz favored by 42.4.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 99.1 - Brady Kienitz 121.6. Brady Kienitz favored by 22.5.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -577,7 +577,7 @@ window.MATCHUPS_DATA = {
             "pro": "LAR",
             "proj": 19.9,
             "actual": 0.0,
-            "injury": "OUT",
+            "injury": "QUESTIONABLE",
             "owner": "Adam Biewen"
           },
           {
@@ -640,9 +640,7 @@ window.MATCHUPS_DATA = {
           }
         ],
         "revenge": null,
-        "fun_facts": [
-          "If the projection holds, this would be Adam Biewen's worst week of the season."
-        ],
+        "fun_facts": [],
         "head_to_head": {
           "home_w": 3,
           "home_l": 5
@@ -760,7 +758,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 111.9,
+          "projected": 127.6,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -796,7 +794,7 @@ window.MATCHUPS_DATA = {
               "pro": "BAL",
               "proj": 15.6,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jaylen Waddle",
@@ -853,7 +851,7 @@ window.MATCHUPS_DATA = {
               "pro": "BAL",
               "proj": 15.6,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             }
           ]
         },
@@ -862,7 +860,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 111.9 - Isaac Douglas 118.1. Isaac Douglas favored by 6.2.",
+        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 127.6 - Isaac Douglas 118.1. Nolan Malo favored by 9.5.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -962,9 +960,7 @@ window.MATCHUPS_DATA = {
           }
         ],
         "revenge": null,
-        "fun_facts": [
-          "If the projection holds, this would be Nolan Malo's worst week of the season."
-        ],
+        "fun_facts": [],
         "head_to_head": {
           "home_w": 2,
           "home_l": 5
