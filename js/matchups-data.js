@@ -513,7 +513,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.4,
+          "bench_proj": 74.6,
           "injuries": [
             {
               "name": "Puka Nacua",
@@ -738,7 +738,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 59.0,
+          "bench_proj": 63.2,
           "injuries": [
             {
               "name": "Malik Nabers",
@@ -1692,7 +1692,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 64.9,
+          "bench_proj": 70.4,
           "injuries": []
         },
         "away": {
