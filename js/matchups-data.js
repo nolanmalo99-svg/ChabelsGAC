@@ -465,7 +465,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "DOUBTFUL"
+              "injury": "OUT"
             },
             {
               "name": "TreVeyon Henderson",
@@ -531,7 +531,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "DOUBTFUL"
+              "injury": "OUT"
             }
           ]
         },
@@ -758,7 +758,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 126.9,
+          "projected": 129.1,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -824,15 +824,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Ravens D/ST",
-              "slot": "D/ST",
-              "pos": "D/ST",
-              "pro": "BAL",
-              "proj": 4.4,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Jared Goff",
               "slot": "QB",
               "pos": "QB",
@@ -840,9 +831,18 @@ window.MATCHUPS_DATA = {
               "proj": 16.6,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Vikings D/ST",
+              "slot": "D/ST",
+              "pos": "D/ST",
+              "pro": "MIN",
+              "proj": 6.6,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 82.0,
+          "bench_proj": 83.8,
           "injuries": [
             {
               "name": "Zay Flowers",
@@ -860,7 +860,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 126.9 - Isaac Douglas 118.1. Nolan Malo favored by 8.8.",
+        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 129.1 - Isaac Douglas 118.1. Nolan Malo favored by 11.0.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -925,8 +925,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 6.8,
-            "away_proj": 4.4,
-            "edge": "home"
+            "away_proj": 6.6,
+            "edge": "even"
           },
           {
             "pos": "K",
@@ -1389,7 +1389,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 51.4,
+          "bench_proj": 61.3,
           "injuries": []
         },
         "away": {
@@ -1670,7 +1670,7 @@ window.MATCHUPS_DATA = {
               "pro": "PIT",
               "proj": 13.3,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Ka'imi Fairbairn",
@@ -1692,7 +1692,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 70.4,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Jaylen Warren",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "PIT",
+              "proj": 13.3,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 10,
