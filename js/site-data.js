@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-24T20:10:33+00:00",
+  "generated_at": "2026-09-24T23:07:37+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -562,7 +562,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 84.4,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429013,
@@ -577,7 +577,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 109.7,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4038815,
@@ -6027,7 +6027,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 171.4,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4428850,
@@ -7615,6 +7615,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 3121422,
+          "name": "Terry McLaurin",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "WSH",
+          "proj": 11.9,
+          "actual": 0.0,
+          "season_ppg": 7.0,
+          "season_total": 7.0,
+          "games_played": 1,
+          "preseason_proj_total": 247.7,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4683062,
           "name": "Xavier Worthy",
           "slot": "WR",
@@ -7628,21 +7643,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 166.8,
           "starter": true,
           "injury": null
-        },
-        {
-          "player_id": 4426515,
-          "name": "Puka Nacua",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "LAR",
-          "proj": 0.0,
-          "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 1,
-          "preseason_proj_total": 298.6,
-          "starter": true,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361050,
@@ -7705,21 +7705,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3121422,
-          "name": "Terry McLaurin",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "WSH",
-          "proj": 11.9,
-          "actual": 0.0,
-          "season_ppg": 7.0,
-          "season_total": 7.0,
-          "games_played": 1,
-          "preseason_proj_total": 247.7,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 4035687,
           "name": "Michael Pittman Jr.",
           "slot": "BE",
@@ -7763,6 +7748,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 104.8,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4426515,
+          "name": "Puka Nacua",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "LAR",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 0.0,
+          "season_total": 0.0,
+          "games_played": 1,
+          "preseason_proj_total": 298.6,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4258173,
@@ -9407,7 +9407,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 301.4,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": -16008,
@@ -9542,7 +9542,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 132.2,
           "starter": false,
-          "injury": "OUT"
+          "injury": "INJURY_RESERVE"
         }
       ],
       "draft": {
@@ -13235,7 +13235,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "IND",
-          "proj": 11.5,
+          "proj": 12.0,
           "actual": 0.0,
           "season_ppg": 14.2,
           "season_total": 14.2,
@@ -15177,7 +15177,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 223.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429615,

@@ -429,17 +429,8 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 95.8,
+          "projected": 107.7,
           "starters": [
-            {
-              "name": "Puka Nacua",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "LAR",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Derrick Henry",
               "slot": "RB",
@@ -457,6 +448,15 @@ window.MATCHUPS_DATA = {
               "proj": 11.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Terry McLaurin",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "WSH",
+              "proj": 11.9,
+              "actual": 0.0,
+              "injury": null
             },
             {
               "name": "TreVeyon Henderson",
@@ -513,17 +513,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 42.1,
+          "bench_proj": 30.2,
           "injuries": [
-            {
-              "name": "Puka Nacua",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "LAR",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Travis Etienne Jr.",
               "slot": "FLEX",
@@ -540,7 +531,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 95.8 - Brady Kienitz 125.5. Brady Kienitz favored by 29.7.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 107.7 - Brady Kienitz 125.5. Brady Kienitz favored by 17.8.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -635,7 +626,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 29.2,
-            "away_proj": 11.4,
+            "away_proj": 23.3,
             "edge": "home"
           }
         ],
@@ -690,7 +681,7 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 14.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "D'Andre Swift",
@@ -739,17 +730,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 63.3,
-          "injuries": [
-            {
-              "name": "Malik Nabers",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "NYG",
-              "proj": 14.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 1,
@@ -1624,7 +1605,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 15.6,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Lamar Jackson",
@@ -1683,6 +1664,15 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 72.5,
           "injuries": [
+            {
+              "name": "DeVonta Smith",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "PHI",
+              "proj": 15.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Jaylen Warren",
               "slot": "FLEX",
@@ -1794,7 +1784,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 64.2,
+          "bench_proj": 64.7,
           "injuries": []
         },
         "played": false,
