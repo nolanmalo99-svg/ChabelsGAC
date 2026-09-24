@@ -335,7 +335,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 122.5,
+          "projected": 125.5,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -369,7 +369,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 13.8,
+              "proj": 16.9,
               "actual": 0.0,
               "injury": null
             },
@@ -429,14 +429,14 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 115.8,
+          "projected": 95.8,
           "starters": [
             {
               "name": "Puka Nacua",
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 19.9,
+              "proj": 0.0,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -513,14 +513,14 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 57.9,
+          "bench_proj": 42.1,
           "injuries": [
             {
               "name": "Puka Nacua",
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 19.9,
+              "proj": 0.0,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -540,7 +540,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 115.8 - Brady Kienitz 122.5. Brady Kienitz favored by 6.7.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 95.8 - Brady Kienitz 125.5. Brady Kienitz favored by 29.7.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -571,16 +571,6 @@ window.MATCHUPS_DATA = {
             "owner": "Brady Kienitz"
           },
           {
-            "name": "Puka Nacua",
-            "slot": "WR",
-            "pos": "WR",
-            "pro": "LAR",
-            "proj": 19.9,
-            "actual": 0.0,
-            "injury": "QUESTIONABLE",
-            "owner": "Adam Biewen"
-          },
-          {
             "name": "Derrick Henry",
             "slot": "RB",
             "pos": "RB",
@@ -589,6 +579,16 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Adam Biewen"
+          },
+          {
+            "name": "Davante Adams",
+            "slot": "WR",
+            "pos": "WR",
+            "pro": "LAR",
+            "proj": 16.9,
+            "actual": 0.0,
+            "injury": null,
+            "owner": "Brady Kienitz"
           },
           {
             "name": "Bryce Young",
@@ -634,9 +634,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 26.1,
-            "away_proj": 31.3,
-            "edge": "away"
+            "home_proj": 29.2,
+            "away_proj": 11.4,
+            "edge": "home"
           }
         ],
         "revenge": null,
@@ -842,7 +842,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 66.5,
+          "bench_proj": 66.6,
           "injuries": []
         },
         "played": false,
@@ -1077,7 +1077,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-2",
           "actual": 0.0,
-          "projected": 124.1,
+          "projected": 124.4,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1111,7 +1111,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "LAR",
-              "proj": 12.6,
+              "proj": 13.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1161,7 +1161,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 72.3,
+          "bench_proj": 74.2,
           "injuries": [
             {
               "name": "Brock Bowers",
@@ -1179,7 +1179,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (0-2) at Adam Schumacher (1-1). Projected: Evan Wieker 124.1 - Adam Schumacher 127.9. Adam Schumacher favored by 3.8.",
+        "blurb": "Evan Wieker (0-2) at Adam Schumacher (1-1). Projected: Evan Wieker 124.4 - Adam Schumacher 127.9. Adam Schumacher favored by 3.5.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -1262,7 +1262,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 38.3,
-            "away_proj": 31.5,
+            "away_proj": 31.9,
             "edge": "home"
           },
           {
@@ -1295,7 +1295,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "0-2",
           "actual": 0.0,
-          "projected": 118.9,
+          "projected": 119.0,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1365,7 +1365,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "DEN",
-              "proj": 3.7,
+              "proj": 3.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1473,7 +1473,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 79.8,
+          "bench_proj": 80.6,
           "injuries": []
         },
         "played": false,
@@ -1481,7 +1481,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "logan rezac (1-1) at Jordan Schommer (0-2). Projected: logan rezac 124.1 - Jordan Schommer 118.9. logan rezac favored by 5.2.",
+        "blurb": "logan rezac (1-1) at Jordan Schommer (0-2). Projected: logan rezac 124.1 - Jordan Schommer 119.0. logan rezac favored by 5.1.",
         "home_form": {
           "record_last_n": "0-2",
           "games_considered": 2,
@@ -1545,7 +1545,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 3.7,
+            "home_proj": 3.8,
             "away_proj": 6.1,
             "edge": "away"
           },
@@ -1726,7 +1726,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "MIA",
-              "proj": 19.4,
+              "proj": 19.5,
               "actual": 0.0,
               "injury": null
             },
@@ -1857,7 +1857,7 @@ window.MATCHUPS_DATA = {
             "slot": "RB",
             "pos": "RB",
             "pro": "MIA",
-            "proj": 19.4,
+            "proj": 19.5,
             "actual": 0.0,
             "injury": null,
             "owner": "Austin Carter"
@@ -1885,7 +1885,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 52.1,
-            "away_proj": 33.8,
+            "away_proj": 33.9,
             "edge": "home"
           },
           {
