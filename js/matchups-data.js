@@ -429,7 +429,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 107.7,
+          "projected": 107.6,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -447,14 +447,14 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 11.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Terry McLaurin",
               "slot": "WR",
               "pos": "WR",
               "pro": "WSH",
-              "proj": 11.9,
+              "proj": 11.8,
               "actual": 0.0,
               "injury": null
             },
@@ -513,25 +513,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 30.2,
-          "injuries": [
-            {
-              "name": "Travis Etienne Jr.",
-              "slot": "FLEX",
-              "pos": "RB",
-              "pro": "NO",
-              "proj": 11.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 32.3,
+          "injuries": []
         },
         "played": false,
         "playoff": false,
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 107.7 - Brady Kienitz 125.5. Brady Kienitz favored by 17.8.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 107.6 - Brady Kienitz 125.5. Brady Kienitz favored by 17.9.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -626,7 +616,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 29.2,
-            "away_proj": 23.3,
+            "away_proj": 23.2,
             "edge": "home"
           }
         ],
@@ -1058,7 +1048,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-2",
           "actual": 0.0,
-          "projected": 124.4,
+          "projected": 124.2,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1137,7 +1127,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "SF",
-              "proj": 7.5,
+              "proj": 7.3,
               "actual": 0.0,
               "injury": null
             }
@@ -1160,7 +1150,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (0-2) at Adam Schumacher (1-1). Projected: Evan Wieker 124.4 - Adam Schumacher 127.9. Adam Schumacher favored by 3.5.",
+        "blurb": "Evan Wieker (0-2) at Adam Schumacher (1-1). Projected: Evan Wieker 124.2 - Adam Schumacher 127.9. Adam Schumacher favored by 3.7.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -1225,7 +1215,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 6.5,
-            "away_proj": 7.5,
+            "away_proj": 7.3,
             "edge": "even"
           },
           {
@@ -1292,7 +1282,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "ARI",
-              "proj": 12.7,
+              "proj": 12.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1601,7 +1591,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "MIA",
-              "proj": 19.5,
+              "proj": 19.4,
               "actual": 0.0,
               "injury": null
             },
