@@ -1276,7 +1276,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "0-2",
           "actual": 35.3,
-          "projected": 134.8,
+          "projected": 138.1,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1342,20 +1342,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Broncos D/ST",
-              "slot": "D/ST",
-              "pos": "D/ST",
-              "pro": "DEN",
-              "proj": 3.8,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Eddy Pineiro",
               "slot": "K",
               "pos": "K",
               "pro": "SF",
               "proj": 9.9,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Panthers D/ST",
+              "slot": "D/ST",
+              "pos": "D/ST",
+              "pro": "CAR",
+              "proj": 7.1,
               "actual": 0.0,
               "injury": null
             }
@@ -1472,7 +1472,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-0",
           "actual": 6.6,
-          "projected": 125.6,
+          "projected": 121.3,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1538,6 +1538,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Denzel Boston",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CLE",
+              "proj": 11.3,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Tucker Kraft",
               "slot": "TE",
               "pos": "TE",
@@ -1545,18 +1554,9 @@ window.MATCHUPS_DATA = {
               "proj": 10.3,
               "actual": 6.6,
               "injury": null
-            },
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 15.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 72.5,
+          "bench_proj": 76.8,
           "injuries": [
             {
               "name": "DeVonta Smith",
@@ -1573,15 +1573,6 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "PIT",
               "proj": 14.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 15.6,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
