@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-25T01:50:07+00:00",
+  "generated_at": "2026-09-25T02:07:17+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -2566,7 +2566,7 @@
           "pos": "WR",
           "pro": "GB",
           "proj": 11.4,
-          "actual": 7.3,
+          "actual": 9.5,
           "season_ppg": 9.8,
           "season_total": 9.8,
           "games_played": 1,
@@ -13146,7 +13146,7 @@
           "pos": "WR",
           "pro": "GB",
           "proj": 14.0,
-          "actual": 7.4,
+          "actual": 10.6,
           "season_ppg": 14.1,
           "season_total": 14.1,
           "games_played": 1,
