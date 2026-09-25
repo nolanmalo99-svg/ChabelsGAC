@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-25T02:24:39+00:00",
+  "generated_at": "2026-09-25T02:38:03+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -718,8 +718,8 @@
             "pick_in_round": 3,
             "overall_pick": 73,
             "bid_amount": null,
-            "points": 5.3,
-            "value_diff": -40,
+            "points": 5.8,
+            "value_diff": -36,
             "dropped": false
           },
           {
@@ -1848,8 +1848,8 @@
               "pick_in_round": 3,
               "overall_pick": 73,
               "bid_amount": null,
-              "points": 5.3,
-              "value_diff": -40,
+              "points": 5.8,
+              "value_diff": -36,
               "dropped": false
             },
             {
@@ -4467,7 +4467,7 @@
             "overall_pick": 65,
             "bid_amount": null,
             "points": 5.5,
-            "value_diff": -46,
+            "value_diff": -47,
             "dropped": false
           },
           {
@@ -5597,7 +5597,7 @@
               "overall_pick": 65,
               "bid_amount": null,
               "points": 5.5,
-              "value_diff": -46,
+              "value_diff": -47,
               "dropped": false
             },
             {
@@ -5856,9 +5856,9 @@
           "pos": "RB",
           "pro": "ATL",
           "proj": 19.5,
-          "actual": 25.7,
-          "season_ppg": 25.7,
-          "season_total": 25.7,
+          "actual": 26.6,
+          "season_ppg": 26.6,
+          "season_total": 26.6,
           "games_played": 1,
           "preseason_proj_total": 339.4,
           "starter": true,
@@ -6129,8 +6129,8 @@
             "pick_in_round": 2,
             "overall_pick": 2,
             "bid_amount": null,
-            "points": 25.7,
-            "value_diff": -11,
+            "points": 26.6,
+            "value_diff": -10,
             "dropped": false
           },
           {
@@ -7259,8 +7259,8 @@
               "pick_in_round": 2,
               "overall_pick": 2,
               "bid_amount": null,
-              "points": 25.7,
-              "value_diff": -11,
+              "points": 26.6,
+              "value_diff": -10,
               "dropped": false
             },
             {
@@ -11640,7 +11640,7 @@
             "overall_pick": 3,
             "bid_amount": null,
             "points": 26.5,
-            "value_diff": -9,
+            "value_diff": -10,
             "dropped": false
           },
           {
@@ -11772,7 +11772,7 @@
             "overall_pick": 118,
             "bid_amount": null,
             "points": 5.8,
-            "value_diff": 9,
+            "value_diff": 8,
             "dropped": false
           },
           {
@@ -12770,7 +12770,7 @@
               "overall_pick": 3,
               "bid_amount": null,
               "points": 26.5,
-              "value_diff": -9,
+              "value_diff": -10,
               "dropped": false
             },
             {
@@ -12902,7 +12902,7 @@
               "overall_pick": 118,
               "bid_amount": null,
               "points": 5.8,
-              "value_diff": 9,
+              "value_diff": 8,
               "dropped": false
             },
             {
@@ -15201,9 +15201,9 @@
           "pos": "TE",
           "pro": "GB",
           "proj": 10.3,
-          "actual": 5.3,
-          "season_ppg": 5.3,
-          "season_total": 5.3,
+          "actual": 5.8,
+          "season_ppg": 5.8,
+          "season_total": 5.8,
           "games_played": 1,
           "preseason_proj_total": 160.0,
           "starter": true,
@@ -15487,7 +15487,7 @@
             "overall_pick": 67,
             "bid_amount": null,
             "points": 5.7,
-            "value_diff": -43,
+            "value_diff": -44,
             "dropped": false
           },
           {
@@ -16617,7 +16617,7 @@
               "overall_pick": 67,
               "bid_amount": null,
               "points": 5.7,
-              "value_diff": -43,
+              "value_diff": -44,
               "dropped": false
             },
             {
@@ -17171,7 +17171,7 @@
             "overall_pick": 55,
             "bid_amount": null,
             "points": 5.3,
-            "value_diff": -57,
+            "value_diff": -58,
             "dropped": false
           },
           {
@@ -18075,7 +18075,7 @@
               "overall_pick": 55,
               "bid_amount": null,
               "points": 5.3,
-              "value_diff": -57,
+              "value_diff": -58,
               "dropped": false
             },
             {
