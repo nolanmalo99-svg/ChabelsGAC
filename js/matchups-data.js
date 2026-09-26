@@ -1480,7 +1480,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 15.6,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Lamar Jackson",
@@ -1539,15 +1539,6 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 72.5,
           "injuries": [
-            {
-              "name": "DeVonta Smith",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 15.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Jaylen Warren",
               "slot": "FLEX",
