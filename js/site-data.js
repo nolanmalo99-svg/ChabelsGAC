@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-25T20:08:53+00:00",
+  "generated_at": "2026-09-26T00:12:26+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -4157,7 +4157,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 326.0,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4239993,
@@ -9452,7 +9452,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 172.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4361432,

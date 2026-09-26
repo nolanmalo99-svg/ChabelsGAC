@@ -953,7 +953,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 17.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Trey McBride",
@@ -1021,15 +1021,6 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 65.8,
           "injuries": [
-            {
-              "name": "Saquon Barkley",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "PHI",
-              "proj": 17.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "DJ Moore",
               "slot": "FLEX",
