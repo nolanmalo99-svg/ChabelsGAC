@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-27T18:30:50+00:00",
+  "generated_at": "2026-09-27T18:54:19+00:00",
   "current_week": 3,
   "standings": [
     {
@@ -361,7 +361,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "DET",
           "proj": 16.6,
-          "actual": 8.7,
+          "actual": 11.1,
           "season_ppg": 29.8,
           "season_total": 29.8,
           "games_played": 1,
@@ -496,9 +496,9 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "LAC",
           "proj": 17.3,
-          "actual": 8.7,
-          "season_ppg": 8.7,
-          "season_total": 8.7,
+          "actual": 11.6,
+          "season_ppg": 11.6,
+          "season_total": 11.6,
           "games_played": 1,
           "preseason_proj_total": 284.5,
           "starter": false,
@@ -517,7 +517,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 235.1,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4035538,
@@ -659,7 +659,7 @@ window.SITE_DATA = {
             "overall_pick": 28,
             "bid_amount": null,
             "points": 8.0,
-            "value_diff": -59,
+            "value_diff": -60,
             "dropped": false
           },
           {
@@ -695,7 +695,7 @@ window.SITE_DATA = {
             "overall_pick": 53,
             "bid_amount": null,
             "points": 4.4,
-            "value_diff": -68,
+            "value_diff": -69,
             "dropped": false
           },
           {
@@ -707,7 +707,7 @@ window.SITE_DATA = {
             "overall_pick": 68,
             "bid_amount": null,
             "points": 8.4,
-            "value_diff": -16,
+            "value_diff": -17,
             "dropped": false
           },
           {
@@ -719,7 +719,7 @@ window.SITE_DATA = {
             "overall_pick": 73,
             "bid_amount": null,
             "points": 6.6,
-            "value_diff": -33,
+            "value_diff": -35,
             "dropped": false
           },
           {
@@ -730,8 +730,8 @@ window.SITE_DATA = {
             "pick_in_round": 8,
             "overall_pick": 88,
             "bid_amount": null,
-            "points": 8.7,
-            "value_diff": 6,
+            "points": 11.6,
+            "value_diff": 24,
             "dropped": false
           },
           {
@@ -743,7 +743,7 @@ window.SITE_DATA = {
             "overall_pick": 93,
             "bid_amount": null,
             "points": 6.4,
-            "value_diff": -16,
+            "value_diff": -17,
             "dropped": false
           },
           {
@@ -1789,7 +1789,7 @@ window.SITE_DATA = {
               "overall_pick": 28,
               "bid_amount": null,
               "points": 8.0,
-              "value_diff": -59,
+              "value_diff": -60,
               "dropped": false
             },
             {
@@ -1825,7 +1825,7 @@ window.SITE_DATA = {
               "overall_pick": 53,
               "bid_amount": null,
               "points": 4.4,
-              "value_diff": -68,
+              "value_diff": -69,
               "dropped": false
             },
             {
@@ -1837,7 +1837,7 @@ window.SITE_DATA = {
               "overall_pick": 68,
               "bid_amount": null,
               "points": 8.4,
-              "value_diff": -16,
+              "value_diff": -17,
               "dropped": false
             },
             {
@@ -1849,7 +1849,7 @@ window.SITE_DATA = {
               "overall_pick": 73,
               "bid_amount": null,
               "points": 6.6,
-              "value_diff": -33,
+              "value_diff": -35,
               "dropped": false
             },
             {
@@ -1860,8 +1860,8 @@ window.SITE_DATA = {
               "pick_in_round": 8,
               "overall_pick": 88,
               "bid_amount": null,
-              "points": 8.7,
-              "value_diff": 6,
+              "points": 11.6,
+              "value_diff": 24,
               "dropped": false
             },
             {
@@ -1873,7 +1873,7 @@ window.SITE_DATA = {
               "overall_pick": 93,
               "bid_amount": null,
               "points": 6.4,
-              "value_diff": -16,
+              "value_diff": -17,
               "dropped": false
             },
             {
@@ -2401,7 +2401,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "CIN",
           "proj": 16.4,
-          "actual": 9.0,
+          "actual": 14.6,
           "season_ppg": 16.2,
           "season_total": 16.2,
           "games_played": 1,
@@ -2416,7 +2416,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "DET",
           "proj": 25.3,
-          "actual": 11.0,
+          "actual": 22.4,
           "season_ppg": 23.3,
           "season_total": 23.3,
           "games_played": 1,
@@ -2431,7 +2431,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "NYJ",
           "proj": 16.2,
-          "actual": 7.3,
+          "actual": 8.7,
           "season_ppg": 14.2,
           "season_total": 14.2,
           "games_played": 1,
@@ -2521,7 +2521,7 @@ window.SITE_DATA = {
           "pos": "K",
           "pro": "SEA",
           "proj": 9.4,
-          "actual": 1.0,
+          "actual": 6.0,
           "season_ppg": 7.0,
           "season_total": 7.0,
           "games_played": 1,
@@ -2711,7 +2711,7 @@ window.SITE_DATA = {
             "overall_pick": 40,
             "bid_amount": null,
             "points": 9.8,
-            "value_diff": -37,
+            "value_diff": -39,
             "dropped": false
           },
           {
@@ -2759,7 +2759,7 @@ window.SITE_DATA = {
             "overall_pick": 80,
             "bid_amount": null,
             "points": 10.5,
-            "value_diff": 11,
+            "value_diff": 8,
             "dropped": false
           },
           {
@@ -2783,7 +2783,7 @@ window.SITE_DATA = {
             "overall_pick": 100,
             "bid_amount": null,
             "points": 6.5,
-            "value_diff": -8,
+            "value_diff": -9,
             "dropped": false
           },
           {
@@ -2819,7 +2819,7 @@ window.SITE_DATA = {
             "overall_pick": 121,
             "bid_amount": null,
             "points": 10.9,
-            "value_diff": 53,
+            "value_diff": 50,
             "dropped": false
           },
           {
@@ -2843,7 +2843,7 @@ window.SITE_DATA = {
             "overall_pick": 141,
             "bid_amount": null,
             "points": 7.0,
-            "value_diff": 41,
+            "value_diff": 40,
             "dropped": false
           },
           {
@@ -3841,7 +3841,7 @@ window.SITE_DATA = {
               "overall_pick": 40,
               "bid_amount": null,
               "points": 9.8,
-              "value_diff": -37,
+              "value_diff": -39,
               "dropped": false
             },
             {
@@ -3889,7 +3889,7 @@ window.SITE_DATA = {
               "overall_pick": 80,
               "bid_amount": null,
               "points": 10.5,
-              "value_diff": 11,
+              "value_diff": 8,
               "dropped": false
             },
             {
@@ -3913,7 +3913,7 @@ window.SITE_DATA = {
               "overall_pick": 100,
               "bid_amount": null,
               "points": 6.5,
-              "value_diff": -8,
+              "value_diff": -9,
               "dropped": false
             },
             {
@@ -3949,7 +3949,7 @@ window.SITE_DATA = {
               "overall_pick": 121,
               "bid_amount": null,
               "points": 10.9,
-              "value_diff": 53,
+              "value_diff": 50,
               "dropped": false
             },
             {
@@ -3973,7 +3973,7 @@ window.SITE_DATA = {
               "overall_pick": 141,
               "bid_amount": null,
               "points": 7.0,
-              "value_diff": 41,
+              "value_diff": 40,
               "dropped": false
             },
             {
@@ -4166,7 +4166,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "CIN",
           "proj": 12.7,
-          "actual": 2.0,
+          "actual": 14.1,
           "season_ppg": 14.5,
           "season_total": 14.5,
           "games_played": 1,
@@ -4226,9 +4226,9 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "HOU",
           "proj": 6.4,
-          "actual": 10.0,
-          "season_ppg": 10.0,
-          "season_total": 10.0,
+          "actual": 11.0,
+          "season_ppg": 11.0,
+          "season_total": 11.0,
           "games_played": 1,
           "preseason_proj_total": 128.8,
           "starter": true,
@@ -4271,9 +4271,9 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "NE",
           "proj": 12.1,
-          "actual": 2.1,
-          "season_ppg": 3.6,
-          "season_total": 3.6,
+          "actual": 6.8,
+          "season_ppg": 6.8,
+          "season_total": 6.8,
           "games_played": 1,
           "preseason_proj_total": 173.1,
           "starter": false,
@@ -4431,7 +4431,7 @@ window.SITE_DATA = {
             "overall_pick": 36,
             "bid_amount": null,
             "points": 10.3,
-            "value_diff": -35,
+            "value_diff": -38,
             "dropped": false
           },
           {
@@ -4455,7 +4455,7 @@ window.SITE_DATA = {
             "overall_pick": 56,
             "bid_amount": null,
             "points": 7.9,
-            "value_diff": -34,
+            "value_diff": -35,
             "dropped": false
           },
           {
@@ -4467,7 +4467,7 @@ window.SITE_DATA = {
             "overall_pick": 65,
             "bid_amount": null,
             "points": 5.5,
-            "value_diff": -50,
+            "value_diff": -51,
             "dropped": false
           },
           {
@@ -4478,8 +4478,8 @@ window.SITE_DATA = {
             "pick_in_round": 6,
             "overall_pick": 76,
             "bid_amount": null,
-            "points": 3.6,
-            "value_diff": -49,
+            "points": 6.8,
+            "value_diff": -28,
             "dropped": false
           },
           {
@@ -4491,7 +4491,7 @@ window.SITE_DATA = {
             "overall_pick": 85,
             "bid_amount": null,
             "points": 4.1,
-            "value_diff": -37,
+            "value_diff": -38,
             "dropped": false
           },
           {
@@ -4539,7 +4539,7 @@ window.SITE_DATA = {
             "overall_pick": 125,
             "bid_amount": null,
             "points": 9.0,
-            "value_diff": 45,
+            "value_diff": 44,
             "dropped": false
           },
           {
@@ -4550,8 +4550,8 @@ window.SITE_DATA = {
             "pick_in_round": 6,
             "overall_pick": 136,
             "bid_amount": null,
-            "points": 10.0,
-            "value_diff": 62,
+            "points": 11.0,
+            "value_diff": 67,
             "dropped": false
           },
           {
@@ -4563,7 +4563,7 @@ window.SITE_DATA = {
             "overall_pick": 145,
             "bid_amount": null,
             "points": 10.0,
-            "value_diff": 69,
+            "value_diff": 67,
             "dropped": false
           },
           {
@@ -5561,7 +5561,7 @@ window.SITE_DATA = {
               "overall_pick": 36,
               "bid_amount": null,
               "points": 10.3,
-              "value_diff": -35,
+              "value_diff": -38,
               "dropped": false
             },
             {
@@ -5585,7 +5585,7 @@ window.SITE_DATA = {
               "overall_pick": 56,
               "bid_amount": null,
               "points": 7.9,
-              "value_diff": -34,
+              "value_diff": -35,
               "dropped": false
             },
             {
@@ -5597,7 +5597,7 @@ window.SITE_DATA = {
               "overall_pick": 65,
               "bid_amount": null,
               "points": 5.5,
-              "value_diff": -50,
+              "value_diff": -51,
               "dropped": false
             },
             {
@@ -5608,8 +5608,8 @@ window.SITE_DATA = {
               "pick_in_round": 6,
               "overall_pick": 76,
               "bid_amount": null,
-              "points": 3.6,
-              "value_diff": -49,
+              "points": 6.8,
+              "value_diff": -28,
               "dropped": false
             },
             {
@@ -5621,7 +5621,7 @@ window.SITE_DATA = {
               "overall_pick": 85,
               "bid_amount": null,
               "points": 4.1,
-              "value_diff": -37,
+              "value_diff": -38,
               "dropped": false
             },
             {
@@ -5669,7 +5669,7 @@ window.SITE_DATA = {
               "overall_pick": 125,
               "bid_amount": null,
               "points": 9.0,
-              "value_diff": 45,
+              "value_diff": 44,
               "dropped": false
             },
             {
@@ -5680,8 +5680,8 @@ window.SITE_DATA = {
               "pick_in_round": 6,
               "overall_pick": 136,
               "bid_amount": null,
-              "points": 10.0,
-              "value_diff": 62,
+              "points": 11.0,
+              "value_diff": 67,
               "dropped": false
             },
             {
@@ -5693,7 +5693,7 @@ window.SITE_DATA = {
               "overall_pick": 145,
               "bid_amount": null,
               "points": 10.0,
-              "value_diff": 69,
+              "value_diff": 67,
               "dropped": false
             },
             {
@@ -5901,7 +5901,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "KC",
           "proj": 12.7,
-          "actual": 5.0,
+          "actual": 7.2,
           "season_ppg": 12.3,
           "season_total": 12.3,
           "games_played": 1,
@@ -5931,9 +5931,9 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "LAC",
           "proj": 13.6,
-          "actual": 1.7,
-          "season_ppg": 6.5,
-          "season_total": 6.5,
+          "actual": 6.7,
+          "season_ppg": 6.7,
+          "season_total": 6.7,
           "games_played": 1,
           "preseason_proj_total": 243.2,
           "starter": true,
@@ -5946,7 +5946,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "CAR",
           "proj": 7.2,
-          "actual": 6.0,
+          "actual": 8.0,
           "season_ppg": 24.0,
           "season_total": 24.0,
           "games_played": 1,
@@ -6117,7 +6117,7 @@ window.SITE_DATA = {
           "overall_pick": 19,
           "bid_amount": null,
           "points": 7.5,
-          "value_diff": -74,
+          "value_diff": -75,
           "dropped": false
         },
         "picks": [
@@ -6142,7 +6142,7 @@ window.SITE_DATA = {
             "overall_pick": 19,
             "bid_amount": null,
             "points": 7.5,
-            "value_diff": -74,
+            "value_diff": -75,
             "dropped": false
           },
           {
@@ -6177,8 +6177,8 @@ window.SITE_DATA = {
             "pick_in_round": 2,
             "overall_pick": 42,
             "bid_amount": null,
-            "points": 6.5,
-            "value_diff": -65,
+            "points": 6.7,
+            "value_diff": -64,
             "dropped": false
           },
           {
@@ -6310,7 +6310,7 @@ window.SITE_DATA = {
             "overall_pick": 159,
             "bid_amount": null,
             "points": 5.0,
-            "value_diff": 39,
+            "value_diff": 38,
             "dropped": false
           }
         ]
@@ -7247,7 +7247,7 @@ window.SITE_DATA = {
             "overall_pick": 19,
             "bid_amount": null,
             "points": 7.5,
-            "value_diff": -74,
+            "value_diff": -75,
             "dropped": false
           },
           "picks": [
@@ -7272,7 +7272,7 @@ window.SITE_DATA = {
               "overall_pick": 19,
               "bid_amount": null,
               "points": 7.5,
-              "value_diff": -74,
+              "value_diff": -75,
               "dropped": false
             },
             {
@@ -7307,8 +7307,8 @@ window.SITE_DATA = {
               "pick_in_round": 2,
               "overall_pick": 42,
               "bid_amount": null,
-              "points": 6.5,
-              "value_diff": -65,
+              "points": 6.7,
+              "value_diff": -64,
               "dropped": false
             },
             {
@@ -7440,7 +7440,7 @@ window.SITE_DATA = {
               "overall_pick": 159,
               "bid_amount": null,
               "points": 5.0,
-              "value_diff": 39,
+              "value_diff": 38,
               "dropped": false
             }
           ],
@@ -7576,7 +7576,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "CAR",
           "proj": 16.7,
-          "actual": 4.7,
+          "actual": 4.8,
           "season_ppg": 24.1,
           "season_total": 24.1,
           "games_played": 1,
@@ -7621,7 +7621,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "WSH",
           "proj": 11.8,
-          "actual": 3.7,
+          "actual": 6.5,
           "season_ppg": 7.0,
           "season_total": 7.0,
           "games_played": 1,
@@ -7651,7 +7651,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "NE",
           "proj": 10.1,
-          "actual": 0.0,
+          "actual": 1.5,
           "season_ppg": 7.0,
           "season_total": 7.0,
           "games_played": 1,
@@ -7681,7 +7681,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "SEA",
           "proj": 7.3,
-          "actual": 4.0,
+          "actual": 5.0,
           "season_ppg": 10.0,
           "season_total": 10.0,
           "games_played": 1,
@@ -7696,7 +7696,7 @@ window.SITE_DATA = {
           "pos": "K",
           "pro": "CIN",
           "proj": 7.8,
-          "actual": 6.0,
+          "actual": 7.0,
           "season_ppg": 12.0,
           "season_total": 12.0,
           "games_played": 1,
@@ -7901,7 +7901,7 @@ window.SITE_DATA = {
             "overall_pick": 37,
             "bid_amount": null,
             "points": 7.1,
-            "value_diff": -59,
+            "value_diff": -60,
             "dropped": false
           },
           {
@@ -7913,7 +7913,7 @@ window.SITE_DATA = {
             "overall_pick": 44,
             "bid_amount": null,
             "points": 7.0,
-            "value_diff": -53,
+            "value_diff": -54,
             "dropped": false
           },
           {
@@ -7949,7 +7949,7 @@ window.SITE_DATA = {
             "overall_pick": 77,
             "bid_amount": null,
             "points": 3.8,
-            "value_diff": -47,
+            "value_diff": -48,
             "dropped": false
           },
           {
@@ -7985,7 +7985,7 @@ window.SITE_DATA = {
             "overall_pick": 104,
             "bid_amount": null,
             "points": 8.3,
-            "value_diff": 19,
+            "value_diff": 18,
             "dropped": false
           },
           {
@@ -8009,7 +8009,7 @@ window.SITE_DATA = {
             "overall_pick": 124,
             "bid_amount": null,
             "points": 7.7,
-            "value_diff": 32,
+            "value_diff": 31,
             "dropped": false
           },
           {
@@ -8033,7 +8033,7 @@ window.SITE_DATA = {
             "overall_pick": 144,
             "bid_amount": null,
             "points": 10.0,
-            "value_diff": 69,
+            "value_diff": 67,
             "dropped": false
           },
           {
@@ -9031,7 +9031,7 @@ window.SITE_DATA = {
               "overall_pick": 37,
               "bid_amount": null,
               "points": 7.1,
-              "value_diff": -59,
+              "value_diff": -60,
               "dropped": false
             },
             {
@@ -9043,7 +9043,7 @@ window.SITE_DATA = {
               "overall_pick": 44,
               "bid_amount": null,
               "points": 7.0,
-              "value_diff": -53,
+              "value_diff": -54,
               "dropped": false
             },
             {
@@ -9079,7 +9079,7 @@ window.SITE_DATA = {
               "overall_pick": 77,
               "bid_amount": null,
               "points": 3.8,
-              "value_diff": -47,
+              "value_diff": -48,
               "dropped": false
             },
             {
@@ -9115,7 +9115,7 @@ window.SITE_DATA = {
               "overall_pick": 104,
               "bid_amount": null,
               "points": 8.3,
-              "value_diff": 19,
+              "value_diff": 18,
               "dropped": false
             },
             {
@@ -9139,7 +9139,7 @@ window.SITE_DATA = {
               "overall_pick": 124,
               "bid_amount": null,
               "points": 7.7,
-              "value_diff": 32,
+              "value_diff": 31,
               "dropped": false
             },
             {
@@ -9163,7 +9163,7 @@ window.SITE_DATA = {
               "overall_pick": 144,
               "bid_amount": null,
               "points": 10.0,
-              "value_diff": 69,
+              "value_diff": 67,
               "dropped": false
             },
             {
@@ -9386,7 +9386,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "DET",
           "proj": 11.2,
-          "actual": 3.6,
+          "actual": 7.4,
           "season_ppg": 17.2,
           "season_total": 17.2,
           "games_played": 1,
@@ -9416,9 +9416,9 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "DET",
           "proj": 6.6,
-          "actual": 7.0,
-          "season_ppg": 7.0,
-          "season_total": 7.0,
+          "actual": 9.0,
+          "season_ppg": 9.0,
+          "season_total": 9.0,
           "games_played": 1,
           "preseason_proj_total": 122.5,
           "starter": true,
@@ -9572,7 +9572,7 @@ window.SITE_DATA = {
           "overall_pick": 32,
           "bid_amount": null,
           "points": 5.4,
-          "value_diff": -84,
+          "value_diff": -85,
           "dropped": false
         },
         "picks": [
@@ -9597,7 +9597,7 @@ window.SITE_DATA = {
             "overall_pick": 12,
             "bid_amount": null,
             "points": 8.5,
-            "value_diff": -71,
+            "value_diff": -72,
             "dropped": false
           },
           {
@@ -9609,7 +9609,7 @@ window.SITE_DATA = {
             "overall_pick": 29,
             "bid_amount": null,
             "points": 10.0,
-            "value_diff": -44,
+            "value_diff": -47,
             "dropped": false
           },
           {
@@ -9621,7 +9621,7 @@ window.SITE_DATA = {
             "overall_pick": 32,
             "bid_amount": null,
             "points": 5.4,
-            "value_diff": -84,
+            "value_diff": -85,
             "dropped": false
           },
           {
@@ -9645,7 +9645,7 @@ window.SITE_DATA = {
             "overall_pick": 52,
             "bid_amount": null,
             "points": 5.0,
-            "value_diff": -67,
+            "value_diff": -68,
             "dropped": false
           },
           {
@@ -9681,7 +9681,7 @@ window.SITE_DATA = {
             "overall_pick": 89,
             "bid_amount": null,
             "points": 7.8,
-            "value_diff": -2,
+            "value_diff": -3,
             "dropped": false
           },
           {
@@ -9752,8 +9752,8 @@ window.SITE_DATA = {
             "pick_in_round": 9,
             "overall_pick": 149,
             "bid_amount": null,
-            "points": 7.0,
-            "value_diff": 48,
+            "points": 9.0,
+            "value_diff": 67,
             "dropped": false
           },
           {
@@ -10702,7 +10702,7 @@ window.SITE_DATA = {
             "overall_pick": 32,
             "bid_amount": null,
             "points": 5.4,
-            "value_diff": -84,
+            "value_diff": -85,
             "dropped": false
           },
           "picks": [
@@ -10727,7 +10727,7 @@ window.SITE_DATA = {
               "overall_pick": 12,
               "bid_amount": null,
               "points": 8.5,
-              "value_diff": -71,
+              "value_diff": -72,
               "dropped": false
             },
             {
@@ -10739,7 +10739,7 @@ window.SITE_DATA = {
               "overall_pick": 29,
               "bid_amount": null,
               "points": 10.0,
-              "value_diff": -44,
+              "value_diff": -47,
               "dropped": false
             },
             {
@@ -10751,7 +10751,7 @@ window.SITE_DATA = {
               "overall_pick": 32,
               "bid_amount": null,
               "points": 5.4,
-              "value_diff": -84,
+              "value_diff": -85,
               "dropped": false
             },
             {
@@ -10775,7 +10775,7 @@ window.SITE_DATA = {
               "overall_pick": 52,
               "bid_amount": null,
               "points": 5.0,
-              "value_diff": -67,
+              "value_diff": -68,
               "dropped": false
             },
             {
@@ -10811,7 +10811,7 @@ window.SITE_DATA = {
               "overall_pick": 89,
               "bid_amount": null,
               "points": 7.8,
-              "value_diff": -2,
+              "value_diff": -3,
               "dropped": false
             },
             {
@@ -10882,8 +10882,8 @@ window.SITE_DATA = {
               "pick_in_round": 9,
               "overall_pick": 149,
               "bid_amount": null,
-              "points": 7.0,
-              "value_diff": 48,
+              "points": 9.0,
+              "value_diff": 67,
               "dropped": false
             },
             {
@@ -11351,7 +11351,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "KC",
           "proj": 19.6,
-          "actual": 7.4,
+          "actual": 7.8,
           "season_ppg": 29.0,
           "season_total": 29.0,
           "games_played": 1,
@@ -11381,7 +11381,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "LAC",
           "proj": 15.0,
-          "actual": 2.2,
+          "actual": 3.5,
           "season_ppg": 17.5,
           "season_total": 17.5,
           "games_played": 1,
@@ -11441,7 +11441,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "NYJ",
           "proj": 16.1,
-          "actual": 6.0,
+          "actual": 10.2,
           "season_ppg": 16.7,
           "season_total": 16.7,
           "games_played": 1,
@@ -11456,7 +11456,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "PIT",
           "proj": 6.1,
-          "actual": 6.0,
+          "actual": 3.0,
           "season_ppg": 8.0,
           "season_total": 8.0,
           "games_played": 1,
@@ -11471,7 +11471,7 @@ window.SITE_DATA = {
           "pos": "K",
           "pro": "JAX",
           "proj": 8.7,
-          "actual": 2.0,
+          "actual": 1.0,
           "season_ppg": 7.0,
           "season_total": 7.0,
           "games_played": 1,
@@ -11486,7 +11486,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "NE",
           "proj": 18.6,
-          "actual": 1.3,
+          "actual": 2.1,
           "season_ppg": 8.0,
           "season_total": 8.0,
           "games_played": 1,
@@ -11501,9 +11501,9 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "NYG",
           "proj": 14.0,
-          "actual": 7.5,
-          "season_ppg": 9.5,
-          "season_total": 9.5,
+          "actual": 11.9,
+          "season_ppg": 11.9,
+          "season_total": 11.9,
           "games_played": 1,
           "preseason_proj_total": 139.3,
           "starter": false,
@@ -11576,7 +11576,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "WSH",
           "proj": 8.8,
-          "actual": 5.0,
+          "actual": 5.2,
           "season_ppg": 5.8,
           "season_total": 5.8,
           "games_played": 1,
@@ -11687,8 +11687,8 @@ window.SITE_DATA = {
             "pick_in_round": 3,
             "overall_pick": 43,
             "bid_amount": null,
-            "points": 9.5,
-            "value_diff": -36,
+            "points": 11.9,
+            "value_diff": -20,
             "dropped": false
           },
           {
@@ -11700,7 +11700,7 @@ window.SITE_DATA = {
             "overall_pick": 58,
             "bid_amount": null,
             "points": 8.0,
-            "value_diff": -30,
+            "value_diff": -31,
             "dropped": false
           },
           {
@@ -11724,7 +11724,7 @@ window.SITE_DATA = {
             "overall_pick": 78,
             "bid_amount": null,
             "points": 11.3,
-            "value_diff": 14,
+            "value_diff": 12,
             "dropped": false
           },
           {
@@ -11748,7 +11748,7 @@ window.SITE_DATA = {
             "overall_pick": 98,
             "bid_amount": null,
             "points": 11.5,
-            "value_diff": 35,
+            "value_diff": 33,
             "dropped": false
           },
           {
@@ -11760,7 +11760,7 @@ window.SITE_DATA = {
             "overall_pick": 103,
             "bid_amount": null,
             "points": 8.2,
-            "value_diff": 17,
+            "value_diff": 16,
             "dropped": false
           },
           {
@@ -11772,7 +11772,7 @@ window.SITE_DATA = {
             "overall_pick": 118,
             "bid_amount": null,
             "points": 5.8,
-            "value_diff": 5,
+            "value_diff": 4,
             "dropped": false
           },
           {
@@ -11808,7 +11808,7 @@ window.SITE_DATA = {
             "overall_pick": 143,
             "bid_amount": null,
             "points": 8.0,
-            "value_diff": 54,
+            "value_diff": 53,
             "dropped": false
           },
           {
@@ -12817,8 +12817,8 @@ window.SITE_DATA = {
               "pick_in_round": 3,
               "overall_pick": 43,
               "bid_amount": null,
-              "points": 9.5,
-              "value_diff": -36,
+              "points": 11.9,
+              "value_diff": -20,
               "dropped": false
             },
             {
@@ -12830,7 +12830,7 @@ window.SITE_DATA = {
               "overall_pick": 58,
               "bid_amount": null,
               "points": 8.0,
-              "value_diff": -30,
+              "value_diff": -31,
               "dropped": false
             },
             {
@@ -12854,7 +12854,7 @@ window.SITE_DATA = {
               "overall_pick": 78,
               "bid_amount": null,
               "points": 11.3,
-              "value_diff": 14,
+              "value_diff": 12,
               "dropped": false
             },
             {
@@ -12878,7 +12878,7 @@ window.SITE_DATA = {
               "overall_pick": 98,
               "bid_amount": null,
               "points": 11.5,
-              "value_diff": 35,
+              "value_diff": 33,
               "dropped": false
             },
             {
@@ -12890,7 +12890,7 @@ window.SITE_DATA = {
               "overall_pick": 103,
               "bid_amount": null,
               "points": 8.2,
-              "value_diff": 17,
+              "value_diff": 16,
               "dropped": false
             },
             {
@@ -12902,7 +12902,7 @@ window.SITE_DATA = {
               "overall_pick": 118,
               "bid_amount": null,
               "points": 5.8,
-              "value_diff": 5,
+              "value_diff": 4,
               "dropped": false
             },
             {
@@ -12938,7 +12938,7 @@ window.SITE_DATA = {
               "overall_pick": 143,
               "bid_amount": null,
               "points": 8.0,
-              "value_diff": 54,
+              "value_diff": 53,
               "dropped": false
             },
             {
@@ -13107,7 +13107,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 307.5,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 4241416,
@@ -13116,7 +13116,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "CAR",
           "proj": 14.5,
-          "actual": 5.8,
+          "actual": 7.6,
           "season_ppg": 14.4,
           "season_total": 14.4,
           "games_played": 1,
@@ -13161,7 +13161,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "IND",
           "proj": 12.3,
-          "actual": 9.2,
+          "actual": 10.5,
           "season_ppg": 14.4,
           "season_total": 14.4,
           "games_played": 1,
@@ -13408,7 +13408,7 @@ window.SITE_DATA = {
             "overall_pick": 50,
             "bid_amount": null,
             "points": 6.2,
-            "value_diff": -60,
+            "value_diff": -61,
             "dropped": false
           },
           {
@@ -13456,7 +13456,7 @@ window.SITE_DATA = {
             "overall_pick": 90,
             "bid_amount": null,
             "points": 5.3,
-            "value_diff": -28,
+            "value_diff": -29,
             "dropped": false
           },
           {
@@ -13468,7 +13468,7 @@ window.SITE_DATA = {
             "overall_pick": 91,
             "bid_amount": null,
             "points": 7.5,
-            "value_diff": -3,
+            "value_diff": -4,
             "dropped": false
           },
           {
@@ -13528,7 +13528,7 @@ window.SITE_DATA = {
             "overall_pick": 150,
             "bid_amount": null,
             "points": 5.9,
-            "value_diff": 38,
+            "value_diff": 37,
             "dropped": false
           },
           {
@@ -13540,7 +13540,7 @@ window.SITE_DATA = {
             "overall_pick": 151,
             "bid_amount": null,
             "points": 4.0,
-            "value_diff": 28,
+            "value_diff": 27,
             "dropped": false
           }
         ]
@@ -14538,7 +14538,7 @@ window.SITE_DATA = {
               "overall_pick": 50,
               "bid_amount": null,
               "points": 6.2,
-              "value_diff": -60,
+              "value_diff": -61,
               "dropped": false
             },
             {
@@ -14586,7 +14586,7 @@ window.SITE_DATA = {
               "overall_pick": 90,
               "bid_amount": null,
               "points": 5.3,
-              "value_diff": -28,
+              "value_diff": -29,
               "dropped": false
             },
             {
@@ -14598,7 +14598,7 @@ window.SITE_DATA = {
               "overall_pick": 91,
               "bid_amount": null,
               "points": 7.5,
-              "value_diff": -3,
+              "value_diff": -4,
               "dropped": false
             },
             {
@@ -14658,7 +14658,7 @@ window.SITE_DATA = {
               "overall_pick": 150,
               "bid_amount": null,
               "points": 5.9,
-              "value_diff": 38,
+              "value_diff": 37,
               "dropped": false
             },
             {
@@ -14670,7 +14670,7 @@ window.SITE_DATA = {
               "overall_pick": 151,
               "bid_amount": null,
               "points": 4.0,
-              "value_diff": 28,
+              "value_diff": 27,
               "dropped": false
             }
           ],
@@ -15141,7 +15141,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "IND",
           "proj": 20.6,
-          "actual": 4.3,
+          "actual": 5.9,
           "season_ppg": 29.2,
           "season_total": 29.2,
           "games_played": 1,
@@ -15156,7 +15156,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "CIN",
           "proj": 16.6,
-          "actual": 4.7,
+          "actual": 6.6,
           "season_ppg": 11.2,
           "season_total": 11.2,
           "games_played": 1,
@@ -15336,7 +15336,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "WSH",
           "proj": 9.3,
-          "actual": 7.8,
+          "actual": 8.0,
           "season_ppg": 14.3,
           "season_total": 14.3,
           "games_played": 1,
@@ -15382,15 +15382,15 @@ window.SITE_DATA = {
         "draft_type": "SNAKE",
         "mode": "actual",
         "best_pick": {
-          "name": "Rams D/ST",
-          "pos": "D/ST",
-          "pro": "LAR",
-          "round": 15,
+          "name": "Rachaad White",
+          "pos": "RB",
+          "pro": "WSH",
+          "round": 13,
           "pick_in_round": 7,
-          "overall_pick": 147,
+          "overall_pick": 127,
           "bid_amount": null,
-          "points": 11.0,
-          "value_diff": 80,
+          "points": 14.3,
+          "value_diff": 78,
           "dropped": false
         },
         "worst_pick": {
@@ -15427,7 +15427,7 @@ window.SITE_DATA = {
             "overall_pick": 14,
             "bid_amount": null,
             "points": 11.2,
-            "value_diff": -51,
+            "value_diff": -53,
             "dropped": false
           },
           {
@@ -15487,7 +15487,7 @@ window.SITE_DATA = {
             "overall_pick": 67,
             "bid_amount": null,
             "points": 5.7,
-            "value_diff": -47,
+            "value_diff": -48,
             "dropped": false
           },
           {
@@ -15499,7 +15499,7 @@ window.SITE_DATA = {
             "overall_pick": 74,
             "bid_amount": null,
             "points": 7.0,
-            "value_diff": -24,
+            "value_diff": -25,
             "dropped": false
           },
           {
@@ -15511,7 +15511,7 @@ window.SITE_DATA = {
             "overall_pick": 87,
             "bid_amount": null,
             "points": 9.7,
-            "value_diff": 9,
+            "value_diff": 7,
             "dropped": false
           },
           {
@@ -15535,7 +15535,7 @@ window.SITE_DATA = {
             "overall_pick": 107,
             "bid_amount": null,
             "points": 7.0,
-            "value_diff": 8,
+            "value_diff": 7,
             "dropped": false
           },
           {
@@ -15547,7 +15547,7 @@ window.SITE_DATA = {
             "overall_pick": 114,
             "bid_amount": null,
             "points": 8.8,
-            "value_diff": 33,
+            "value_diff": 31,
             "dropped": false
           },
           {
@@ -15571,7 +15571,7 @@ window.SITE_DATA = {
             "overall_pick": 134,
             "bid_amount": null,
             "points": 6.0,
-            "value_diff": 23,
+            "value_diff": 22,
             "dropped": false
           },
           {
@@ -15583,7 +15583,7 @@ window.SITE_DATA = {
             "overall_pick": 147,
             "bid_amount": null,
             "points": 11.0,
-            "value_diff": 80,
+            "value_diff": 77,
             "dropped": false
           },
           {
@@ -16512,15 +16512,15 @@ window.SITE_DATA = {
           "draft_type": "SNAKE",
           "mode": "actual",
           "best_pick": {
-            "name": "Rams D/ST",
-            "pos": "D/ST",
-            "pro": "LAR",
-            "round": 15,
+            "name": "Rachaad White",
+            "pos": "RB",
+            "pro": "WSH",
+            "round": 13,
             "pick_in_round": 7,
-            "overall_pick": 147,
+            "overall_pick": 127,
             "bid_amount": null,
-            "points": 11.0,
-            "value_diff": 80,
+            "points": 14.3,
+            "value_diff": 78,
             "dropped": false
           },
           "worst_pick": {
@@ -16557,7 +16557,7 @@ window.SITE_DATA = {
               "overall_pick": 14,
               "bid_amount": null,
               "points": 11.2,
-              "value_diff": -51,
+              "value_diff": -53,
               "dropped": false
             },
             {
@@ -16617,7 +16617,7 @@ window.SITE_DATA = {
               "overall_pick": 67,
               "bid_amount": null,
               "points": 5.7,
-              "value_diff": -47,
+              "value_diff": -48,
               "dropped": false
             },
             {
@@ -16629,7 +16629,7 @@ window.SITE_DATA = {
               "overall_pick": 74,
               "bid_amount": null,
               "points": 7.0,
-              "value_diff": -24,
+              "value_diff": -25,
               "dropped": false
             },
             {
@@ -16641,7 +16641,7 @@ window.SITE_DATA = {
               "overall_pick": 87,
               "bid_amount": null,
               "points": 9.7,
-              "value_diff": 9,
+              "value_diff": 7,
               "dropped": false
             },
             {
@@ -16665,7 +16665,7 @@ window.SITE_DATA = {
               "overall_pick": 107,
               "bid_amount": null,
               "points": 7.0,
-              "value_diff": 8,
+              "value_diff": 7,
               "dropped": false
             },
             {
@@ -16677,7 +16677,7 @@ window.SITE_DATA = {
               "overall_pick": 114,
               "bid_amount": null,
               "points": 8.8,
-              "value_diff": 33,
+              "value_diff": 31,
               "dropped": false
             },
             {
@@ -16701,7 +16701,7 @@ window.SITE_DATA = {
               "overall_pick": 134,
               "bid_amount": null,
               "points": 6.0,
-              "value_diff": 23,
+              "value_diff": 22,
               "dropped": false
             },
             {
@@ -16713,7 +16713,7 @@ window.SITE_DATA = {
               "overall_pick": 147,
               "bid_amount": null,
               "points": 11.0,
-              "value_diff": 80,
+              "value_diff": 77,
               "dropped": false
             },
             {
@@ -16882,7 +16882,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "SEA",
           "proj": 20.8,
-          "actual": 12.2,
+          "actual": 13.5,
           "season_ppg": 42.5,
           "season_total": 42.5,
           "games_played": 1,
@@ -17002,7 +17002,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "HOU",
           "proj": 11.0,
-          "actual": 0.0,
+          "actual": 1.8,
           "season_ppg": 26.0,
           "season_total": 26.0,
           "games_played": 1,
@@ -17123,7 +17123,7 @@ window.SITE_DATA = {
             "overall_pick": 15,
             "bid_amount": null,
             "points": 10.3,
-            "value_diff": -55,
+            "value_diff": -58,
             "dropped": false
           },
           {
@@ -17159,7 +17159,7 @@ window.SITE_DATA = {
             "overall_pick": 46,
             "bid_amount": null,
             "points": 7.3,
-            "value_diff": -49,
+            "value_diff": -50,
             "dropped": false
           },
           {
@@ -17171,7 +17171,7 @@ window.SITE_DATA = {
             "overall_pick": 55,
             "bid_amount": null,
             "points": 5.3,
-            "value_diff": -62,
+            "value_diff": -63,
             "dropped": false
           },
           {
@@ -17195,7 +17195,7 @@ window.SITE_DATA = {
             "overall_pick": 75,
             "bid_amount": null,
             "points": 6.7,
-            "value_diff": -30,
+            "value_diff": -32,
             "dropped": false
           },
           {
@@ -17207,7 +17207,7 @@ window.SITE_DATA = {
             "overall_pick": 86,
             "bid_amount": null,
             "points": 11.2,
-            "value_diff": 20,
+            "value_diff": 18,
             "dropped": false
           },
           {
@@ -17243,7 +17243,7 @@ window.SITE_DATA = {
             "overall_pick": 115,
             "bid_amount": null,
             "points": 10.2,
-            "value_diff": 43,
+            "value_diff": 40,
             "dropped": false
           },
           {
@@ -17255,7 +17255,7 @@ window.SITE_DATA = {
             "overall_pick": 126,
             "bid_amount": null,
             "points": 6.8,
-            "value_diff": 22,
+            "value_diff": 21,
             "dropped": false
           },
           {
@@ -18027,7 +18027,7 @@ window.SITE_DATA = {
               "overall_pick": 15,
               "bid_amount": null,
               "points": 10.3,
-              "value_diff": -55,
+              "value_diff": -58,
               "dropped": false
             },
             {
@@ -18063,7 +18063,7 @@ window.SITE_DATA = {
               "overall_pick": 46,
               "bid_amount": null,
               "points": 7.3,
-              "value_diff": -49,
+              "value_diff": -50,
               "dropped": false
             },
             {
@@ -18075,7 +18075,7 @@ window.SITE_DATA = {
               "overall_pick": 55,
               "bid_amount": null,
               "points": 5.3,
-              "value_diff": -62,
+              "value_diff": -63,
               "dropped": false
             },
             {
@@ -18099,7 +18099,7 @@ window.SITE_DATA = {
               "overall_pick": 75,
               "bid_amount": null,
               "points": 6.7,
-              "value_diff": -30,
+              "value_diff": -32,
               "dropped": false
             },
             {
@@ -18111,7 +18111,7 @@ window.SITE_DATA = {
               "overall_pick": 86,
               "bid_amount": null,
               "points": 11.2,
-              "value_diff": 20,
+              "value_diff": 18,
               "dropped": false
             },
             {
@@ -18147,7 +18147,7 @@ window.SITE_DATA = {
               "overall_pick": 115,
               "bid_amount": null,
               "points": 10.2,
-              "value_diff": 43,
+              "value_diff": 40,
               "dropped": false
             },
             {
@@ -18159,7 +18159,7 @@ window.SITE_DATA = {
               "overall_pick": 126,
               "bid_amount": null,
               "points": 6.8,
-              "value_diff": 22,
+              "value_diff": 21,
               "dropped": false
             },
             {
