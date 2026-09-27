@@ -335,7 +335,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 124.3,
+          "projected": 124.2,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -429,7 +429,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 107.6,
+          "projected": 105.5,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -468,20 +468,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Isaiah Likely",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "NYG",
-              "proj": 12.2,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Seahawks D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "SEA",
-              "proj": 7.3,
+              "proj": 7.4,
               "actual": 0.0,
               "injury": null
             },
@@ -511,9 +502,18 @@ window.MATCHUPS_DATA = {
               "proj": 16.7,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Hunter Henry",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "NE",
+              "proj": 10.1,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 32.3,
+          "bench_proj": 34.9,
           "injuries": []
         },
         "played": false,
@@ -521,7 +521,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 107.6 - Brady Kienitz 124.3. Brady Kienitz favored by 16.7.",
+        "blurb": "Adam Biewen (1-1) at Brady Kienitz (1-1). Projected: Adam Biewen 105.5 - Brady Kienitz 124.2. Brady Kienitz favored by 18.7.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -586,7 +586,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 5.0,
-            "away_proj": 7.3,
+            "away_proj": 7.4,
             "edge": "away"
           },
           {
@@ -610,8 +610,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 10.2,
-            "away_proj": 12.2,
-            "edge": "away"
+            "away_proj": 10.1,
+            "edge": "even"
           },
           {
             "pos": "WR",
@@ -678,7 +678,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "CHI",
-              "proj": 12.8,
+              "proj": 12.7,
               "actual": 0.0,
               "injury": null
             },
@@ -705,7 +705,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "DET",
-              "proj": 6.6,
+              "proj": 6.7,
               "actual": 0.0,
               "injury": null
             },
@@ -719,7 +719,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 63.3,
+          "bench_proj": 63.2,
           "injuries": []
         },
         "away": {
@@ -729,7 +729,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "1-1",
           "actual": 0.0,
-          "projected": 131.1,
+          "projected": 131.2,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -799,7 +799,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "MIN",
-              "proj": 6.5,
+              "proj": 6.6,
               "actual": 0.0,
               "injury": null
             },
@@ -813,7 +813,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 66.6,
+          "bench_proj": 56.0,
           "injuries": []
         },
         "played": false,
@@ -821,7 +821,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 131.1 - Isaac Douglas 118.1. Nolan Malo favored by 13.0.",
+        "blurb": "Nolan Malo (1-1) at Isaac Douglas (1-1). Projected: Nolan Malo 131.2 - Isaac Douglas 118.1. Nolan Malo favored by 13.1.",
         "home_form": {
           "record_last_n": "1-1",
           "games_considered": 2,
@@ -885,8 +885,8 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 6.6,
-            "away_proj": 6.5,
+            "home_proj": 6.7,
+            "away_proj": 6.6,
             "edge": "even"
           },
           {
@@ -903,7 +903,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 29.8,
+            "home_proj": 29.7,
             "away_proj": 36.0,
             "edge": "away"
           },
@@ -1005,7 +1005,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "HOU",
-              "proj": 6.4,
+              "proj": 6.5,
               "actual": 0.0,
               "injury": null
             },
@@ -1019,7 +1019,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 65.8,
+          "bench_proj": 67.1,
           "injuries": []
         },
         "away": {
@@ -1113,7 +1113,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 74.2,
+          "bench_proj": 74.8,
           "injuries": [
             {
               "name": "Brock Bowers",
@@ -1195,7 +1195,7 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 6.4,
+            "home_proj": 6.5,
             "away_proj": 7.2,
             "edge": "even"
           },
@@ -1341,7 +1341,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "1-1",
           "actual": 28.4,
-          "projected": 137.1,
+          "projected": 138.5,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1375,7 +1375,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "NYJ",
-              "proj": 14.7,
+              "proj": 16.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1411,7 +1411,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "PIT",
-              "proj": 6.1,
+              "proj": 6.2,
               "actual": 0.0,
               "injury": null
             },
@@ -1443,7 +1443,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-0",
           "actual": 6.6,
-          "projected": 121.3,
+          "projected": 122.5,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1486,7 +1486,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "RB",
               "pro": "PIT",
-              "proj": 14.9,
+              "proj": 16.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1504,7 +1504,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "LAR",
-              "proj": 5.3,
+              "proj": 5.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1527,7 +1527,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 76.8,
+          "bench_proj": 75.3,
           "injuries": []
         },
         "away": {
@@ -1537,7 +1537,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "2-0",
           "actual": 22.6,
-          "projected": 141.3,
+          "projected": 138.7,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -1607,7 +1607,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "PHI",
-              "proj": 8.0,
+              "proj": 5.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1621,7 +1621,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 64.7,
+          "bench_proj": 65.1,
           "injuries": []
         },
         "played": true,
