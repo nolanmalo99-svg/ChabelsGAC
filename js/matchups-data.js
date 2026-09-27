@@ -989,7 +989,7 @@ window.MATCHUPS_DATA = {
               "pro": "BUF",
               "proj": 12.6,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Brock Purdy",
@@ -1020,17 +1020,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 65.8,
-          "injuries": [
-            {
-              "name": "DJ Moore",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "BUF",
-              "proj": 12.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 13,
@@ -1453,7 +1443,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-0",
           "actual": 6.6,
-          "projected": 125.6,
+          "projected": 121.3,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1498,7 +1488,7 @@ window.MATCHUPS_DATA = {
               "pro": "PIT",
               "proj": 14.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Ka'imi Fairbairn",
@@ -1519,6 +1509,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Denzel Boston",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CLE",
+              "proj": 11.3,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Tucker Kraft",
               "slot": "TE",
               "pos": "TE",
@@ -1526,38 +1525,10 @@ window.MATCHUPS_DATA = {
               "proj": 10.3,
               "actual": 6.6,
               "injury": null
-            },
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 15.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 72.5,
-          "injuries": [
-            {
-              "name": "Jaylen Warren",
-              "slot": "FLEX",
-              "pos": "RB",
-              "pro": "PIT",
-              "proj": 14.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 15.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 76.8,
+          "injuries": []
         },
         "away": {
           "teamId": 10,
@@ -1566,7 +1537,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "2-0",
           "actual": 22.6,
-          "projected": 141.8,
+          "projected": 141.3,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -1632,20 +1603,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Cameron Dicker",
-              "slot": "K",
-              "pos": "K",
-              "pro": "LAC",
-              "proj": 9.1,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Eagles D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "PHI",
               "proj": 8.0,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Tyler Loop",
+              "slot": "K",
+              "pos": "K",
+              "pro": "BAL",
+              "proj": 8.7,
               "actual": 0.0,
               "injury": null
             }
