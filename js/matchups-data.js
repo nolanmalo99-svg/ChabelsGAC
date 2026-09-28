@@ -335,7 +335,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "1-1",
           "actual": 123.3,
-          "projected": 131.1,
+          "projected": 130.9,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -551,7 +551,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-1",
           "actual": 85.4,
-          "projected": 110.2,
+          "projected": 110.0,
           "starters": [
             {
               "name": "James Cook III",
@@ -655,7 +655,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "1-1",
           "actual": 125.3,
-          "projected": 131.8,
+          "projected": 131.7,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -851,7 +851,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-2",
           "actual": 138.3,
-          "projected": 144.7,
+          "projected": 144.6,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
