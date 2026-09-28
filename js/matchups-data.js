@@ -1270,7 +1270,7 @@ window.MATCHUPS_DATA = {
               "pro": "BUF",
               "proj": 23.6,
               "actual": 17.5,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Tyler Warren",
@@ -1337,6 +1337,15 @@ window.MATCHUPS_DATA = {
               "proj": 19.4,
               "actual": 1.7,
               "injury": "INJURY_RESERVE"
+            },
+            {
+              "name": "Josh Allen",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "BUF",
+              "proj": 23.6,
+              "actual": 17.5,
+              "injury": "QUESTIONABLE"
             }
           ]
         },
