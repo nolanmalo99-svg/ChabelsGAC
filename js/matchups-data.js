@@ -1261,7 +1261,7 @@ window.MATCHUPS_DATA = {
               "pro": "MIA",
               "proj": 19.4,
               "actual": 1.7,
-              "injury": "DOUBTFUL"
+              "injury": "OUT"
             },
             {
               "name": "Josh Allen",
@@ -1336,7 +1336,7 @@ window.MATCHUPS_DATA = {
               "pro": "MIA",
               "proj": 19.4,
               "actual": 1.7,
-              "injury": "DOUBTFUL"
+              "injury": "OUT"
             }
           ]
         },
