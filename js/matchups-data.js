@@ -457,7 +457,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 11.9,
               "actual": 9.0,
-              "injury": "QUESTIONABLE"
+              "injury": "OUT"
             },
             {
               "name": "Terry McLaurin",
@@ -532,7 +532,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 11.9,
               "actual": 9.0,
-              "injury": "QUESTIONABLE"
+              "injury": "OUT"
             }
           ]
         },
@@ -1261,7 +1261,7 @@ window.MATCHUPS_DATA = {
               "pro": "MIA",
               "proj": 19.4,
               "actual": 1.7,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Josh Allen",
@@ -1336,7 +1336,7 @@ window.MATCHUPS_DATA = {
               "pro": "MIA",
               "proj": 19.4,
               "actual": 1.7,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             }
           ]
         },
