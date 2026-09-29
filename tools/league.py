@@ -268,17 +268,23 @@ def _full_roster(team_obj, scoring_period, weekly_totals=None):
         pid = pl.get("id")
         proj, act = _proj_and_actual(e, scoring_period)
         total, ppg, gp = season_stats_from_player(pl.get("stats", []), scoring_period)
+        # The per-week mBoxscore walk (weekly_totals) is now our most reliable source -- total
+        # and games always come from it TOGETHER, so they can never end up mismatched. Prefer
+        # it whenever it found anything at all, rather than only when its total happens to be
+        # higher (that "only if higher" check is what let a mismatched total/games pair through
+        # before: a bigger total from one source paired with a smaller games count from another).
         wk_totals = weekly_totals.get(pid)
-        if wk_totals and wk_totals["total"] > total:
+        if wk_totals and wk_totals["games"] > 0:
             total, gp = wk_totals["total"], wk_totals["games"]
-        # ESPN's own running season-to-date total (the same number their site shows on a
-        # player card) is authoritative when present -- prefer it outright over anything we
-        # reconstructed ourselves, since our own week-by-week attempts have proven unreliable.
-        espn_total = season_actual_total(pl.get("stats", []))
-        if espn_total is not None:
-            espn_total_found += 1
-        if espn_total is not None and espn_total > total:
-            total = espn_total
+        elif gp == 0:
+            # No per-week data and the roster snapshot found nothing either -- last resort is
+            # ESPN's own season aggregate, with games estimated as weeks elapsed so far (we
+            # don't have a real games count to pair with it, this is a rough approximation).
+            espn_total = season_actual_total(pl.get("stats", []))
+            if espn_total is not None:
+                espn_total_found += 1
+                total = espn_total
+                gp = max(scoring_period - 1, 1)
         gp = max(gp, 1)
         ppg = round(total / gp, 1) if gp else 0.0
         players.append({
