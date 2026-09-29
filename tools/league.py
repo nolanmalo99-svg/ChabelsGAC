@@ -58,7 +58,18 @@ def _accumulate_player_season_stats(season, current_week):
         if not d:
             print(f"[league] week {wk}: no response, skipping")
             continue
-        week_points = _week_player_points(d.get("schedule", []), wk)
+        sched = d.get("schedule", [])
+        matching = [s for s in sched if s.get("matchupPeriodId") == wk]
+        sample_entries = 0
+        if matching:
+            side = matching[0].get("home") or matching[0].get("away") or {}
+            roster = (side.get("rosterForCurrentScoringPeriod")
+                      or side.get("rosterForMatchupPeriod") or {})
+            sample_entries = len(roster.get("entries", []))
+        print(f"[league] week {wk}: schedule has {len(sched)} entries, "
+              f"{len(matching)} match matchupPeriodId={wk}, "
+              f"sample roster entries={sample_entries}")
+        week_points = _week_player_points(sched, wk)
         for pid, pts in week_points.items():
             entry = totals.setdefault(pid, {"total": 0.0, "games": 0})
             entry["total"] = round(entry["total"] + pts, 1)
