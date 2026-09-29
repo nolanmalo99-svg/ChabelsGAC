@@ -20,16 +20,14 @@ def _proj_and_actual(entry, scoring_period):
     return round(proj, 1), round(actual, 1)
 
 
-def _accumulate_player_season_stats(schedule):
-    """Every player's true season-to-date total, built by walking each week's actual matchup
-    rosters rather than trusting a single "current roster" snapshot. This matters for anyone
-    traded or picked up off waivers mid-season: a snapshot only shows stats from whichever team
-    holds them *right now*, which silently undercounts their real season. Walking the schedule
-    catches every week they were active on any team's roster."""
-    totals = {}  # player_id -> {"total": float, "games": int, "name":, "pos":, "pro":}
-    seen_weeks = {}  # player_id -> set of scoringPeriodIds already counted
+def _week_player_points(schedule, wk):
+    """Extract every player's actual score for exactly one specific week from a schedule
+    response. Used by _accumulate_player_season_stats to build up a season total week by
+    week from explicit per-week queries (see that function for why)."""
+    out = {}
     for s in schedule:
-        wk = s.get("matchupPeriodId")
+        if s.get("matchupPeriodId") != wk:
+            continue
         for side_key in ("home", "away"):
             side = s.get(side_key)
             if not side:
@@ -41,20 +39,31 @@ def _accumulate_player_season_stats(schedule):
                 pid = pl.get("id")
                 if not pid:
                     continue
-                week_pts = None
                 for stat in pl.get("stats", []):
                     if stat.get("statSourceId") == 0 and stat.get("scoringPeriodId") == wk:
-                        week_pts = stat.get("appliedTotal", 0.0) or 0.0
+                        out[pid] = stat.get("appliedTotal", 0.0) or 0.0
                         break
-                if week_pts is None:
-                    continue
-                seen = seen_weeks.setdefault(pid, set())
-                if wk in seen:
-                    continue
-                seen.add(wk)
-                entry = totals.setdefault(pid, {"total": 0.0, "games": 0})
-                entry["total"] = round(entry["total"] + week_pts, 1)
-                entry["games"] += 1
+    return out
+
+
+def _accumulate_player_season_stats(season, current_week):
+    """Every player's true season-to-date total, built by querying each completed week
+    explicitly (scoring_period=wk). A single bulk call (no scoring_period) only returns a
+    narrow rolling window of each player's most recent weeks' stats, not their full season --
+    this affects anyone regardless of whether they were traded, so it needs one request per
+    completed week to force ESPN to hand back that week's real numbers."""
+    totals = {}
+    for wk in range(1, current_week):
+        d = espn(["mTeam", "mRoster", "mMatchupScore"], season, scoring_period=wk)
+        if not d:
+            print(f"[league] week {wk}: no response, skipping")
+            continue
+        week_points = _week_player_points(d.get("schedule", []), wk)
+        for pid, pts in week_points.items():
+            entry = totals.setdefault(pid, {"total": 0.0, "games": 0})
+            entry["total"] = round(entry["total"] + pts, 1)
+            entry["games"] += 1
+        print(f"[league] week {wk}: found actual stats for {len(week_points)} players")
     return totals
 
 
@@ -234,8 +243,8 @@ def _fun_facts(m, team_games, teams, before_week):
 def _full_roster(team_obj, scoring_period, weekly_totals=None):
     """Every rostered player (starters + bench + IR) for a team, current lineup.
     weekly_totals (from _accumulate_player_season_stats), when available, overrides the
-    roster-snapshot season total/ppg/games -- it's the untruncated version for anyone traded
-    or added mid-season; the snapshot-based figures are a safe fallback otherwise."""
+    roster-snapshot season total/ppg/games -- it's the untruncated version built from
+    explicit per-week queries; the snapshot-based figures are a safe fallback otherwise."""
     weekly_totals = weekly_totals or {}
     entries = team_obj.get("roster", {}).get("entries", [])
     slot_rank = {s: i for i, s in enumerate(
@@ -277,13 +286,13 @@ def build_all_weeks(season):
     status = d.get("status", {})
     cur_week = status.get("currentMatchupPeriod", 1)
 
-    # sort schedule by week so team_games accumulates chronologically; also needed up-front
-    # so we can compute each player's untruncated season total before building rosters below.
     schedule = sorted(
         (s for s in d.get("schedule", []) if "home" in s and "away" in s),
         key=lambda s: s.get("matchupPeriodId", 0),
     )
-    weekly_player_totals = _accumulate_player_season_stats(schedule)
+    # Explicit per-week queries for every completed week -- see _accumulate_player_season_stats
+    # for why a single bulk call isn't enough to get each player's full season total.
+    weekly_player_totals = _accumulate_player_season_stats(season, cur_week)
 
     teams = {}
     for t in d.get("teams", []):
