@@ -1,6 +1,6 @@
 """Normalize the ESPN league payload into matchup data for every week of a season,
 in a single API call. Pure stats -- no AI-generated copy, just facts."""
-from lib import espn, POS, SLOT, PRO, season_stats_from_player, preseason_projection
+from lib import espn, POS, SLOT, PRO, season_stats_from_player, preseason_projection, season_actual_total
 
 STARTER_SLOTS = set(SLOT) - {20, 21}  # everything except BE / IR
 BENCH_SLOT = 20
@@ -48,13 +48,13 @@ def _week_player_points(schedule, wk):
 
 def _accumulate_player_season_stats(season, current_week):
     """Every player's true season-to-date total, built by querying each completed week
-    explicitly (scoring_period=wk). A single bulk call (no scoring_period) only returns a
-    narrow rolling window of each player's most recent weeks' stats, not their full season --
-    this affects anyone regardless of whether they were traded, so it needs one request per
-    completed week to force ESPN to hand back that week's real numbers."""
+    explicitly (scoring_period=wk) using the mBoxscore view, which ESPN documents as the way
+    to pull a specific week's detailed stats -- mRoster alone appears to always carry only
+    the most recent week's data for an in-progress season, regardless of what week is asked
+    for (confirmed: explicit per-week mRoster queries returned zero matches for old weeks)."""
     totals = {}
     for wk in range(1, current_week):
-        d = espn(["mTeam", "mRoster", "mMatchupScore"], season, scoring_period=wk)
+        d = espn(["mBoxscore", "mMatchupScore", "mTeam"], season, scoring_period=wk)
         if not d:
             print(f"[league] week {wk}: no response, skipping")
             continue
@@ -261,6 +261,7 @@ def _full_roster(team_obj, scoring_period, weekly_totals=None):
     slot_rank = {s: i for i, s in enumerate(
         [0, 2, 2, 4, 4, 6, 23, 16, 17, 20, 20, 20, 20, 20, 20, 21])}  # rough starter-first ordering
     players = []
+    espn_total_found = 0
     for e in entries:
         slot = e.get("lineupSlotId")
         pl = e.get("playerPoolEntry", {}).get("player", {})
@@ -270,7 +271,16 @@ def _full_roster(team_obj, scoring_period, weekly_totals=None):
         wk_totals = weekly_totals.get(pid)
         if wk_totals and wk_totals["total"] > total:
             total, gp = wk_totals["total"], wk_totals["games"]
-            ppg = round(total / gp, 1) if gp else 0.0
+        # ESPN's own running season-to-date total (the same number their site shows on a
+        # player card) is authoritative when present -- prefer it outright over anything we
+        # reconstructed ourselves, since our own week-by-week attempts have proven unreliable.
+        espn_total = season_actual_total(pl.get("stats", []))
+        if espn_total is not None:
+            espn_total_found += 1
+        if espn_total is not None and espn_total > total:
+            total = espn_total
+        gp = max(gp, 1)
+        ppg = round(total / gp, 1) if gp else 0.0
         players.append({
             "player_id": pid,
             "name": pl.get("fullName", "?"), "slot": SLOT.get(slot, str(slot)),
@@ -283,6 +293,9 @@ def _full_roster(team_obj, scoring_period, weekly_totals=None):
             "injury": pl.get("injuryStatus") if pl.get("injuryStatus") not in HEALTHY else None,
             "_rank": slot_rank.get(slot, 99),
         })
+    if entries:
+        print(f"[league] team {team_obj.get('id')}: season_actual_total found for "
+              f"{espn_total_found}/{len(entries)} players")
     players.sort(key=lambda p: (p["_rank"], -p["proj"]))
     for p in players:
         del p["_rank"]
