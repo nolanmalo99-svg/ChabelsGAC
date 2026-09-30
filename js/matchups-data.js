@@ -581,7 +581,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 72.4,
+          "bench_proj": 73.4,
           "injuries": [
             {
               "name": "Jaylen Waddle",
@@ -601,7 +601,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-3",
           "actual": 0.0,
-          "projected": 122.8,
+          "projected": 122.9,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -626,7 +626,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "LV",
-              "proj": 15.9,
+              "proj": 16.0,
               "actual": 0.0,
               "injury": null
             },
@@ -653,7 +653,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "PIT",
-              "proj": 10.2,
+              "proj": 10.1,
               "actual": 0.0,
               "injury": null
             },
@@ -685,7 +685,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 70.7,
+          "bench_proj": 70.6,
           "injuries": []
         },
         "played": false,
@@ -693,7 +693,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (0-3) at Nolan Malo (2-1). Projected: Evan Wieker 122.8 - Nolan Malo 131.5. Nolan Malo favored by 8.7.",
+        "blurb": "Evan Wieker (0-3) at Nolan Malo (2-1). Projected: Evan Wieker 122.9 - Nolan Malo 131.5. Nolan Malo favored by 8.6.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -782,13 +782,13 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 10.7,
-            "away_proj": 15.9,
+            "away_proj": 16.0,
             "edge": "away"
           },
           {
             "pos": "WR",
             "home_proj": 50.3,
-            "away_proj": 41.6,
+            "away_proj": 41.5,
             "edge": "home"
           }
         ],
@@ -814,7 +814,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "CIN",
-              "proj": 20.5,
+              "proj": 20.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1028,7 +1028,7 @@ window.MATCHUPS_DATA = {
             "slot": "WR",
             "pos": "WR",
             "pro": "CIN",
-            "proj": 20.5,
+            "proj": 20.4,
             "actual": 0.0,
             "injury": null,
             "owner": "logan rezac"
@@ -1087,7 +1087,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 52.5,
+            "home_proj": 52.4,
             "away_proj": 27.6,
             "edge": "home"
           }
@@ -1191,7 +1191,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 57.4,
+          "bench_proj": 67.6,
           "injuries": [
             {
               "name": "Josh Allen",
@@ -1263,7 +1263,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "NYG",
-              "proj": 11.7,
+              "proj": 11.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1295,7 +1295,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 41.4,
+          "bench_proj": 43.1,
           "injuries": [
             {
               "name": "Puka Nacua",
@@ -1411,7 +1411,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 13.0,
-            "away_proj": 11.7,
+            "away_proj": 11.8,
             "edge": "home"
           },
           {
@@ -1438,7 +1438,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "0-3",
           "actual": 0.0,
-          "projected": 121.6,
+          "projected": 126.1,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1513,11 +1513,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Panthers D/ST",
+              "name": "Ravens D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
-              "pro": "CAR",
-              "proj": 2.5,
+              "pro": "BAL",
+              "proj": 7.0,
               "actual": 0.0,
               "injury": null
             }
@@ -1616,7 +1616,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 56.0,
+          "bench_proj": 55.5,
           "injuries": [
             {
               "name": "Justin Jefferson",
@@ -1634,7 +1634,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (1-2) at Jordan Schommer (0-3). Projected: Isaac Douglas 119.1 - Jordan Schommer 121.6. Jordan Schommer favored by 2.5.",
+        "blurb": "Isaac Douglas (1-2) at Jordan Schommer (0-3). Projected: Isaac Douglas 119.1 - Jordan Schommer 126.1. Jordan Schommer favored by 7.0.",
         "home_form": {
           "record_last_n": "0-3",
           "games_considered": 3,
@@ -1698,9 +1698,9 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 2.5,
+            "home_proj": 7.0,
             "away_proj": 4.6,
-            "edge": "away"
+            "edge": "home"
           },
           {
             "pos": "K",
@@ -1748,7 +1748,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-1",
           "actual": 0.0,
-          "projected": 127.6,
+          "projected": 130.8,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1761,7 +1761,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Chase Brown",
-              "slot": "RB",
+              "slot": "FLEX",
               "pos": "RB",
               "pro": "CIN",
               "proj": 16.2,
@@ -1778,15 +1778,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Colston Loveland",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "CHI",
-              "proj": 8.7,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
@@ -1797,10 +1788,10 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Jaylen Warren",
-              "slot": "FLEX",
+              "slot": "RB",
               "pos": "RB",
               "pro": "PIT",
-              "proj": 14.1,
+              "proj": 16.7,
               "actual": 0.0,
               "injury": null
             },
@@ -1830,9 +1821,18 @@ window.MATCHUPS_DATA = {
               "proj": 15.4,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Kenyon Sadiq",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "NYJ",
+              "proj": 9.3,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 63.5,
+          "bench_proj": 65.2,
           "injuries": []
         },
         "away": {
@@ -1926,7 +1926,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 66.3,
+          "bench_proj": 75.6,
           "injuries": []
         },
         "played": false,
@@ -1934,7 +1934,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (2-1) at Peter Lundquist (2-1). Projected: Adam Schumacher 122.4 - Peter Lundquist 127.6. Peter Lundquist favored by 5.2.",
+        "blurb": "Adam Schumacher (2-1) at Peter Lundquist (2-1). Projected: Adam Schumacher 122.4 - Peter Lundquist 130.8. Peter Lundquist favored by 8.4.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -2016,13 +2016,13 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 50.7,
+            "home_proj": 53.3,
             "away_proj": 34.4,
             "edge": "home"
           },
           {
             "pos": "TE",
-            "home_proj": 8.7,
+            "home_proj": 9.3,
             "away_proj": 17.4,
             "edge": "away"
           },
