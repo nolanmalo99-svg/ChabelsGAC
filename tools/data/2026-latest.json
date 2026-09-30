@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-09-30T14:36:51+00:00",
+  "generated_at": "2026-09-30T20:32:24+00:00",
   "current_week": 4,
   "standings": [
     {
@@ -577,7 +577,7 @@
           "games_played": 1,
           "preseason_proj_total": 84.4,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4038815,
@@ -592,7 +592,7 @@
           "games_played": 3,
           "preseason_proj_total": 84.0,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         }
       ],
       "draft": {
@@ -791,7 +791,7 @@
             "overall_pick": 133,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -21,
+            "value_diff": -20,
             "dropped": true
           },
           {
@@ -1921,7 +1921,7 @@
               "overall_pick": 133,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -21,
+              "value_diff": -20,
               "dropped": true
             },
             {
@@ -2587,7 +2587,7 @@
           "games_played": 3,
           "preseason_proj_total": 226.0,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4047646,
@@ -2662,7 +2662,7 @@
           "overall_pick": 21,
           "bid_amount": null,
           "points": 1.9,
-          "value_diff": -121,
+          "value_diff": -120,
           "dropped": false
         },
         "picks": [
@@ -2699,7 +2699,7 @@
             "overall_pick": 21,
             "bid_amount": null,
             "points": 1.9,
-            "value_diff": -121,
+            "value_diff": -120,
             "dropped": false
           },
           {
@@ -2807,7 +2807,7 @@
             "overall_pick": 120,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -31,
+            "value_diff": -29,
             "dropped": false
           },
           {
@@ -3792,7 +3792,7 @@
             "overall_pick": 21,
             "bid_amount": null,
             "points": 1.9,
-            "value_diff": -121,
+            "value_diff": -120,
             "dropped": false
           },
           "picks": [
@@ -3829,7 +3829,7 @@
               "overall_pick": 21,
               "bid_amount": null,
               "points": 1.9,
-              "value_diff": -121,
+              "value_diff": -120,
               "dropped": false
             },
             {
@@ -3937,7 +3937,7 @@
               "overall_pick": 120,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -31,
+              "value_diff": -29,
               "dropped": false
             },
             {
@@ -4547,15 +4547,15 @@
           },
           {
             "name": "Tyjae Spears",
-            "pos": "RB",
-            "pro": "TEN",
+            "pos": "?",
+            "pro": "?",
             "round": 13,
             "pick_in_round": 5,
             "overall_pick": 125,
             "bid_amount": null,
-            "points": 0.5,
-            "value_diff": -19,
-            "dropped": false
+            "points": 0.0,
+            "value_diff": -26,
+            "dropped": true
           },
           {
             "name": "Texans D/ST",
@@ -5677,15 +5677,15 @@
             },
             {
               "name": "Tyjae Spears",
-              "pos": "RB",
-              "pro": "TEN",
+              "pos": "?",
+              "pro": "?",
               "round": 13,
               "pick_in_round": 5,
               "overall_pick": 125,
               "bid_amount": null,
-              "points": 0.5,
-              "value_diff": -19,
-              "dropped": false
+              "points": 0.0,
+              "value_diff": -26,
+              "dropped": true
             },
             {
               "name": "Texans D/ST",
@@ -6087,7 +6087,7 @@
           "games_played": 3,
           "preseason_proj_total": 177.8,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 4366031,
@@ -6253,7 +6253,7 @@
             "overall_pick": 99,
             "bid_amount": null,
             "points": 2.1,
-            "value_diff": -42,
+            "value_diff": -41,
             "dropped": false
           },
           {
@@ -6289,7 +6289,7 @@
             "overall_pick": 122,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -30,
+            "value_diff": -28,
             "dropped": false
           },
           {
@@ -6313,7 +6313,7 @@
             "overall_pick": 142,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -15,
+            "value_diff": -14,
             "dropped": true
           },
           {
@@ -7383,7 +7383,7 @@
               "overall_pick": 99,
               "bid_amount": null,
               "points": 2.1,
-              "value_diff": -42,
+              "value_diff": -41,
               "dropped": false
             },
             {
@@ -7419,7 +7419,7 @@
               "overall_pick": 122,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -30,
+              "value_diff": -28,
               "dropped": false
             },
             {
@@ -7443,7 +7443,7 @@
               "overall_pick": 142,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -15,
+              "value_diff": -14,
               "dropped": true
             },
             {
@@ -8036,7 +8036,7 @@
             "overall_pick": 137,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -19,
+            "value_diff": -18,
             "dropped": true
           },
           {
@@ -9166,7 +9166,7 @@
               "overall_pick": 137,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -19,
+              "value_diff": -18,
               "dropped": true
             },
             {
@@ -9672,7 +9672,7 @@
             "overall_pick": 69,
             "bid_amount": null,
             "points": 1.3,
-            "value_diff": -74,
+            "value_diff": -73,
             "dropped": false
           },
           {
@@ -9732,7 +9732,7 @@
             "overall_pick": 112,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -37,
+            "value_diff": -35,
             "dropped": true
           },
           {
@@ -10802,7 +10802,7 @@
               "overall_pick": 69,
               "bid_amount": null,
               "points": 1.3,
-              "value_diff": -74,
+              "value_diff": -73,
               "dropped": false
             },
             {
@@ -10862,7 +10862,7 @@
               "overall_pick": 112,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -37,
+              "value_diff": -35,
               "dropped": true
             },
             {
@@ -11435,17 +11435,17 @@
           "injury": null
         },
         {
-          "player_id": 5083076,
-          "name": "Harold Fannin Jr.",
+          "player_id": 3929645,
+          "name": "Juwan Johnson",
           "slot": "TE",
           "pos": "TE",
-          "pro": "CLE",
-          "proj": 11.2,
+          "pro": "NO",
+          "proj": 10.6,
           "actual": 0.0,
-          "season_ppg": 12.9,
-          "season_total": 38.6,
-          "games_played": 3,
-          "preseason_proj_total": 53.5,
+          "season_ppg": 23.3,
+          "season_total": 23.3,
+          "games_played": 1,
+          "preseason_proj_total": 117.3,
           "starter": true,
           "injury": null
         },
@@ -11510,6 +11510,21 @@
           "injury": null
         },
         {
+          "player_id": 5083076,
+          "name": "Harold Fannin Jr.",
+          "slot": "BE",
+          "pos": "TE",
+          "pro": "CLE",
+          "proj": 11.2,
+          "actual": 0.0,
+          "season_ppg": 12.9,
+          "season_total": 38.6,
+          "games_played": 3,
+          "preseason_proj_total": 53.5,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4685382,
           "name": "Omarion Hampton",
           "slot": "BE",
@@ -11537,20 +11552,20 @@
           "games_played": 3,
           "preseason_proj_total": 219.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 3929645,
-          "name": "Juwan Johnson",
+          "player_id": 2973405,
+          "name": "Kalif Raymond",
           "slot": "BE",
-          "pos": "TE",
-          "pro": "NO",
-          "proj": 10.6,
+          "pos": "WR",
+          "pro": "CHI",
+          "proj": 10.1,
           "actual": 0.0,
-          "season_ppg": 23.3,
-          "season_total": 23.3,
+          "season_ppg": 21.0,
+          "season_total": 21.0,
           "games_played": 1,
-          "preseason_proj_total": 117.3,
+          "preseason_proj_total": 27.7,
           "starter": false,
           "injury": null
         },
@@ -11581,21 +11596,6 @@
           "season_total": 23.7,
           "games_played": 3,
           "preseason_proj_total": 163.8,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4428557,
-          "name": "Tyjae Spears",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "TEN",
-          "proj": 8.0,
-          "actual": 0.0,
-          "season_ppg": 0.5,
-          "season_total": 0.5,
-          "games_played": 1,
-          "preseason_proj_total": 119.2,
           "starter": false,
           "injury": null
         },
@@ -13137,7 +13137,7 @@
           "games_played": 3,
           "preseason_proj_total": 222.1,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4241389,
@@ -13200,17 +13200,17 @@
           "injury": null
         },
         {
-          "player_id": -16021,
-          "name": "Eagles D/ST",
+          "player_id": -16002,
+          "name": "Bills D/ST",
           "slot": "D/ST",
           "pos": "D/ST",
-          "pro": "PHI",
-          "proj": 4.1,
+          "pro": "BUF",
+          "proj": 6.3,
           "actual": 0.0,
-          "season_ppg": 2.7,
-          "season_total": 8.0,
-          "games_played": 3,
-          "preseason_proj_total": 97.8,
+          "season_ppg": 5.0,
+          "season_total": 5.0,
+          "games_played": 1,
+          "preseason_proj_total": 100.3,
           "starter": true,
           "injury": null
         },
@@ -13362,7 +13362,7 @@
           "overall_pick": 11,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -134,
+          "value_diff": -132,
           "dropped": true
         },
         "picks": [
@@ -13387,7 +13387,7 @@
             "overall_pick": 11,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -134,
+            "value_diff": -132,
             "dropped": true
           },
           {
@@ -13399,7 +13399,7 @@
             "overall_pick": 30,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -116,
+            "value_diff": -114,
             "dropped": false
           },
           {
@@ -13519,7 +13519,7 @@
             "overall_pick": 130,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -23,
+            "value_diff": -22,
             "dropped": true
           },
           {
@@ -13548,15 +13548,15 @@
           },
           {
             "name": "Eagles D/ST",
-            "pos": "D/ST",
-            "pro": "PHI",
+            "pos": "?",
+            "pro": "?",
             "round": 16,
             "pick_in_round": 1,
             "overall_pick": 151,
             "bid_amount": null,
-            "points": 2.7,
-            "value_diff": 11,
-            "dropped": false
+            "points": 0.0,
+            "value_diff": -6,
+            "dropped": true
           }
         ]
       },
@@ -14492,7 +14492,7 @@
             "overall_pick": 11,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -134,
+            "value_diff": -132,
             "dropped": true
           },
           "picks": [
@@ -14517,7 +14517,7 @@
               "overall_pick": 11,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -134,
+              "value_diff": -132,
               "dropped": true
             },
             {
@@ -14529,7 +14529,7 @@
               "overall_pick": 30,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -116,
+              "value_diff": -114,
               "dropped": false
             },
             {
@@ -14649,7 +14649,7 @@
               "overall_pick": 130,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -23,
+              "value_diff": -22,
               "dropped": true
             },
             {
@@ -14678,15 +14678,15 @@
             },
             {
               "name": "Eagles D/ST",
-              "pos": "D/ST",
-              "pro": "PHI",
+              "pos": "?",
+              "pro": "?",
               "round": 16,
               "pick_in_round": 1,
               "overall_pick": 151,
               "bid_amount": null,
-              "points": 2.7,
-              "value_diff": 11,
-              "dropped": false
+              "points": 0.0,
+              "value_diff": -6,
+              "dropped": true
             }
           ],
           "season": 2026
@@ -15147,7 +15147,7 @@
           "games_played": 3,
           "preseason_proj_total": 363.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4242335,
@@ -15207,7 +15207,7 @@
           "games_played": 3,
           "preseason_proj_total": 232.5,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 5083315,
@@ -15222,7 +15222,7 @@
           "games_played": 2,
           "preseason_proj_total": 127.2,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4362238,
@@ -15538,7 +15538,7 @@
             "overall_pick": 94,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -54,
+            "value_diff": -52,
             "dropped": true
           },
           {
@@ -15562,7 +15562,7 @@
             "overall_pick": 114,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -36,
+            "value_diff": -34,
             "dropped": true
           },
           {
@@ -16668,7 +16668,7 @@
               "overall_pick": 94,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -54,
+              "value_diff": -52,
               "dropped": true
             },
             {
@@ -16692,7 +16692,7 @@
               "overall_pick": 114,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -36,
+              "value_diff": -34,
               "dropped": true
             },
             {
@@ -17113,7 +17113,7 @@
           "overall_pick": 66,
           "bid_amount": null,
           "points": 0.0,
-          "value_diff": -81,
+          "value_diff": -79,
           "dropped": true
         },
         "picks": [
@@ -17198,7 +17198,7 @@
             "overall_pick": 66,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -81,
+            "value_diff": -79,
             "dropped": true
           },
           {
@@ -17282,7 +17282,7 @@
             "overall_pick": 135,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -20,
+            "value_diff": -19,
             "dropped": true
           },
           {
@@ -18017,7 +18017,7 @@
             "overall_pick": 66,
             "bid_amount": null,
             "points": 0.0,
-            "value_diff": -81,
+            "value_diff": -79,
             "dropped": true
           },
           "picks": [
@@ -18102,7 +18102,7 @@
               "overall_pick": 66,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -81,
+              "value_diff": -79,
               "dropped": true
             },
             {
@@ -18186,7 +18186,7 @@
               "overall_pick": 135,
               "bid_amount": null,
               "points": 0.0,
-              "value_diff": -20,
+              "value_diff": -19,
               "dropped": true
             },
             {
