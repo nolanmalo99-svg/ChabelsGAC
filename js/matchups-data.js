@@ -533,7 +533,7 @@ window.MATCHUPS_DATA = {
               "pro": "DEN",
               "proj": 11.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Dalton Kincaid",
@@ -582,7 +582,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 72.4,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Jaylen Waddle",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "DEN",
+              "proj": 11.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 13,
