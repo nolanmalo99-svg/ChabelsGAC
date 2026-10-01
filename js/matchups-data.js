@@ -1161,7 +1161,7 @@ window.MATCHUPS_DATA = {
               "pro": "TEN",
               "proj": 11.7,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Chuba Hubbard",
@@ -1192,17 +1192,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 66.7,
-          "injuries": [
-            {
-              "name": "Tony Pollard",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "TEN",
-              "proj": 11.7,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 6,
@@ -1587,7 +1577,7 @@ window.MATCHUPS_DATA = {
               "pro": "CHI",
               "proj": 14.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Sam LaPorta",
@@ -1634,6 +1624,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "MIN",
               "proj": 18.7,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "D'Andre Swift",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "CHI",
+              "proj": 14.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1794,7 +1793,7 @@ window.MATCHUPS_DATA = {
               "pro": "BAL",
               "proj": 21.1,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Jaylen Warren",
@@ -1830,7 +1829,7 @@ window.MATCHUPS_DATA = {
               "pro": "BAL",
               "proj": 15.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Kenyon Sadiq",
@@ -1850,24 +1849,6 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "PHI",
               "proj": 15.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Lamar Jackson",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "BAL",
-              "proj": 21.1,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Zay Flowers",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BAL",
-              "proj": 15.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -2018,7 +1999,7 @@ window.MATCHUPS_DATA = {
             "pro": "BAL",
             "proj": 21.1,
             "actual": 0.0,
-            "injury": "QUESTIONABLE",
+            "injury": null,
             "owner": "Peter Lundquist"
           },
           {
