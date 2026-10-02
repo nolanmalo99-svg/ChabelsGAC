@@ -1304,7 +1304,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.8,
+          "bench_proj": 63.0,
           "injuries": [
             {
               "name": "Ladd McConkey",
@@ -1549,7 +1549,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-1",
           "actual": 15.6,
-          "projected": 130.3,
+          "projected": 114.7,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1574,7 +1574,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "PHI",
-              "proj": 15.6,
+              "proj": 0.0,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1592,7 +1592,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "PIT",
-              "proj": 16.5,
+              "proj": 17.0,
               "actual": 15.6,
               "injury": null
             },
@@ -1640,7 +1640,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "PHI",
-              "proj": 15.6,
+              "proj": 0.0,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1662,7 +1662,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "2-1",
           "actual": 0.0,
-          "projected": 122.4,
+          "projected": 122.5,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1678,7 +1678,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "PHI",
-              "proj": 14.2,
+              "proj": 14.3,
               "actual": 0.0,
               "injury": null
             },

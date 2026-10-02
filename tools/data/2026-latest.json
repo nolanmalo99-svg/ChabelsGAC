@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-02T11:21:06+00:00",
+  "generated_at": "2026-10-02T14:27:01+00:00",
   "current_week": 4,
   "standings": [
     {
@@ -4150,7 +4150,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "PHI",
-          "proj": 14.2,
+          "proj": 14.3,
           "actual": 0.0,
           "season_ppg": 7.0,
           "season_total": 21.0,
@@ -6030,6 +6030,21 @@
           "injury": null
         },
         {
+          "player_id": 4428850,
+          "name": "Dontayvion Wicks",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "PHI",
+          "proj": 11.1,
+          "actual": 0.0,
+          "season_ppg": 5.2,
+          "season_total": 5.2,
+          "games_played": 1,
+          "preseason_proj_total": 20.5,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4241985,
           "name": "J.K. Dobbins",
           "slot": "BE",
@@ -6041,21 +6056,6 @@
           "season_total": 13.5,
           "games_played": 3,
           "preseason_proj_total": 171.4,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4428850,
-          "name": "Dontayvion Wicks",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "PHI",
-          "proj": 9.9,
-          "actual": 0.0,
-          "season_ppg": 5.2,
-          "season_total": 5.2,
-          "games_played": 1,
-          "preseason_proj_total": 20.5,
           "starter": false,
           "injury": null
         },
@@ -7807,7 +7807,7 @@
           "games_played": 3,
           "preseason_proj_total": 371.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 4431611,
@@ -15170,7 +15170,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "PIT",
-          "proj": 16.5,
+          "proj": 17.0,
           "actual": 15.6,
           "season_ppg": 13.5,
           "season_total": 40.6,
@@ -15178,21 +15178,6 @@
           "preseason_proj_total": 250.2,
           "starter": true,
           "injury": null
-        },
-        {
-          "player_id": 4241478,
-          "name": "DeVonta Smith",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "PHI",
-          "proj": 15.6,
-          "actual": 0.0,
-          "season_ppg": 16.2,
-          "season_total": 48.5,
-          "games_played": 3,
-          "preseason_proj_total": 223.0,
-          "starter": true,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429615,
@@ -15208,6 +15193,21 @@
           "preseason_proj_total": 232.5,
           "starter": true,
           "injury": null
+        },
+        {
+          "player_id": 4241478,
+          "name": "DeVonta Smith",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "PHI",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 16.2,
+          "season_total": 48.5,
+          "games_played": 3,
+          "preseason_proj_total": 223.0,
+          "starter": true,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 5083315,
