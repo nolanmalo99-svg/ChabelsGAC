@@ -591,14 +591,14 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-3",
           "actual": 16.5,
-          "projected": 129.0,
+          "projected": 129.9,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
               "slot": "WR",
               "pos": "WR",
               "pro": "SEA",
-              "proj": 21.0,
+              "proj": 21.9,
               "actual": 0.0,
               "injury": null
             },
@@ -625,7 +625,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "LAR",
-              "proj": 13.0,
+              "proj": 13.1,
               "actual": 0.0,
               "injury": null
             },
@@ -787,7 +787,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "2-1",
           "actual": 21.6,
-          "projected": 137.6,
+          "projected": 137.8,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -812,7 +812,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 14.7,
+              "proj": 14.9,
               "actual": 0.0,
               "injury": null
             },
@@ -871,7 +871,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 38.4,
+          "bench_proj": 38.7,
           "injuries": []
         },
         "played": true,
@@ -983,14 +983,14 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-2",
           "actual": 0.0,
-          "projected": 127.2,
+          "projected": 127.4,
           "starters": [
             {
               "name": "Puka Nacua",
               "slot": "FLEX",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 20.5,
+              "proj": 20.7,
               "actual": 0.0,
               "injury": null
             },
@@ -1075,7 +1075,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-2) at Austin Carter (3-0). Projected: Adam Biewen 127.2 - Austin Carter 125.7. Adam Biewen favored by 1.5.",
+        "blurb": "Adam Biewen (1-2) at Austin Carter (3-0). Projected: Adam Biewen 127.4 - Austin Carter 125.7. Adam Biewen favored by 1.7.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -1110,7 +1110,7 @@ window.MATCHUPS_DATA = {
             "slot": "FLEX",
             "pos": "WR",
             "pro": "LAR",
-            "proj": 20.5,
+            "proj": 20.7,
             "actual": 0.0,
             "injury": null,
             "owner": "Adam Biewen"
@@ -1170,7 +1170,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 46.6,
-            "away_proj": 49.1,
+            "away_proj": 49.3,
             "edge": "away"
           }
         ],
@@ -1379,7 +1379,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 55.4,
+          "bench_proj": 45.4,
           "injuries": [
             {
               "name": "Justin Jefferson",
@@ -1511,7 +1511,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "2-1",
           "actual": 15.6,
-          "projected": 114.7,
+          "projected": 125.6,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1532,20 +1532,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "DeVonta Smith",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "OUT"
-            },
-            {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
               "pro": "BAL",
               "proj": 21.2,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Carnell Tate",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "TEN",
+              "proj": 11.9,
               "actual": 0.0,
               "injury": null
             },
@@ -1572,7 +1572,16 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "LAR",
-              "proj": 6.3,
+              "proj": 6.2,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Tucker Kraft",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "GB",
+              "proj": 8.9,
               "actual": 0.0,
               "injury": null
             },
@@ -1584,43 +1593,16 @@ window.MATCHUPS_DATA = {
               "proj": 15.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Kenyon Sadiq",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "NYJ",
-              "proj": 9.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 56.7,
+          "bench_proj": 45.8,
           "injuries": [
-            {
-              "name": "DeVonta Smith",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "OUT"
-            },
             {
               "name": "Zay Flowers",
               "slot": "WR",
               "pos": "WR",
               "pro": "BAL",
               "proj": 15.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Kenyon Sadiq",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "NYJ",
-              "proj": 9.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
