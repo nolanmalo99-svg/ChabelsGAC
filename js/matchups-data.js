@@ -581,7 +581,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 62.1,
+          "bench_proj": 63.3,
           "injuries": []
         },
         "away": {
@@ -787,7 +787,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "2-1",
           "actual": 21.6,
-          "projected": 137.8,
+          "projected": 138.6,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -812,7 +812,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 14.9,
+              "proj": 15.6,
               "actual": 0.0,
               "injury": null
             },
@@ -871,7 +871,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 38.7,
+          "bench_proj": 27.4,
           "injuries": []
         },
         "played": true,
@@ -983,14 +983,14 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "1-2",
           "actual": 0.0,
-          "projected": 127.4,
+          "projected": 124.7,
           "starters": [
             {
               "name": "Puka Nacua",
               "slot": "FLEX",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 20.7,
+              "proj": 18.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1067,7 +1067,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 43.1,
+          "bench_proj": 30.1,
           "injuries": []
         },
         "played": false,
@@ -1075,7 +1075,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (1-2) at Austin Carter (3-0). Projected: Adam Biewen 127.4 - Austin Carter 125.7. Adam Biewen favored by 1.7.",
+        "blurb": "Adam Biewen (1-2) at Austin Carter (3-0). Projected: Adam Biewen 124.7 - Austin Carter 125.7. Austin Carter favored by 1.0.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -1106,16 +1106,6 @@ window.MATCHUPS_DATA = {
             "owner": "Austin Carter"
           },
           {
-            "name": "Puka Nacua",
-            "slot": "FLEX",
-            "pos": "WR",
-            "pro": "LAR",
-            "proj": 20.7,
-            "actual": 0.0,
-            "injury": null,
-            "owner": "Adam Biewen"
-          },
-          {
             "name": "Derrick Henry",
             "slot": "RB",
             "pos": "RB",
@@ -1131,6 +1121,16 @@ window.MATCHUPS_DATA = {
             "pos": "QB",
             "pro": "CAR",
             "proj": 20.2,
+            "actual": 0.0,
+            "injury": null,
+            "owner": "Adam Biewen"
+          },
+          {
+            "name": "Puka Nacua",
+            "slot": "FLEX",
+            "pos": "WR",
+            "pro": "LAR",
+            "proj": 18.1,
             "actual": 0.0,
             "injury": null,
             "owner": "Adam Biewen"
@@ -1170,8 +1170,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 46.6,
-            "away_proj": 49.3,
-            "edge": "away"
+            "away_proj": 46.7,
+            "edge": "even"
           }
         ],
         "revenge": null,
