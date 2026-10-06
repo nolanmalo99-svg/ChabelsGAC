@@ -1911,7 +1911,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "2-2",
           "actual": 0.0,
-          "projected": 107.6,
+          "projected": 128.1,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1947,7 +1947,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 20.5,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "TreVeyon Henderson",
@@ -2004,7 +2004,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 20.5,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "QUESTIONABLE"
             }
           ]
         },
@@ -2117,7 +2117,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (2-2) at Adam Biewen (2-2). Projected: Adam Schumacher 119.7 - Adam Biewen 107.6. Adam Schumacher favored by 12.1.",
+        "blurb": "Adam Schumacher (2-2) at Adam Biewen (2-2). Projected: Adam Schumacher 119.7 - Adam Biewen 128.1. Adam Biewen favored by 8.4.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2154,7 +2154,7 @@ window.MATCHUPS_DATA = {
             "pro": "WSH",
             "proj": 20.5,
             "actual": 0.0,
-            "injury": "OUT",
+            "injury": "QUESTIONABLE",
             "owner": "Adam Biewen"
           },
           {
