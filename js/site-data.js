@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-07T20:59:53+00:00",
+  "generated_at": "2026-10-08T04:32:52+00:00",
   "current_week": 5,
   "standings": [
     {
@@ -555,7 +555,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "PHI",
-          "proj": 10.4,
+          "proj": 10.2,
           "actual": 0.0,
           "season_ppg": 2.3,
           "season_total": 2.3,
@@ -4337,7 +4337,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 136.0,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4427366,
@@ -6035,7 +6035,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "PHI",
-          "proj": 10.4,
+          "proj": 10.1,
           "actual": 0.0,
           "season_ppg": 5.0,
           "season_total": 10.0,
@@ -16846,19 +16846,19 @@ window.SITE_DATA = {
       "winning_seasons": 1,
       "roster": [
         {
-          "player_id": 4360689,
-          "name": "Tyler Shough",
+          "player_id": 4360310,
+          "name": "Trevor Lawrence",
           "slot": "QB",
           "pos": "QB",
-          "pro": "NO",
-          "proj": 16.5,
+          "pro": "JAX",
+          "proj": 19.0,
           "actual": 0.0,
-          "season_ppg": 19.9,
-          "season_total": 39.7,
-          "games_played": 2,
-          "preseason_proj_total": 99.9,
+          "season_ppg": 16.3,
+          "season_total": 65.2,
+          "games_played": 4,
+          "preseason_proj_total": 279.3,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4890973,
@@ -16933,7 +16933,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 262.2,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4426388,
@@ -16981,19 +16981,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4360310,
-          "name": "Trevor Lawrence",
+          "player_id": 4360689,
+          "name": "Tyler Shough",
           "slot": "BE",
           "pos": "QB",
-          "pro": "JAX",
-          "proj": 19.0,
+          "pro": "NO",
+          "proj": 16.5,
           "actual": 0.0,
-          "season_ppg": 16.3,
-          "season_total": 65.2,
-          "games_played": 4,
-          "preseason_proj_total": 279.3,
+          "season_ppg": 19.9,
+          "season_total": 39.7,
+          "games_played": 2,
+          "preseason_proj_total": 99.9,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4426338,

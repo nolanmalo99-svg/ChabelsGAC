@@ -1063,7 +1063,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.7,
+          "bench_proj": 67.5,
           "injuries": []
         },
         "away": {
@@ -1157,7 +1157,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 52.7,
+          "bench_proj": 52.4,
           "injuries": [
             {
               "name": "Jeremiyah Love",
@@ -1309,7 +1309,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "0-4",
           "actual": 0.0,
-          "projected": 127.9,
+          "projected": 130.5,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1336,7 +1336,7 @@ window.MATCHUPS_DATA = {
               "pro": "LV",
               "proj": 16.3,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kyren Williams",
@@ -1366,13 +1366,13 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Tyler Shough",
+              "name": "Trevor Lawrence",
               "slot": "QB",
               "pos": "QB",
-              "pro": "NO",
-              "proj": 16.5,
+              "pro": "JAX",
+              "proj": 19.0,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Cameron Dicker",
@@ -1393,14 +1393,14 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 69.0,
+          "bench_proj": 66.5,
           "injuries": [
             {
-              "name": "Tyler Shough",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "NO",
-              "proj": 16.5,
+              "name": "Brock Bowers",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "LV",
+              "proj": 16.3,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1515,7 +1515,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (3-1) at Evan Wieker (0-4). Projected: Peter Lundquist 121.1 - Evan Wieker 127.9. Evan Wieker favored by 6.8.",
+        "blurb": "Peter Lundquist (3-1) at Evan Wieker (0-4). Projected: Peter Lundquist 121.1 - Evan Wieker 130.5. Evan Wieker favored by 9.4.",
         "home_form": {
           "record_last_n": "0-3",
           "games_considered": 3,
@@ -1546,6 +1546,16 @@ window.MATCHUPS_DATA = {
             "owner": "Evan Wieker"
           },
           {
+            "name": "Trevor Lawrence",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "JAX",
+            "proj": 19.0,
+            "actual": 0.0,
+            "injury": null,
+            "owner": "Evan Wieker"
+          },
+          {
             "name": "Jonathan Taylor",
             "slot": "RB",
             "pos": "RB",
@@ -1564,16 +1574,6 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Peter Lundquist"
-          },
-          {
-            "name": "Ashton Jeanty",
-            "slot": "RB",
-            "pos": "RB",
-            "pro": "LV",
-            "proj": 17.8,
-            "actual": 0.0,
-            "injury": null,
-            "owner": "Evan Wieker"
           }
         ],
         "positional_edges": [
@@ -1591,9 +1591,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "QB",
-            "home_proj": 16.5,
+            "home_proj": 19.0,
             "away_proj": 18.8,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "RB",
