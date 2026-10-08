@@ -794,7 +794,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Parker Washington",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "JAX",
               "proj": 14.1,
@@ -803,7 +803,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Christian Watson",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "GB",
               "proj": 13.8,
@@ -817,7 +817,7 @@ window.MATCHUPS_DATA = {
               "pro": "TEN",
               "proj": 13.0,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "RJ Harvey",
@@ -847,18 +847,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 43.7,
-          "injuries": [
-            {
-              "name": "Tony Pollard",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "TEN",
-              "proj": 13.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 52.5,
+          "injuries": []
         },
         "played": false,
         "playoff": false,
@@ -1051,7 +1041,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 16.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Braelon Allen",
@@ -1064,7 +1054,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 67.5,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Chris Olave",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "NO",
+              "proj": 16.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 5,
@@ -1073,7 +1073,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "1-3",
           "actual": 0.0,
-          "projected": 88.7,
+          "projected": 112.7,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1094,26 +1094,8 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "Rashee Rice",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "KC",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Tetairoa McMillan",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "CAR",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Ladd McConkey",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "LAC",
               "proj": 10.5,
@@ -1126,6 +1108,15 @@ window.MATCHUPS_DATA = {
               "pos": "QB",
               "pro": "PHI",
               "proj": 16.1,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "JAX",
+              "proj": 13.9,
               "actual": 0.0,
               "injury": null
             },
@@ -1148,6 +1139,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Dontayvion Wicks",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "PHI",
+              "proj": 10.1,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Ravens D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -1157,7 +1157,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 52.4,
+          "bench_proj": 28.4,
           "injuries": [
             {
               "name": "Jeremiyah Love",
@@ -1169,17 +1169,8 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "Rashee Rice",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "KC",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Ladd McConkey",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "LAC",
               "proj": 10.5,
@@ -1193,7 +1184,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Jordan Schommer (1-3) at Nolan Malo (3-1). Projected: Jordan Schommer 88.7 - Nolan Malo 125.3. Nolan Malo favored by 36.6.",
+        "blurb": "Jordan Schommer (1-3) at Nolan Malo (3-1). Projected: Jordan Schommer 112.7 - Nolan Malo 125.3. Nolan Malo favored by 12.6.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -1276,7 +1267,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 31.6,
-            "away_proj": 37.2,
+            "away_proj": 51.1,
             "edge": "away"
           },
           {
@@ -1288,14 +1279,12 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 47.8,
-            "away_proj": 10.5,
+            "away_proj": 20.6,
             "edge": "home"
           }
         ],
         "revenge": null,
-        "fun_facts": [
-          "If the projection holds, this would be Jordan Schommer's worst week of the season."
-        ],
+        "fun_facts": [],
         "head_to_head": {
           "home_w": 6,
           "home_l": 2
@@ -1440,7 +1429,7 @@ window.MATCHUPS_DATA = {
               "pro": "TEN",
               "proj": 13.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jaylen Warren",
@@ -1499,6 +1488,15 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 46.7,
           "injuries": [
+            {
+              "name": "Carnell Tate",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "TEN",
+              "proj": 13.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Zay Flowers",
               "slot": "WR",
@@ -1723,7 +1721,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-3",
           "actual": 0.0,
-          "projected": 111.5,
+          "projected": 120.9,
           "starters": [
             {
               "name": "James Cook III",
@@ -1733,6 +1731,15 @@ window.MATCHUPS_DATA = {
               "proj": 15.7,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Justin Jefferson",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "MIN",
+              "proj": 18.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "George Pickens",
@@ -1780,15 +1787,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Tre Tucker",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "LV",
-              "proj": 9.1,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Lions D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -1807,8 +1805,17 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 58.6,
+          "bench_proj": 59.3,
           "injuries": [
+            {
+              "name": "Justin Jefferson",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "MIN",
+              "proj": 18.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Malik Nabers",
               "slot": "FLEX",
@@ -1834,7 +1841,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (1-3) at Brady Kienitz (3-1). Projected: Isaac Douglas 111.5 - Brady Kienitz 131.5. Brady Kienitz favored by 20.0.",
+        "blurb": "Isaac Douglas (1-3) at Brady Kienitz (3-1). Projected: Isaac Douglas 120.9 - Brady Kienitz 131.5. Brady Kienitz favored by 10.6.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -1875,6 +1882,16 @@ window.MATCHUPS_DATA = {
             "owner": "Brady Kienitz"
           },
           {
+            "name": "Justin Jefferson",
+            "slot": "WR",
+            "pos": "WR",
+            "pro": "MIN",
+            "proj": 18.5,
+            "actual": 0.0,
+            "injury": "QUESTIONABLE",
+            "owner": "Isaac Douglas"
+          },
+          {
             "name": "Matthew Stafford",
             "slot": "QB",
             "pos": "QB",
@@ -1883,16 +1900,6 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Isaac Douglas"
-          },
-          {
-            "name": "Aaron Jones Sr.",
-            "slot": "RB",
-            "pos": "RB",
-            "pro": "MIN",
-            "proj": 17.8,
-            "actual": 0.0,
-            "injury": null,
-            "owner": "Brady Kienitz"
           }
         ],
         "positional_edges": [
@@ -1929,7 +1936,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 28.2,
-            "away_proj": 35.8,
+            "away_proj": 45.2,
             "edge": "away"
           }
         ],
