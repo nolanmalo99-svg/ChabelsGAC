@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-08T21:01:25+00:00",
+  "generated_at": "2026-10-09T02:43:27+00:00",
   "current_week": 5,
   "standings": [
     {
@@ -376,7 +376,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "DAL",
           "proj": 17.5,
-          "actual": 0.0,
+          "actual": 13.6,
           "season_ppg": 20.4,
           "season_total": 81.8,
           "games_played": 4,
@@ -481,7 +481,7 @@ window.SITE_DATA = {
           "pos": "K",
           "pro": "DAL",
           "proj": 10.8,
-          "actual": 0.0,
+          "actual": 5.0,
           "season_ppg": 9.8,
           "season_total": 39.0,
           "games_played": 4,
@@ -2566,7 +2566,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "DAL",
           "proj": 6.9,
-          "actual": 0.0,
+          "actual": 3.3,
           "season_ppg": 9.1,
           "season_total": 36.3,
           "games_played": 4,
@@ -4160,12 +4160,27 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
+          "player_id": 4567750,
+          "name": "Emeka Egbuka",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 9.8,
+          "actual": 16.0,
+          "season_ppg": 9.0,
+          "season_total": 36.1,
+          "games_played": 4,
+          "preseason_proj_total": 176.0,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4239993,
           "name": "Tee Higgins",
           "slot": "WR",
           "pos": "WR",
           "pro": "CIN",
-          "proj": 14.2,
+          "proj": 0.0,
           "actual": 0.0,
           "season_ppg": 17.8,
           "season_total": 71.1,
@@ -4173,21 +4188,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 265.4,
           "starter": true,
           "injury": "QUESTIONABLE"
-        },
-        {
-          "player_id": 4567750,
-          "name": "Emeka Egbuka",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "TB",
-          "proj": 9.8,
-          "actual": 0.0,
-          "season_ppg": 9.0,
-          "season_total": 36.1,
-          "games_played": 4,
-          "preseason_proj_total": 176.0,
-          "starter": true,
-          "injury": null
         },
         {
           "player_id": 4361307,
@@ -5922,7 +5922,7 @@ window.SITE_DATA = {
           "games_played": 2,
           "preseason_proj_total": 20.5,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3040151,
@@ -5991,7 +5991,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "DAL",
           "proj": 17.8,
-          "actual": 0.0,
+          "actual": 4.6,
           "season_ppg": 20.3,
           "season_total": 81.2,
           "games_played": 4,
@@ -7750,21 +7750,6 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4035687,
-          "name": "Michael Pittman Jr.",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "PIT",
-          "proj": 8.4,
-          "actual": 0.0,
-          "season_ppg": 4.0,
-          "season_total": 15.9,
-          "games_played": 4,
-          "preseason_proj_total": 201.1,
-          "starter": false,
-          "injury": "OUT"
-        },
-        {
           "player_id": -16026,
           "name": "Seahawks D/ST",
           "slot": "BE",
@@ -7793,6 +7778,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 188.1,
           "starter": false,
           "injury": "INJURY_RESERVE"
+        },
+        {
+          "player_id": 4035687,
+          "name": "Michael Pittman Jr.",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "PIT",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 4.0,
+          "season_total": 15.9,
+          "games_played": 4,
+          "preseason_proj_total": 201.1,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4683062,
@@ -9386,7 +9386,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "DAL",
           "proj": 13.2,
-          "actual": 0.0,
+          "actual": 10.3,
           "season_ppg": 10.1,
           "season_total": 40.5,
           "games_played": 4,
@@ -11396,7 +11396,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "TB",
           "proj": 15.2,
-          "actual": 0.0,
+          "actual": 27.2,
           "season_ppg": 11.8,
           "season_total": 47.2,
           "games_played": 4,
@@ -13161,7 +13161,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "DAL",
           "proj": 19.1,
-          "actual": 0.0,
+          "actual": 2.9,
           "season_ppg": 28.1,
           "season_total": 112.2,
           "games_played": 4,
@@ -15260,7 +15260,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "RB",
           "pro": "PIT",
-          "proj": 14.5,
+          "proj": 14.4,
           "actual": 0.0,
           "season_ppg": 14.1,
           "season_total": 56.2,
@@ -16903,7 +16903,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 302.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4430737,
@@ -16941,7 +16941,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "PIT",
-          "proj": 12.0,
+          "proj": 12.4,
           "actual": 0.0,
           "season_ppg": 10.8,
           "season_total": 43.3,
@@ -16963,7 +16963,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 262.2,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4426388,
