@@ -659,7 +659,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "2-2",
           "actual": 31.5,
-          "projected": 144.6,
+          "projected": 144.5,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -743,7 +743,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 65.1,
+          "bench_proj": 65.0,
           "injuries": [
             {
               "name": "Ja'Marr Chase",
@@ -947,7 +947,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 16.5,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Braelon Allen",
@@ -959,18 +959,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.5,
-          "injuries": [
-            {
-              "name": "Chris Olave",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NO",
-              "proj": 16.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 56.7,
+          "injuries": []
         },
         "away": {
           "teamId": 5,
@@ -979,7 +969,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "1-3",
           "actual": 0.0,
-          "projected": 112.7,
+          "projected": 112.5,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1051,14 +1041,14 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 10.1,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Ravens D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "BAL",
-              "proj": 2.7,
+              "proj": 2.4,
               "actual": 0.0,
               "injury": null
             }
@@ -1080,15 +1070,6 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "LAC",
               "proj": 10.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Dontayvion Wicks",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 10.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1229,7 +1210,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "CIN",
-              "proj": 17.5,
+              "proj": 17.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1297,7 +1278,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 46.7,
+          "bench_proj": 46.6,
           "injuries": [
             {
               "name": "Carnell Tate",
@@ -1407,7 +1388,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 35.6,
-            "away_proj": 50.8,
+            "away_proj": 50.7,
             "edge": "away"
           },
           {
@@ -1532,7 +1513,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-3",
           "actual": 28.0,
-          "projected": 135.7,
+          "projected": 138.0,
           "starters": [
             {
               "name": "James Cook III",
@@ -1568,16 +1549,16 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 13.5,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "D'Andre Swift",
               "slot": "RB",
               "pos": "RB",
               "pro": "CHI",
-              "proj": 14.1,
+              "proj": 16.5,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Sam LaPorta",
@@ -1616,7 +1597,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 59.3,
+          "bench_proj": 48.7,
           "injuries": [
             {
               "name": "Justin Jefferson",
@@ -1624,24 +1605,6 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "MIN",
               "proj": 18.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Malik Nabers",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "NYG",
-              "proj": 13.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "D'Andre Swift",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "CHI",
-              "proj": 14.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1725,7 +1688,7 @@ window.MATCHUPS_DATA = {
               "pro": "NYG",
               "proj": 12.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Evan McPherson",
@@ -1746,18 +1709,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 28.3,
-          "injuries": [
-            {
-              "name": "Isaiah Likely",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "NYG",
-              "proj": 12.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 27.6,
+          "injuries": []
         },
         "away": {
           "teamId": 4,
@@ -1766,7 +1719,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "2-2",
           "actual": 17.2,
-          "projected": 112.9,
+          "projected": 120.2,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1797,19 +1750,10 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Tee Higgins",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "CIN",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Rhamondre Stevenson",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NE",
-              "proj": 13.3,
+              "proj": 12.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1842,31 +1786,31 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Ollie Gordon II",
-              "slot": "FLEX",
+              "slot": "RB",
               "pos": "RB",
               "pro": "MIA",
               "proj": 10.9,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Keon Coleman",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "BUF",
+              "proj": 7.7,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 57.0,
+          "bench_proj": 62.6,
           "injuries": [
             {
               "name": "Tee Higgins",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "CIN",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Rhamondre Stevenson",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NE",
-              "proj": 13.3,
+              "proj": 12.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
