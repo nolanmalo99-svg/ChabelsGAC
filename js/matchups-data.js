@@ -659,7 +659,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "2-2",
           "actual": 31.5,
-          "projected": 144.5,
+          "projected": 144.6,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -684,7 +684,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "NYJ",
-              "proj": 14.7,
+              "proj": 14.8,
               "actual": 0.0,
               "injury": null
             },
@@ -763,7 +763,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "3-1",
           "actual": 2.9,
-          "projected": 101.8,
+          "projected": 102.0,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -847,7 +847,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 52.5,
+          "bench_proj": 53.1,
           "injuries": [
             {
               "name": "CeeDee Lamb",
@@ -875,7 +875,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "3-1",
           "actual": 19.2,
-          "projected": 116.2,
+          "projected": 117.3,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -900,7 +900,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "DEN",
-              "proj": 11.3,
+              "proj": 11.4,
               "actual": 0.0,
               "injury": null
             },
@@ -909,7 +909,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "BUF",
-              "proj": 8.8,
+              "proj": 9.9,
               "actual": 0.0,
               "injury": null
             },
@@ -959,7 +959,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 56.7,
+          "bench_proj": 56.8,
           "injuries": []
         },
         "away": {
@@ -969,7 +969,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "1-3",
           "actual": 0.0,
-          "projected": 112.5,
+          "projected": 111.9,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -985,9 +985,9 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "ARI",
-              "proj": 15.0,
+              "proj": 14.4,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Ladd McConkey",
@@ -1055,15 +1055,6 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 28.4,
           "injuries": [
-            {
-              "name": "Jeremiyah Love",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "ARI",
-              "proj": 15.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Ladd McConkey",
               "slot": "WR",
@@ -1174,7 +1165,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 66.5,
+          "bench_proj": 68.0,
           "injuries": [
             {
               "name": "Ashton Jeanty",
@@ -1255,7 +1246,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "GB",
-              "proj": 10.4,
+              "proj": 10.5,
               "actual": 0.0,
               "injury": null
             },
@@ -1394,7 +1385,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 16.3,
-            "away_proj": 10.4,
+            "away_proj": 10.5,
             "edge": "home"
           },
           {
@@ -1419,7 +1410,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "3-1",
           "actual": 0.0,
-          "projected": 131.5,
+          "projected": 131.1,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -1462,7 +1453,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "MIN",
-              "proj": 17.8,
+              "proj": 17.3,
               "actual": 0.0,
               "injury": null
             },
@@ -1471,7 +1462,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "GB",
-              "proj": 12.7,
+              "proj": 12.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1513,7 +1504,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "1-3",
           "actual": 28.0,
-          "projected": 138.0,
+          "projected": 138.5,
           "starters": [
             {
               "name": "James Cook III",
@@ -1556,7 +1547,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "CHI",
-              "proj": 16.5,
+              "proj": 17.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1583,7 +1574,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "DET",
-              "proj": 5.1,
+              "proj": 5.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1597,7 +1588,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 48.7,
+          "bench_proj": 49.3,
           "injuries": [
             {
               "name": "Justin Jefferson",
@@ -1719,7 +1710,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "2-2",
           "actual": 17.2,
-          "projected": 120.2,
+          "projected": 123.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1798,12 +1789,12 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "BUF",
-              "proj": 7.7,
+              "proj": 10.6,
               "actual": 0.0,
               "injury": null
             }
           ],
-          "bench_proj": 62.6,
+          "bench_proj": 50.1,
           "injuries": [
             {
               "name": "Tee Higgins",

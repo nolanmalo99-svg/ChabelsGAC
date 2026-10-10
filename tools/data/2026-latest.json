@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-09T20:32:51+00:00",
+  "generated_at": "2026-10-10T04:22:11+00:00",
   "current_week": 5,
   "standings": [
     {
@@ -435,7 +435,7 @@
           "slot": "TE",
           "pos": "TE",
           "pro": "BUF",
-          "proj": 8.8,
+          "proj": 9.9,
           "actual": 0.0,
           "season_ppg": 11.5,
           "season_total": 46.0,
@@ -450,7 +450,7 @@
           "slot": "FLEX",
           "pos": "WR",
           "pro": "DEN",
-          "proj": 11.3,
+          "proj": 11.4,
           "actual": 0.0,
           "season_ppg": 11.0,
           "season_total": 43.9,
@@ -517,7 +517,7 @@
           "games_played": 4,
           "preseason_proj_total": 235.1,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4035538,
@@ -540,7 +540,7 @@
           "slot": "BE",
           "pos": "RB",
           "pro": "PHI",
-          "proj": 10.2,
+          "proj": 10.3,
           "actual": 0.0,
           "season_ppg": 2.3,
           "season_total": 2.3,
@@ -2415,7 +2415,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "MIN",
-          "proj": 17.8,
+          "proj": 17.3,
           "actual": 0.0,
           "season_ppg": 12.9,
           "season_total": 51.5,
@@ -2460,7 +2460,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "GB",
-          "proj": 12.7,
+          "proj": 12.8,
           "actual": 0.0,
           "season_ppg": 14.5,
           "season_total": 58.0,
@@ -4160,6 +4160,21 @@
           "injury": null
         },
         {
+          "player_id": 4635008,
+          "name": "Keon Coleman",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 10.6,
+          "actual": 0.0,
+          "season_ppg": 23.6,
+          "season_total": 23.6,
+          "games_played": 1,
+          "preseason_proj_total": 201.0,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4567750,
           "name": "Emeka Egbuka",
           "slot": "WR",
@@ -4171,21 +4186,6 @@
           "season_total": 36.1,
           "games_played": 4,
           "preseason_proj_total": 176.0,
-          "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4635008,
-          "name": "Keon Coleman",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 7.7,
-          "actual": 0.0,
-          "season_ppg": 23.6,
-          "season_total": 23.6,
-          "games_played": 1,
-          "preseason_proj_total": 201.0,
           "starter": true,
           "injury": null
         },
@@ -4265,21 +4265,6 @@
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 3915416,
-          "name": "DJ Moore",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 12.6,
-          "actual": 0.0,
-          "season_ppg": 9.1,
-          "season_total": 36.3,
-          "games_played": 4,
-          "preseason_proj_total": 237.9,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4429205,
           "name": "Jordan Addison",
           "slot": "BE",
@@ -4300,7 +4285,7 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "DEN",
-          "proj": 10.2,
+          "proj": 10.3,
           "actual": 0.0,
           "season_ppg": 4.4,
           "season_total": 17.6,
@@ -4338,6 +4323,21 @@
           "preseason_proj_total": 136.0,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 3915416,
+          "name": "DJ Moore",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 9.1,
+          "season_total": 36.3,
+          "games_played": 4,
+          "preseason_proj_total": 237.9,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4427366,
@@ -5885,14 +5885,14 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "ARI",
-          "proj": 15.0,
+          "proj": 14.4,
           "actual": 0.0,
           "season_ppg": 12.2,
           "season_total": 48.9,
           "games_played": 4,
           "preseason_proj_total": 219.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4612826,
@@ -9340,7 +9340,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "CHI",
-          "proj": 16.5,
+          "proj": 17.1,
           "actual": 0.0,
           "season_ppg": 15.9,
           "season_total": 63.5,
@@ -9430,7 +9430,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "DET",
-          "proj": 5.1,
+          "proj": 5.0,
           "actual": 0.0,
           "season_ppg": 1.8,
           "season_total": 7.0,
@@ -9475,7 +9475,7 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "NO",
-          "proj": 10.2,
+          "proj": 10.8,
           "actual": 0.0,
           "season_ppg": 12.2,
           "season_total": 24.3,
@@ -11470,7 +11470,7 @@
           "slot": "FLEX",
           "pos": "WR",
           "pro": "NYJ",
-          "proj": 14.7,
+          "proj": 14.8,
           "actual": 0.0,
           "season_ppg": 15.8,
           "season_total": 63.0,
@@ -11597,7 +11597,7 @@
           "games_played": 4,
           "preseason_proj_total": 163.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 3139477,
@@ -13290,6 +13290,21 @@
           "injury": null
         },
         {
+          "player_id": 4373626,
+          "name": "Tyler Allgeier",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "ARI",
+          "proj": 9.4,
+          "actual": 0.0,
+          "season_ppg": 6.5,
+          "season_total": 12.9,
+          "games_played": 2,
+          "preseason_proj_total": 104.8,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4569587,
           "name": "Wan'Dale Robinson",
           "slot": "BE",
@@ -13301,21 +13316,6 @@
           "season_total": 40.4,
           "games_played": 4,
           "preseason_proj_total": 152.8,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4373626,
-          "name": "Tyler Allgeier",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "ARI",
-          "proj": 8.8,
-          "actual": 0.0,
-          "season_ppg": 6.5,
-          "season_total": 12.9,
-          "games_played": 2,
-          "preseason_proj_total": 104.8,
           "starter": false,
           "injury": null
         },
@@ -15245,7 +15245,7 @@
           "slot": "TE",
           "pos": "TE",
           "pro": "GB",
-          "proj": 10.4,
+          "proj": 10.5,
           "actual": 0.0,
           "season_ppg": 9.0,
           "season_total": 36.1,
@@ -15357,7 +15357,7 @@
           "games_played": 4,
           "preseason_proj_total": 128.1,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4432773,
@@ -17041,6 +17041,21 @@
           "injury": null
         },
         {
+          "player_id": 4373678,
+          "name": "Khalil Shakir",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 11.1,
+          "actual": 0.0,
+          "season_ppg": 7.7,
+          "season_total": 30.6,
+          "games_played": 4,
+          "preseason_proj_total": 196.4,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4431299,
           "name": "Rome Odunze",
           "slot": "BE",
@@ -17052,21 +17067,6 @@
           "season_total": 37.3,
           "games_played": 4,
           "preseason_proj_total": 217.1,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4373678,
-          "name": "Khalil Shakir",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 9.5,
-          "actual": 0.0,
-          "season_ppg": 7.7,
-          "season_total": 30.6,
-          "games_played": 4,
-          "preseason_proj_total": 196.4,
           "starter": false,
           "injury": null
         },
@@ -17091,7 +17091,7 @@
           "slot": "BE",
           "pos": "D/ST",
           "pro": "SF",
-          "proj": 5.0,
+          "proj": 4.9,
           "actual": 0.0,
           "season_ppg": 2.5,
           "season_total": 5.0,
