@@ -986,7 +986,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAC",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jalen Hurts",
@@ -1044,7 +1044,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 28.3,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Ladd McConkey",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "LAC",
+              "proj": 0.0,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": true,
         "playoff": false,
