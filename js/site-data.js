@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-12T17:21:37+00:00",
+  "generated_at": "2026-10-13T01:48:43+00:00",
   "current_week": 5,
   "standings": [
     {
@@ -436,7 +436,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "BUF",
           "proj": 8.8,
-          "actual": 0.0,
+          "actual": 1.7,
           "season_ppg": 11.5,
           "season_total": 46.0,
           "games_played": 4,
@@ -2446,7 +2446,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "LAR",
           "proj": 15.5,
-          "actual": 0.0,
+          "actual": 9.7,
           "season_ppg": 18.2,
           "season_total": 73.0,
           "games_played": 4,
@@ -2542,7 +2542,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 203.1,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 15818,
@@ -4262,7 +4262,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 237.9,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 3128429,
@@ -7681,7 +7681,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "LAR",
           "proj": 21.7,
-          "actual": 0.0,
+          "actual": 9.1,
           "season_ppg": 10.0,
           "season_total": 40.1,
           "games_played": 4,
@@ -7756,7 +7756,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "SEA",
           "proj": 3.9,
-          "actual": 10.0,
+          "actual": 11.0,
           "season_ppg": 10.0,
           "season_total": 40.0,
           "games_played": 4,
@@ -9326,7 +9326,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "LAR",
           "proj": 18.2,
-          "actual": 0.0,
+          "actual": 8.0,
           "season_ppg": 15.4,
           "season_total": 61.7,
           "games_played": 4,
@@ -9356,7 +9356,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "BUF",
           "proj": 15.7,
-          "actual": 0.0,
+          "actual": 13.2,
           "season_ppg": 16.6,
           "season_total": 66.5,
           "games_played": 4,
@@ -13116,7 +13116,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "BUF",
           "proj": 19.9,
-          "actual": 0.0,
+          "actual": 2.5,
           "season_ppg": 28.1,
           "season_total": 112.5,
           "games_played": 4,
@@ -15276,7 +15276,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "LAR",
           "proj": 4.4,
-          "actual": 0.0,
+          "actual": 9.0,
           "season_ppg": 6.0,
           "season_total": 24.0,
           "games_played": 4,
@@ -15402,7 +15402,7 @@ window.SITE_DATA = {
           "games_played": 2,
           "preseason_proj_total": 240.0,
           "starter": false,
-          "injury": "OUT"
+          "injury": null
         },
         {
           "player_id": 4880281,
@@ -16912,7 +16912,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "LAR",
           "proj": 17.8,
-          "actual": 0.0,
+          "actual": 5.1,
           "season_ppg": 22.4,
           "season_total": 89.7,
           "games_played": 4,
@@ -16933,7 +16933,7 @@ window.SITE_DATA = {
           "games_played": 4,
           "preseason_proj_total": 240.9,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4047650,
@@ -17062,7 +17062,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "BUF",
           "proj": 10.0,
-          "actual": 0.0,
+          "actual": 1.6,
           "season_ppg": 7.7,
           "season_total": 30.6,
           "games_played": 4,
@@ -17077,7 +17077,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "LAR",
           "proj": 8.4,
-          "actual": 0.0,
+          "actual": 5.5,
           "season_ppg": 5.5,
           "season_total": 22.2,
           "games_played": 4,
