@@ -1012,7 +1012,7 @@ window.MATCHUPS_DATA = {
               "name": "Harrison Mevis",
               "slot": "K",
               "pos": "K",
-              "pro": "LAR",
+              "pro": "FA",
               "proj": 0.0,
               "actual": 0.0,
               "injury": null
