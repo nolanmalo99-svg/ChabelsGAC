@@ -1224,7 +1224,7 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 30.6,
+          "bench_proj": 34.5,
           "injuries": [
             {
               "name": "DJ Moore",
@@ -1555,7 +1555,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 50.7,
+          "bench_proj": 61.6,
           "injuries": [
             {
               "name": "TreVeyon Henderson",
@@ -1659,7 +1659,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 35.2,
+          "bench_proj": 54.3,
           "injuries": []
         },
         "played": false,
@@ -1972,7 +1972,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 54.3,
+          "bench_proj": 65.0,
           "injuries": []
         },
         "played": false,
@@ -2094,7 +2094,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "4-1",
           "actual": 0.0,
-          "projected": 132.9,
+          "projected": 134.2,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -2169,11 +2169,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Broncos D/ST",
+              "name": "Patriots D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
-              "pro": "DEN",
-              "proj": 5.5,
+              "pro": "NE",
+              "proj": 6.8,
               "actual": 0.0,
               "injury": null
             }
@@ -2300,7 +2300,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Jordan Schommer (1-4) at Austin Carter (4-1). Projected: Jordan Schommer 115.5 - Austin Carter 132.9. Austin Carter favored by 17.4.",
+        "blurb": "Jordan Schommer (1-4) at Austin Carter (4-1). Projected: Jordan Schommer 115.5 - Austin Carter 134.2. Austin Carter favored by 18.7.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -2364,9 +2364,9 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 5.5,
+            "home_proj": 6.8,
             "away_proj": 7.5,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "K",
