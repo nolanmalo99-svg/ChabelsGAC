@@ -821,7 +821,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "3-2",
           "actual": 0.0,
-          "projected": 119.4,
+          "projected": 123.4,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -831,6 +831,15 @@ window.MATCHUPS_DATA = {
               "proj": 18.8,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Lamar Jackson",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "BAL",
+              "proj": 19.3,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Carnell Tate",
@@ -894,19 +903,19 @@ window.MATCHUPS_DATA = {
               "proj": 16.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Jacoby Brissett",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "ARI",
-              "proj": 15.3,
-              "actual": 0.0,
-              "injury": null
             }
           ],
-          "bench_proj": 37.6,
+          "bench_proj": 33.6,
           "injuries": [
+            {
+              "name": "Lamar Jackson",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "BAL",
+              "proj": 19.3,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Denzel Boston",
               "slot": "WR",
@@ -1026,7 +1035,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (2-3) at Peter Lundquist (3-2). Projected: Isaac Douglas 110.2 - Peter Lundquist 119.4. Peter Lundquist favored by 9.2.",
+        "blurb": "Isaac Douglas (2-3) at Peter Lundquist (3-2). Projected: Isaac Douglas 110.2 - Peter Lundquist 123.4. Peter Lundquist favored by 13.2.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1057,6 +1066,16 @@ window.MATCHUPS_DATA = {
             "owner": "Isaac Douglas"
           },
           {
+            "name": "Lamar Jackson",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "BAL",
+            "proj": 19.3,
+            "actual": 0.0,
+            "injury": "QUESTIONABLE",
+            "owner": "Peter Lundquist"
+          },
+          {
             "name": "James Cook III",
             "slot": "RB",
             "pos": "RB",
@@ -1075,16 +1094,6 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Peter Lundquist"
-          },
-          {
-            "name": "Malik Nabers",
-            "slot": "FLEX",
-            "pos": "WR",
-            "pro": "NYG",
-            "proj": 17.4,
-            "actual": 0.0,
-            "injury": null,
-            "owner": "Isaac Douglas"
           }
         ],
         "positional_edges": [
@@ -1102,9 +1111,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "QB",
-            "home_proj": 15.3,
+            "home_proj": 19.3,
             "away_proj": 19.6,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "RB",

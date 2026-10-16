@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-16T08:44:47+00:00",
+  "generated_at": "2026-10-16T16:05:39+00:00",
   "current_week": 6,
   "standings": [
     {
@@ -4352,7 +4352,7 @@
           "games_played": 5,
           "preseason_proj_total": 226.0,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 4710714,
@@ -15165,19 +15165,19 @@
       "winning_seasons": 3,
       "roster": [
         {
-          "player_id": 2578570,
-          "name": "Jacoby Brissett",
+          "player_id": 3916387,
+          "name": "Lamar Jackson",
           "slot": "QB",
           "pos": "QB",
-          "pro": "ARI",
-          "proj": 15.3,
+          "pro": "BAL",
+          "proj": 19.3,
           "actual": 0.0,
-          "season_ppg": 25.3,
-          "season_total": 25.3,
-          "games_played": 1,
-          "preseason_proj_total": 2.2,
+          "season_ppg": 15.8,
+          "season_total": 79.1,
+          "games_played": 5,
+          "preseason_proj_total": 363.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4242335,
@@ -15300,19 +15300,19 @@
           "injury": null
         },
         {
-          "player_id": 3916387,
-          "name": "Lamar Jackson",
+          "player_id": 2578570,
+          "name": "Jacoby Brissett",
           "slot": "BE",
           "pos": "QB",
-          "pro": "BAL",
-          "proj": 19.3,
+          "pro": "ARI",
+          "proj": 15.3,
           "actual": 0.0,
-          "season_ppg": 15.8,
-          "season_total": 79.1,
-          "games_played": 5,
-          "preseason_proj_total": 363.8,
+          "season_ppg": 25.3,
+          "season_total": 25.3,
+          "games_played": 1,
+          "preseason_proj_total": 2.2,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4723086,
@@ -15402,7 +15402,7 @@
           "games_played": 2,
           "preseason_proj_total": 84.4,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 4880281,
