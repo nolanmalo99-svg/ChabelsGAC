@@ -1250,7 +1250,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "LAR",
-              "proj": 16.0,
+              "proj": 16.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1337,7 +1337,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-2",
           "actual": 6.0,
-          "projected": 133.6,
+          "projected": 133.7,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1431,7 +1431,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "4-1",
           "actual": 0.0,
-          "projected": 134.4,
+          "projected": 133.1,
           "starters": [
             {
               "name": "Kenneth Walker III",
@@ -1456,7 +1456,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "SF",
-              "proj": 16.2,
+              "proj": 14.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1522,7 +1522,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "SF",
-              "proj": 16.2,
+              "proj": 14.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1941,7 +1941,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "BAL",
-              "proj": 7.4,
+              "proj": 7.5,
               "actual": 0.0,
               "injury": null
             }
@@ -2047,7 +2047,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 6.6,
-            "away_proj": 7.4,
+            "away_proj": 7.5,
             "edge": "even"
           },
           {
