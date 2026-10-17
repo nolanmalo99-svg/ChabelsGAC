@@ -821,7 +821,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "3-2",
           "actual": 0.0,
-          "projected": 119.7,
+          "projected": 119.8,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -891,7 +891,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "BAL",
-              "proj": 14.0,
+              "proj": 14.1,
               "actual": 0.0,
               "injury": null
             },
@@ -1007,7 +1007,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (2-3) at Peter Lundquist (3-2). Projected: Isaac Douglas 108.2 - Peter Lundquist 119.7. Peter Lundquist favored by 11.5.",
+        "blurb": "Isaac Douglas (2-3) at Peter Lundquist (3-2). Projected: Isaac Douglas 108.2 - Peter Lundquist 119.8. Peter Lundquist favored by 11.6.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1101,7 +1101,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 38.4,
+            "home_proj": 38.5,
             "away_proj": 40.3,
             "edge": "away"
           }
@@ -1225,7 +1225,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "3-2",
           "actual": 7.0,
-          "projected": 63.6,
+          "projected": 63.7,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -1286,7 +1286,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "BAL",
-              "proj": 8.7,
+              "proj": 8.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1337,7 +1337,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-2",
           "actual": 6.0,
-          "projected": 133.7,
+          "projected": 133.8,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1421,7 +1421,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 60.4,
+          "bench_proj": 60.3,
           "injuries": []
         },
         "away": {
@@ -1606,7 +1606,7 @@ window.MATCHUPS_DATA = {
               "pro": "PIT",
               "proj": 11.6,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Trevor Lawrence",
@@ -1637,17 +1637,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 60.5,
-          "injuries": [
-            {
-              "name": "DK Metcalf",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PIT",
-              "proj": 11.6,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 9,
@@ -1740,7 +1730,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 65.3,
+          "bench_proj": 58.4,
           "injuries": []
         },
         "played": true,

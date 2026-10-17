@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-17T14:57:53+00:00",
+  "generated_at": "2026-10-17T18:09:36+00:00",
   "current_week": 6,
   "standings": [
     {
@@ -2475,7 +2475,7 @@ window.SITE_DATA = {
           "slot": "TE",
           "pos": "TE",
           "pro": "BAL",
-          "proj": 8.7,
+          "proj": 8.8,
           "actual": 0.0,
           "season_ppg": 8.7,
           "season_total": 43.7,
@@ -7740,7 +7740,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "WSH",
-          "proj": 12.4,
+          "proj": 12.3,
           "actual": 0.0,
           "season_ppg": 8.5,
           "season_total": 42.3,
@@ -11585,21 +11585,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4575131,
-          "name": "Jacory Croskey-Merritt",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "WSH",
-          "proj": 6.9,
-          "actual": 0.0,
-          "season_ppg": 9.0,
-          "season_total": 44.9,
-          "games_played": 5,
-          "preseason_proj_total": 163.8,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4362628,
           "name": "Ja'Marr Chase",
           "slot": "BE",
@@ -11613,6 +11598,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 340.0,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4575131,
+          "name": "Jacory Croskey-Merritt",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "WSH",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 9.0,
+          "season_total": 44.9,
+          "games_played": 5,
+          "preseason_proj_total": 163.8,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4678008,
@@ -15215,7 +15215,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "BAL",
-          "proj": 14.0,
+          "proj": 14.1,
           "actual": 0.0,
           "season_ppg": 16.4,
           "season_total": 81.8,
@@ -16948,7 +16948,7 @@ window.SITE_DATA = {
           "games_played": 5,
           "preseason_proj_total": 240.5,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4432665,
@@ -17038,7 +17038,7 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 133.9,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3055899,
