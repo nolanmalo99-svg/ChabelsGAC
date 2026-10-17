@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-17T18:09:36+00:00",
+  "generated_at": "2026-10-17T21:57:58+00:00",
   "current_week": 6,
   "standings": [
     {
@@ -2632,7 +2632,7 @@ window.SITE_DATA = {
           "games_played": 5,
           "preseason_proj_total": 275.6,
           "starter": false,
-          "injury": "INJURY_RESERVE"
+          "injury": "QUESTIONABLE"
         }
       ],
       "draft": {
@@ -4160,21 +4160,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3915416,
-          "name": "DJ Moore",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 13.4,
-          "actual": 0.0,
-          "season_ppg": 7.3,
-          "season_total": 36.3,
-          "games_played": 5,
-          "preseason_proj_total": 237.9,
-          "starter": true,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4567750,
           "name": "Emeka Egbuka",
           "slot": "WR",
@@ -4186,6 +4171,21 @@ window.SITE_DATA = {
           "season_total": 53.3,
           "games_played": 5,
           "preseason_proj_total": 176.0,
+          "starter": true,
+          "injury": null
+        },
+        {
+          "player_id": 4635008,
+          "name": "Keon Coleman",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 7.1,
+          "actual": 0.0,
+          "season_ppg": 7.7,
+          "season_total": 7.7,
+          "games_played": 1,
+          "preseason_proj_total": 201.0,
           "starter": true,
           "injury": null
         },
@@ -4250,6 +4250,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 3915416,
+          "name": "DJ Moore",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "BUF",
+          "proj": 13.4,
+          "actual": 0.0,
+          "season_ppg": 7.3,
+          "season_total": 36.3,
+          "games_played": 5,
+          "preseason_proj_total": 237.9,
+          "starter": false,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4427095,
           "name": "DeMario Douglas",
           "slot": "BE",
@@ -4261,21 +4276,6 @@ window.SITE_DATA = {
           "season_total": 22.5,
           "games_played": 1,
           "preseason_proj_total": 141.7,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4635008,
-          "name": "Keon Coleman",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 7.1,
-          "actual": 0.0,
-          "season_ppg": 7.7,
-          "season_total": 7.7,
-          "games_played": 1,
-          "preseason_proj_total": 201.0,
           "starter": false,
           "injury": null
         },
@@ -5862,7 +5862,7 @@ window.SITE_DATA = {
           "games_played": 5,
           "preseason_proj_total": 365.5,
           "starter": true,
-          "injury": "OUT"
+          "injury": "INJURY_RESERVE"
         },
         {
           "player_id": 4430807,
@@ -7747,7 +7747,7 @@ window.SITE_DATA = {
           "games_played": 5,
           "preseason_proj_total": 247.7,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4683062,

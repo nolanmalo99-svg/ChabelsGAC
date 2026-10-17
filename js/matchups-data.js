@@ -1121,7 +1121,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "2-3",
           "actual": 3.9,
-          "projected": 117.4,
+          "projected": 111.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1149,15 +1149,6 @@ window.MATCHUPS_DATA = {
               "proj": 11.0,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "DJ Moore",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BUF",
-              "proj": 13.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             },
             {
               "name": "Courtland Sutton",
@@ -1196,6 +1187,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Keon Coleman",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "BUF",
+              "proj": 7.1,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Dominic Zvada",
               "slot": "K",
               "pos": "K",
@@ -1205,18 +1205,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 14.5,
-          "injuries": [
-            {
-              "name": "DJ Moore",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "BUF",
-              "proj": 13.4,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 20.8,
+          "injuries": []
         },
         "away": {
           "teamId": 3,
@@ -1897,7 +1887,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Bhayshul Tuten",
@@ -1963,7 +1953,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             }
           ]
         },
