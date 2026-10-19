@@ -978,7 +978,7 @@ window.MATCHUPS_DATA = {
               "pro": "NE",
               "proj": 9.3,
               "actual": 11.2,
-              "injury": "QUESTIONABLE"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Harrison Mevis",
@@ -1008,7 +1008,7 @@ window.MATCHUPS_DATA = {
               "pro": "NE",
               "proj": 9.3,
               "actual": 11.2,
-              "injury": "QUESTIONABLE"
+              "injury": "INJURY_RESERVE"
             }
           ]
         },
@@ -1148,7 +1148,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 16.0,
               "actual": 6.9,
-              "injury": null
+              "injury": "OUT"
             },
             {
               "name": "Joe Burrow",
@@ -1214,6 +1214,15 @@ window.MATCHUPS_DATA = {
               "pro": "CLE",
               "proj": 0.0,
               "actual": 0.0,
+              "injury": "OUT"
+            },
+            {
+              "name": "Davante Adams",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "LAR",
+              "proj": 16.0,
+              "actual": 6.9,
               "injury": "OUT"
             }
           ]
@@ -1354,7 +1363,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 14.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Dalton Kincaid",
@@ -1363,7 +1372,7 @@ window.MATCHUPS_DATA = {
               "pro": "BUF",
               "proj": 8.6,
               "actual": 10.8,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Brandon Aubrey",
@@ -1412,26 +1421,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 29.9,
-          "injuries": [
-            {
-              "name": "Mike Evans",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "SF",
-              "proj": 14.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Dalton Kincaid",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "BUF",
-              "proj": 8.6,
-              "actual": 10.8,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "played": true,
         "playoff": false,
