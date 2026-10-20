@@ -1363,7 +1363,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 14.9,
               "actual": 12.4,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Dalton Kincaid",
@@ -1429,7 +1429,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 14.9,
               "actual": 12.4,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             }
           ]
         },
