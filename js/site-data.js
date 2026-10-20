@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-20T09:39:56+00:00",
+  "generated_at": "2026-10-20T16:21:36+00:00",
   "current_week": 7,
   "standings": [
     {
@@ -390,7 +390,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "DAL",
-          "proj": 16.6,
+          "proj": 16.5,
           "actual": 0.0,
           "season_ppg": 18.2,
           "season_total": 109.0,
@@ -400,19 +400,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 16737,
-          "name": "Mike Evans",
+          "player_id": 4374302,
+          "name": "Amon-Ra St. Brown",
           "slot": "WR",
           "pos": "WR",
-          "pro": "SF",
-          "proj": 16.1,
+          "pro": "DET",
+          "proj": 19.5,
           "actual": 0.0,
-          "season_ppg": 14.8,
-          "season_total": 89.0,
-          "games_played": 6,
-          "preseason_proj_total": 235.1,
+          "season_ppg": 20.8,
+          "season_total": 104.2,
+          "games_played": 5,
+          "preseason_proj_total": 290.6,
           "starter": true,
-          "injury": "DOUBTFUL"
+          "injury": null
         },
         {
           "player_id": 4361370,
@@ -445,32 +445,32 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4685247,
-          "name": "Braelon Allen",
+          "player_id": 4372016,
+          "name": "Jaylen Waddle",
           "slot": "FLEX",
-          "pos": "RB",
-          "pro": "NYJ",
-          "proj": 7.8,
+          "pos": "WR",
+          "pro": "DEN",
+          "proj": 11.1,
           "actual": 0.0,
-          "season_ppg": 13.2,
-          "season_total": 39.7,
-          "games_played": 3,
-          "preseason_proj_total": 94.2,
+          "season_ppg": 9.2,
+          "season_total": 55.1,
+          "games_played": 6,
+          "preseason_proj_total": 226.5,
           "starter": true,
           "injury": null
         },
         {
-          "player_id": -16012,
-          "name": "Chiefs D/ST",
+          "player_id": -16016,
+          "name": "Vikings D/ST",
           "slot": "D/ST",
           "pos": "D/ST",
-          "pro": "KC",
-          "proj": 6.8,
+          "pro": "MIN",
+          "proj": 8.1,
           "actual": 0.0,
           "season_ppg": 14.0,
-          "season_total": 14.0,
-          "games_played": 1,
-          "preseason_proj_total": 97.0,
+          "season_total": 42.0,
+          "games_played": 3,
+          "preseason_proj_total": 120.7,
           "starter": true,
           "injury": null
         },
@@ -487,21 +487,6 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 142.2,
           "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4374302,
-          "name": "Amon-Ra St. Brown",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "DET",
-          "proj": 19.5,
-          "actual": 0.0,
-          "season_ppg": 20.8,
-          "season_total": 104.2,
-          "games_played": 5,
-          "preseason_proj_total": 290.6,
-          "starter": false,
           "injury": null
         },
         {
@@ -532,37 +517,52 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 213.4,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4372016,
-          "name": "Jaylen Waddle",
+          "player_id": 4685247,
+          "name": "Braelon Allen",
           "slot": "BE",
-          "pos": "WR",
-          "pro": "DEN",
-          "proj": 11.1,
+          "pos": "RB",
+          "pro": "NYJ",
+          "proj": 7.8,
           "actual": 0.0,
-          "season_ppg": 9.2,
-          "season_total": 55.1,
-          "games_played": 6,
-          "preseason_proj_total": 226.5,
+          "season_ppg": 13.2,
+          "season_total": 39.7,
+          "games_played": 3,
+          "preseason_proj_total": 94.2,
           "starter": false,
           "injury": null
         },
         {
-          "player_id": -16016,
-          "name": "Vikings D/ST",
+          "player_id": -16012,
+          "name": "Chiefs D/ST",
           "slot": "BE",
           "pos": "D/ST",
-          "pro": "MIN",
-          "proj": 8.1,
+          "pro": "KC",
+          "proj": 6.8,
           "actual": 0.0,
           "season_ppg": 14.0,
-          "season_total": 42.0,
-          "games_played": 3,
-          "preseason_proj_total": 120.7,
+          "season_total": 14.0,
+          "games_played": 1,
+          "preseason_proj_total": 97.0,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 16737,
+          "name": "Mike Evans",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "SF",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 14.8,
+          "season_total": 89.0,
+          "games_played": 6,
+          "preseason_proj_total": 235.1,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 2976212,
@@ -2437,7 +2437,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 49.6,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4701936,
@@ -2542,7 +2542,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 311.0,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3929630,
@@ -2557,7 +2557,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 326.0,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3042519,
@@ -2580,7 +2580,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "SEA",
-          "proj": 9.5,
+          "proj": 9.4,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -4135,7 +4135,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "SF",
-          "proj": 20.4,
+          "proj": 21.9,
           "actual": 0.0,
           "season_ppg": 20.3,
           "season_total": 122.0,
@@ -4180,7 +4180,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "TB",
-          "proj": 13.7,
+          "proj": 13.6,
           "actual": 0.0,
           "season_ppg": 11.8,
           "season_total": 71.1,
@@ -4262,7 +4262,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 226.0,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429205,
@@ -4337,7 +4337,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 237.9,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4635008,
@@ -5930,7 +5930,7 @@ window.SITE_DATA = {
           "slot": "TE",
           "pos": "TE",
           "pro": "SF",
-          "proj": 14.8,
+          "proj": 16.7,
           "actual": 0.0,
           "season_ppg": 15.0,
           "season_total": 89.7,
@@ -5975,7 +5975,7 @@ window.SITE_DATA = {
           "slot": "K",
           "pos": "K",
           "pro": "SF",
-          "proj": 8.4,
+          "proj": 8.2,
           "actual": 0.0,
           "season_ppg": 6.5,
           "season_total": 39.0,
@@ -5997,7 +5997,7 @@ window.SITE_DATA = {
           "games_played": 5,
           "preseason_proj_total": 163.1,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4241985,
@@ -6027,7 +6027,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 219.8,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 15847,
@@ -7585,17 +7585,17 @@ window.SITE_DATA = {
       "winning_seasons": 4,
       "roster": [
         {
-          "player_id": 4426348,
-          "name": "Jayden Daniels",
+          "player_id": 4685720,
+          "name": "Bryce Young",
           "slot": "QB",
           "pos": "QB",
-          "pro": "WSH",
-          "proj": 0.0,
+          "pro": "CAR",
+          "proj": 17.7,
           "actual": 0.0,
-          "season_ppg": 14.3,
-          "season_total": 85.7,
-          "games_played": 6,
-          "preseason_proj_total": 371.6,
+          "season_ppg": 18.3,
+          "season_total": 54.9,
+          "games_played": 3,
+          "preseason_proj_total": 267.9,
           "starter": true,
           "injury": null
         },
@@ -7630,6 +7630,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4426515,
+          "name": "Puka Nacua",
+          "slot": "WR",
+          "pos": "WR",
+          "pro": "LAR",
+          "proj": 24.8,
+          "actual": 0.0,
+          "season_ppg": 15.3,
+          "season_total": 91.8,
+          "games_played": 6,
+          "preseason_proj_total": 298.6,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4258173,
           "name": "Nico Collins",
           "slot": "WR",
@@ -7641,21 +7656,6 @@ window.SITE_DATA = {
           "season_total": 73.5,
           "games_played": 6,
           "preseason_proj_total": 289.1,
-          "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4360761,
-          "name": "Michael Wilson",
-          "slot": "WR",
-          "pos": "WR",
-          "pro": "ARI",
-          "proj": 12.4,
-          "actual": 0.0,
-          "season_ppg": 11.9,
-          "season_total": 71.3,
-          "games_played": 6,
-          "preseason_proj_total": 115.8,
           "starter": true,
           "injury": null
         },
@@ -7675,17 +7675,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4426515,
-          "name": "Puka Nacua",
+          "player_id": 4360761,
+          "name": "Michael Wilson",
           "slot": "FLEX",
           "pos": "WR",
-          "pro": "LAR",
-          "proj": 24.8,
+          "pro": "ARI",
+          "proj": 12.4,
           "actual": 0.0,
-          "season_ppg": 15.3,
-          "season_total": 91.8,
+          "season_ppg": 11.9,
+          "season_total": 71.3,
           "games_played": 6,
-          "preseason_proj_total": 298.6,
+          "preseason_proj_total": 115.8,
           "starter": true,
           "injury": null
         },
@@ -7717,21 +7717,6 @@ window.SITE_DATA = {
           "games_played": 1,
           "preseason_proj_total": 140.1,
           "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4685720,
-          "name": "Bryce Young",
-          "slot": "BE",
-          "pos": "QB",
-          "pro": "CAR",
-          "proj": 17.6,
-          "actual": 0.0,
-          "season_ppg": 18.3,
-          "season_total": 54.9,
-          "games_played": 3,
-          "preseason_proj_total": 267.9,
-          "starter": false,
           "injury": null
         },
         {
@@ -7822,7 +7807,22 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 247.7,
           "starter": false,
-          "injury": "OUT"
+          "injury": "DOUBTFUL"
+        },
+        {
+          "player_id": 4426348,
+          "name": "Jayden Daniels",
+          "slot": "BE",
+          "pos": "QB",
+          "pro": "WSH",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 14.3,
+          "season_total": 85.7,
+          "games_played": 6,
+          "preseason_proj_total": 371.6,
+          "starter": false,
+          "injury": null
         },
         {
           "player_id": 4360569,
@@ -9430,7 +9430,7 @@ window.SITE_DATA = {
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "NYG",
-          "proj": 3.2,
+          "proj": 3.3,
           "actual": 0.0,
           "season_ppg": 1.0,
           "season_total": 1.0,
@@ -9512,7 +9512,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 51.6,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4428718,
@@ -11425,7 +11425,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "ATL",
-          "proj": 17.2,
+          "proj": 17.1,
           "actual": 0.0,
           "season_ppg": 14.7,
           "season_total": 88.4,
@@ -11560,7 +11560,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "NYG",
-          "proj": 4.6,
+          "proj": 6.5,
           "actual": 0.0,
           "season_ppg": 8.5,
           "season_total": 51.3,
@@ -13362,7 +13362,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 166.1,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         }
       ],
       "draft": {
@@ -15177,7 +15177,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 363.8,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4242335,
@@ -15372,7 +15372,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 84.4,
           "starter": false,
-          "injury": "OUT"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 5083315,
@@ -16876,17 +16876,17 @@ window.SITE_DATA = {
       "winning_seasons": 1,
       "roster": [
         {
-          "player_id": 4360310,
-          "name": "Trevor Lawrence",
+          "player_id": 14880,
+          "name": "Kirk Cousins",
           "slot": "QB",
           "pos": "QB",
-          "pro": "JAX",
-          "proj": 0.0,
+          "pro": "LV",
+          "proj": 16.4,
           "actual": 0.0,
-          "season_ppg": 19.0,
-          "season_total": 114.2,
-          "games_played": 6,
-          "preseason_proj_total": 279.3,
+          "season_ppg": 18.5,
+          "season_total": 18.5,
+          "games_played": 1,
+          "preseason_proj_total": 2.4,
           "starter": true,
           "injury": null
         },
@@ -16966,17 +16966,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4431299,
-          "name": "Rome Odunze",
+          "player_id": 4426388,
+          "name": "Jameson Williams",
           "slot": "FLEX",
           "pos": "WR",
-          "pro": "CHI",
-          "proj": 10.2,
+          "pro": "DET",
+          "proj": 10.8,
           "actual": 0.0,
-          "season_ppg": 8.2,
-          "season_total": 49.2,
-          "games_played": 6,
-          "preseason_proj_total": 217.1,
+          "season_ppg": 11.5,
+          "season_total": 57.6,
+          "games_played": 5,
+          "preseason_proj_total": 218.6,
           "starter": true,
           "injury": null
         },
@@ -16986,7 +16986,7 @@ window.SITE_DATA = {
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "SF",
-          "proj": 4.3,
+          "proj": 4.4,
           "actual": 0.0,
           "season_ppg": 7.5,
           "season_total": 30.0,
@@ -16996,54 +16996,9 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4362081,
-          "name": "Cameron Dicker",
-          "slot": "K",
-          "pos": "K",
-          "pro": "LAC",
-          "proj": 0.0,
-          "actual": 0.0,
-          "season_ppg": 3.8,
-          "season_total": 15.0,
-          "games_played": 4,
-          "preseason_proj_total": 143.9,
-          "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 14880,
-          "name": "Kirk Cousins",
-          "slot": "BE",
-          "pos": "QB",
-          "pro": "LV",
-          "proj": 16.4,
-          "actual": 0.0,
-          "season_ppg": 18.5,
-          "season_total": 18.5,
-          "games_played": 1,
-          "preseason_proj_total": 2.4,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4426388,
-          "name": "Jameson Williams",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "DET",
-          "proj": 10.8,
-          "actual": 0.0,
-          "season_ppg": 11.5,
-          "season_total": 57.6,
-          "games_played": 5,
-          "preseason_proj_total": 218.6,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 3055899,
           "name": "Harrison Butker",
-          "slot": "BE",
+          "slot": "K",
           "pos": "K",
           "pro": "KC",
           "proj": 10.3,
@@ -17052,6 +17007,21 @@ window.SITE_DATA = {
           "season_total": 46.0,
           "games_played": 5,
           "preseason_proj_total": 138.6,
+          "starter": true,
+          "injury": null
+        },
+        {
+          "player_id": 4431299,
+          "name": "Rome Odunze",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "CHI",
+          "proj": 10.2,
+          "actual": 0.0,
+          "season_ppg": 8.2,
+          "season_total": 49.2,
+          "games_played": 6,
+          "preseason_proj_total": 217.1,
           "starter": false,
           "injury": null
         },
@@ -17086,6 +17056,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4360310,
+          "name": "Trevor Lawrence",
+          "slot": "BE",
+          "pos": "QB",
+          "pro": "JAX",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 19.0,
+          "season_total": 114.2,
+          "games_played": 6,
+          "preseason_proj_total": 279.3,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4373678,
           "name": "Khalil Shakir",
           "slot": "BE",
@@ -17097,6 +17082,21 @@ window.SITE_DATA = {
           "season_total": 55.0,
           "games_played": 6,
           "preseason_proj_total": 196.4,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4362081,
+          "name": "Cameron Dicker",
+          "slot": "BE",
+          "pos": "K",
+          "pro": "LAC",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 3.8,
+          "season_total": 15.0,
+          "games_played": 4,
+          "preseason_proj_total": 143.9,
           "starter": false,
           "injury": null
         },
