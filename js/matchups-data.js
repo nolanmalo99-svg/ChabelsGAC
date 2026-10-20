@@ -1010,7 +1010,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Joe Burrow",
@@ -1085,7 +1085,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             }
           ]
         },
