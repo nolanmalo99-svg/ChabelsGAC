@@ -1312,7 +1312,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "5-1",
           "actual": 0.0,
-          "projected": 117.8,
+          "projected": 121.0,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1360,15 +1360,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Brandon Aubrey",
-              "slot": "K",
-              "pos": "K",
-              "pro": "DAL",
-              "proj": 8.2,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Vikings D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -1394,9 +1385,18 @@ window.MATCHUPS_DATA = {
               "proj": 19.6,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Chris Boswell",
+              "slot": "K",
+              "pos": "K",
+              "pro": "PIT",
+              "proj": 11.4,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 46.4,
+          "bench_proj": 47.8,
           "injuries": []
         },
         "away": {
@@ -1490,7 +1490,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 56.6,
+          "bench_proj": 66.8,
           "injuries": []
         },
         "played": false,
@@ -1498,7 +1498,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (3-3) at Nolan Malo (5-1). Projected: Adam Schumacher 128.4 - Nolan Malo 117.8. Adam Schumacher favored by 10.6.",
+        "blurb": "Adam Schumacher (3-3) at Nolan Malo (5-1). Projected: Adam Schumacher 128.4 - Nolan Malo 121.0. Adam Schumacher favored by 7.4.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -1568,9 +1568,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "K",
-            "home_proj": 8.2,
+            "home_proj": 11.4,
             "away_proj": 11.5,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "QB",
@@ -1698,7 +1698,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 38.6,
+          "bench_proj": 44.2,
           "injuries": []
         },
         "away": {
@@ -1792,7 +1792,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 34.9,
+          "bench_proj": 36.9,
           "injuries": []
         },
         "played": false,
@@ -2018,7 +2018,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "2-4",
           "actual": 0.0,
-          "projected": 131.9,
+          "projected": 134.7,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -2093,11 +2093,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Kirk Cousins",
+              "name": "C.J. Stroud",
               "slot": "QB",
               "pos": "QB",
-              "pro": "LV",
-              "proj": 16.4,
+              "pro": "HOU",
+              "proj": 19.2,
               "actual": 0.0,
               "injury": null
             }
@@ -2110,7 +2110,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (2-4) at Jordan Schommer (2-4). Projected: Evan Wieker 131.9 - Jordan Schommer 89.0. Evan Wieker favored by 42.9.",
+        "blurb": "Evan Wieker (2-4) at Jordan Schommer (2-4). Projected: Evan Wieker 134.7 - Jordan Schommer 89.0. Evan Wieker favored by 45.7.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2161,11 +2161,11 @@ window.MATCHUPS_DATA = {
             "owner": "Jordan Schommer"
           },
           {
-            "name": "Brock Bowers",
-            "slot": "TE",
-            "pos": "TE",
-            "pro": "LV",
-            "proj": 18.5,
+            "name": "C.J. Stroud",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "HOU",
+            "proj": 19.2,
             "actual": 0.0,
             "injury": null,
             "owner": "Evan Wieker"
@@ -2187,8 +2187,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "QB",
             "home_proj": 16.8,
-            "away_proj": 16.4,
-            "edge": "even"
+            "away_proj": 19.2,
+            "edge": "away"
           },
           {
             "pos": "RB",
@@ -2328,7 +2328,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "4-2",
           "actual": 0.0,
-          "projected": 101.9,
+          "projected": 122.4,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -2394,16 +2394,25 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Patriots D/ST",
+              "name": "Broncos D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
-              "pro": "NE",
-              "proj": 4.0,
+              "pro": "DEN",
+              "proj": 6.4,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Kyler Murray",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "MIN",
+              "proj": 18.0,
               "actual": 0.0,
               "injury": null
             }
           ],
-          "bench_proj": 61.8,
+          "bench_proj": 54.4,
           "injuries": [
             {
               "name": "Josh Jacobs",
@@ -2430,7 +2439,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (4-2) at Isaac Douglas (3-3). Projected: Austin Carter 101.9 - Isaac Douglas 77.5. Austin Carter favored by 24.4.",
+        "blurb": "Austin Carter (4-2) at Isaac Douglas (3-3). Projected: Austin Carter 122.4 - Isaac Douglas 77.5. Austin Carter favored by 44.9.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -2471,6 +2480,16 @@ window.MATCHUPS_DATA = {
             "owner": "Austin Carter"
           },
           {
+            "name": "Kyler Murray",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "MIN",
+            "proj": 18.0,
+            "actual": 0.0,
+            "injury": null,
+            "owner": "Austin Carter"
+          },
+          {
             "name": "Malik Nabers",
             "slot": "FLEX",
             "pos": "WR",
@@ -2479,24 +2498,14 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Isaac Douglas"
-          },
-          {
-            "name": "Christian Watson",
-            "slot": "FLEX",
-            "pos": "WR",
-            "pro": "GB",
-            "proj": 16.7,
-            "actual": 0.0,
-            "injury": null,
-            "owner": "Austin Carter"
           }
         ],
         "positional_edges": [
           {
             "pos": "D/ST",
             "home_proj": 3.3,
-            "away_proj": 4.0,
-            "edge": "even"
+            "away_proj": 6.4,
+            "edge": "away"
           },
           {
             "pos": "K",
@@ -2507,8 +2516,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "QB",
             "home_proj": 18.6,
-            "away_proj": 0.0,
-            "edge": "home"
+            "away_proj": 18.0,
+            "edge": "even"
           },
           {
             "pos": "RB",
