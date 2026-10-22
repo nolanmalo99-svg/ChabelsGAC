@@ -1105,7 +1105,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "3-3",
           "actual": 0.0,
-          "projected": 107.8,
+          "projected": 127.2,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1133,15 +1133,6 @@ window.MATCHUPS_DATA = {
               "proj": 16.6,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Lamar Jackson",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "BAL",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jaylen Warren",
@@ -1187,27 +1178,26 @@ window.MATCHUPS_DATA = {
               "proj": 15.6,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Aaron Rodgers",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "PIT",
+              "proj": 19.5,
+              "actual": 0.0,
+              "injury": null
             }
           ],
           "bench_proj": 54.6,
-          "injuries": [
-            {
-              "name": "Lamar Jackson",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "BAL",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "played": false,
         "playoff": false,
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (3-3) at Brady Kienitz (3-3). Projected: Peter Lundquist 107.8 - Brady Kienitz 121.5. Brady Kienitz favored by 13.7.",
+        "blurb": "Peter Lundquist (3-3) at Brady Kienitz (3-3). Projected: Peter Lundquist 127.2 - Brady Kienitz 121.5. Peter Lundquist favored by 5.7.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1238,6 +1228,16 @@ window.MATCHUPS_DATA = {
             "owner": "Brady Kienitz"
           },
           {
+            "name": "Aaron Rodgers",
+            "slot": "QB",
+            "pos": "QB",
+            "pro": "PIT",
+            "proj": 19.5,
+            "actual": 0.0,
+            "injury": null,
+            "owner": "Peter Lundquist"
+          },
+          {
             "name": "Joe Burrow",
             "slot": "QB",
             "pos": "QB",
@@ -1256,16 +1256,6 @@ window.MATCHUPS_DATA = {
             "actual": 0.0,
             "injury": null,
             "owner": "Peter Lundquist"
-          },
-          {
-            "name": "Matthew Golden",
-            "slot": "WR",
-            "pos": "WR",
-            "pro": "GB",
-            "proj": 16.9,
-            "actual": 0.0,
-            "injury": "QUESTIONABLE",
-            "owner": "Brady Kienitz"
           }
         ],
         "positional_edges": [
@@ -1284,8 +1274,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "QB",
             "home_proj": 19.3,
-            "away_proj": 0.0,
-            "edge": "home"
+            "away_proj": 19.5,
+            "edge": "even"
           },
           {
             "pos": "RB",
@@ -1518,7 +1508,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 65.5,
+          "bench_proj": 62.1,
           "injuries": [
             {
               "name": "Emeka Egbuka",
@@ -1652,7 +1642,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "2-4",
           "actual": 0.0,
-          "projected": 117.0,
+          "projected": 125.6,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1718,20 +1708,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Cam Little",
-              "slot": "K",
-              "pos": "K",
-              "pro": "JAX",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Woody Marks",
               "slot": "RB",
               "pos": "RB",
               "pro": "HOU",
               "proj": 13.7,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Chase McLaughlin",
+              "slot": "K",
+              "pos": "K",
+              "pro": "TB",
+              "proj": 8.6,
               "actual": 0.0,
               "injury": null
             }
@@ -1848,7 +1838,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (3-3) at logan rezac (2-4). Projected: Adam Biewen 130.3 - logan rezac 117.0. Adam Biewen favored by 13.3.",
+        "blurb": "Adam Biewen (3-3) at logan rezac (2-4). Projected: Adam Biewen 130.3 - logan rezac 125.6. Adam Biewen favored by 4.7.",
         "home_form": {
           "record_last_n": "0-3",
           "games_considered": 3,
@@ -1918,7 +1908,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "K",
-            "home_proj": 0.0,
+            "home_proj": 8.6,
             "away_proj": 9.7,
             "edge": "away"
           },
