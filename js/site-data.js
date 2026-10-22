@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-22T03:19:23+00:00",
+  "generated_at": "2026-10-22T09:09:35+00:00",
   "current_week": 7,
   "standings": [
     {
@@ -430,17 +430,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3046439,
-          "name": "Hunter Henry",
+          "player_id": 2573401,
+          "name": "Tyler Higbee",
           "slot": "TE",
           "pos": "TE",
-          "pro": "NE",
-          "proj": 8.2,
+          "pro": "LAR",
+          "proj": 7.4,
           "actual": 0.0,
-          "season_ppg": 1.5,
-          "season_total": 1.5,
+          "season_ppg": 4.2,
+          "season_total": 4.2,
           "games_played": 1,
-          "preseason_proj_total": 148.1,
+          "preseason_proj_total": 124.1,
           "starter": true,
           "injury": null
         },

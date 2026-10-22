@@ -1321,7 +1321,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "5-1",
           "actual": 0.0,
-          "projected": 129.3,
+          "projected": 128.5,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1387,20 +1387,20 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "Hunter Henry",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "NE",
-              "proj": 8.2,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Chris Boswell",
               "slot": "K",
               "pos": "K",
               "pro": "PIT",
               "proj": 11.4,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Tyler Higbee",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "LAR",
+              "proj": 7.4,
               "actual": 0.0,
               "injury": null
             }
@@ -1536,7 +1536,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (3-3) at Nolan Malo (5-1). Projected: Adam Schumacher 128.0 - Nolan Malo 129.3. Nolan Malo favored by 1.3.",
+        "blurb": "Adam Schumacher (3-3) at Nolan Malo (5-1). Projected: Adam Schumacher 128.0 - Nolan Malo 128.5. Nolan Malo favored by 0.5.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -1624,7 +1624,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "TE",
-            "home_proj": 8.2,
+            "home_proj": 7.4,
             "away_proj": 15.9,
             "edge": "away"
           },
