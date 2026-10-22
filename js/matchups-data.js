@@ -1357,7 +1357,7 @@ window.MATCHUPS_DATA = {
               "pro": "DEN",
               "proj": 11.1,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Vikings D/ST",
@@ -1407,6 +1407,15 @@ window.MATCHUPS_DATA = {
           ],
           "bench_proj": 27.6,
           "injuries": [
+            {
+              "name": "Jaylen Waddle",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "DEN",
+              "proj": 11.1,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Jordan Love",
               "slot": "QB",
@@ -2084,7 +2093,7 @@ window.MATCHUPS_DATA = {
               "pro": "LV",
               "proj": 18.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kyren Williams",
@@ -2142,7 +2151,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 38.0,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Brock Bowers",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "LV",
+              "proj": 18.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
