@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-23T03:24:33+00:00",
+  "generated_at": "2026-10-23T08:29:57+00:00",
   "current_week": 7,
   "standings": [
     {
