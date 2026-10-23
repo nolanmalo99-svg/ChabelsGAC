@@ -1105,7 +1105,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "3-3",
           "actual": 0.0,
-          "projected": 128.0,
+          "projected": 128.4,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1131,6 +1131,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "PHI",
               "proj": 16.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Lamar Jackson",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "BAL",
+              "proj": 19.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1178,18 +1187,9 @@ window.MATCHUPS_DATA = {
               "proj": 16.3,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Aaron Rodgers",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "PIT",
-              "proj": 19.5,
-              "actual": 0.0,
-              "injury": null
             }
           ],
-          "bench_proj": 74.5,
+          "bench_proj": 74.1,
           "injuries": [
             {
               "name": "DeVonta Smith",
@@ -1197,6 +1197,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "PHI",
               "proj": 16.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Lamar Jackson",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "BAL",
+              "proj": 19.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2040,7 +2049,7 @@ window.MATCHUPS_DATA = {
               "pro": "NO",
               "proj": 8.2,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             }
           ],
           "bench_proj": 57.7,
@@ -2051,15 +2060,6 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "DAL",
               "proj": 13.2,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Alvin Kamara",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NO",
-              "proj": 8.2,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
