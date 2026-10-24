@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-24T08:39:00+00:00",
+  "generated_at": "2026-10-24T15:23:29+00:00",
   "current_week": 7,
   "standings": [
     {
@@ -16881,7 +16881,7 @@ window.SITE_DATA = {
           "slot": "QB",
           "pos": "QB",
           "pro": "HOU",
-          "proj": 19.4,
+          "proj": 19.5,
           "actual": 0.0,
           "season_ppg": 23.0,
           "season_total": 23.0,

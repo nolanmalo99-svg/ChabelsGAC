@@ -1293,7 +1293,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "3-3",
           "actual": 5.3,
-          "projected": 119.3,
+          "projected": 119.4,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1784,7 +1784,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "HOU",
-              "proj": 19.4,
+              "proj": 19.5,
               "actual": 0.0,
               "injury": null
             }
@@ -1852,7 +1852,7 @@ window.MATCHUPS_DATA = {
             "slot": "QB",
             "pos": "QB",
             "pro": "HOU",
-            "proj": 19.4,
+            "proj": 19.5,
             "actual": 0.0,
             "injury": null,
             "owner": "Evan Wieker"
@@ -1874,7 +1874,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "QB",
             "home_proj": 16.7,
-            "away_proj": 19.4,
+            "away_proj": 19.5,
             "edge": "away"
           },
           {
