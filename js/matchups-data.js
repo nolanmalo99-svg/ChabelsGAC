@@ -983,7 +983,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "3-3",
           "actual": 105.5,
-          "projected": 106.0,
+          "projected": 105.8,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -1189,7 +1189,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "5-1",
           "actual": 107.3,
-          "projected": 125.1,
+          "projected": 124.7,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1685,7 +1685,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "2-4",
           "actual": 138.5,
-          "projected": 140.1,
+          "projected": 139.5,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
