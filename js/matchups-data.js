@@ -1028,7 +1028,7 @@ window.MATCHUPS_DATA = {
               "pro": "GB",
               "proj": 16.9,
               "actual": 9.9,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Mark Andrews",
@@ -1076,6 +1076,15 @@ window.MATCHUPS_DATA = {
               "pro": "MIN",
               "proj": 12.3,
               "actual": 3.6,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Matthew Golden",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "GB",
+              "proj": 16.9,
+              "actual": 9.9,
               "injury": "QUESTIONABLE"
             }
           ]
@@ -1198,7 +1207,7 @@ window.MATCHUPS_DATA = {
               "pro": "DET",
               "proj": 19.5,
               "actual": 24.2,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kenneth Walker III",
@@ -1274,7 +1283,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 29.6,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "DET",
+              "proj": 19.5,
+              "actual": 24.2,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 4,
@@ -1292,7 +1311,7 @@ window.MATCHUPS_DATA = {
               "pro": "SF",
               "proj": 21.9,
               "actual": 22.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Trey McBride",
@@ -1368,7 +1387,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 38.6,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Christian McCaffrey",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "SF",
+              "proj": 21.9,
+              "actual": 22.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": true,
         "playoff": false,
@@ -1926,7 +1955,7 @@ window.MATCHUPS_DATA = {
               "pro": "CAR",
               "proj": 15.4,
               "actual": 1.9,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "T.J. Hockenson",
@@ -1975,6 +2004,15 @@ window.MATCHUPS_DATA = {
               "proj": 12.6,
               "actual": 20.1,
               "injury": "DAY_TO_DAY"
+            },
+            {
+              "name": "Jalen Coker",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CAR",
+              "proj": 15.4,
+              "actual": 1.9,
+              "injury": "QUESTIONABLE"
             }
           ]
         },
