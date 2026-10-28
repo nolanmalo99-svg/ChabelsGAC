@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-28T14:51:04+00:00",
+  "generated_at": "2026-10-28T20:46:00+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -532,7 +532,7 @@
           "games_played": 4,
           "preseason_proj_total": 94.2,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4702555,
@@ -2422,7 +2422,7 @@
           "games_played": 6,
           "preseason_proj_total": 317.3,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685702,
@@ -2632,7 +2632,7 @@
           "games_played": 7,
           "preseason_proj_total": 275.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         }
       ],
       "draft": {
@@ -4165,7 +4165,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "CIN",
-          "proj": 15.3,
+          "proj": 15.2,
           "actual": 0.0,
           "season_ppg": 17.0,
           "season_total": 102.1,
@@ -4175,17 +4175,17 @@
           "injury": null
         },
         {
-          "player_id": 4567750,
-          "name": "Emeka Egbuka",
+          "player_id": 3915416,
+          "name": "DJ Moore",
           "slot": "WR",
           "pos": "WR",
-          "pro": "TB",
-          "proj": 12.9,
+          "pro": "BUF",
+          "proj": 13.6,
           "actual": 0.0,
-          "season_ppg": 10.2,
-          "season_total": 71.1,
-          "games_played": 7,
-          "preseason_proj_total": 176.0,
+          "season_ppg": 6.0,
+          "season_total": 36.3,
+          "games_played": 6,
+          "preseason_proj_total": 237.9,
           "starter": true,
           "injury": "QUESTIONABLE"
         },
@@ -4205,19 +4205,19 @@
           "injury": null
         },
         {
-          "player_id": 3915416,
-          "name": "DJ Moore",
+          "player_id": 4569173,
+          "name": "Rhamondre Stevenson",
           "slot": "FLEX",
-          "pos": "WR",
-          "pro": "BUF",
-          "proj": 13.6,
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 13.2,
           "actual": 0.0,
-          "season_ppg": 6.0,
-          "season_total": 36.3,
-          "games_played": 6,
-          "preseason_proj_total": 237.9,
+          "season_ppg": 12.4,
+          "season_total": 86.9,
+          "games_played": 7,
+          "preseason_proj_total": 173.1,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": -16004,
@@ -4250,19 +4250,19 @@
           "injury": null
         },
         {
-          "player_id": 4569173,
-          "name": "Rhamondre Stevenson",
+          "player_id": 4567750,
+          "name": "Emeka Egbuka",
           "slot": "BE",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 13.2,
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 12.9,
           "actual": 0.0,
-          "season_ppg": 12.4,
-          "season_total": 86.9,
+          "season_ppg": 10.2,
+          "season_total": 71.1,
           "games_played": 7,
-          "preseason_proj_total": 173.1,
+          "preseason_proj_total": 176.0,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4427095,
@@ -4307,7 +4307,7 @@
           "games_played": 1,
           "preseason_proj_total": 56.0,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429205,
@@ -5940,19 +5940,19 @@
           "injury": null
         },
         {
-          "player_id": 4241985,
-          "name": "J.K. Dobbins",
+          "player_id": 4870808,
+          "name": "Jeremiyah Love",
           "slot": "FLEX",
           "pos": "RB",
-          "pro": "DEN",
-          "proj": 6.4,
+          "pro": "ARI",
+          "proj": 11.6,
           "actual": 0.0,
-          "season_ppg": 8.3,
-          "season_total": 58.0,
+          "season_ppg": 7.3,
+          "season_total": 51.1,
           "games_played": 7,
-          "preseason_proj_total": 171.4,
+          "preseason_proj_total": 219.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16033,
@@ -5966,6 +5966,21 @@
           "season_total": 32.0,
           "games_played": 6,
           "preseason_proj_total": 123.0,
+          "starter": true,
+          "injury": null
+        },
+        {
+          "player_id": 3953687,
+          "name": "Brandon Aubrey",
+          "slot": "K",
+          "pos": "K",
+          "pro": "DAL",
+          "proj": 10.0,
+          "actual": 0.0,
+          "season_ppg": 7.5,
+          "season_total": 45.0,
+          "games_played": 6,
+          "preseason_proj_total": 142.2,
           "starter": true,
           "injury": null
         },
@@ -5985,21 +6000,6 @@
           "injury": null
         },
         {
-          "player_id": 4870808,
-          "name": "Jeremiyah Love",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "ARI",
-          "proj": 11.7,
-          "actual": 0.0,
-          "season_ppg": 7.3,
-          "season_total": 51.1,
-          "games_played": 7,
-          "preseason_proj_total": 219.8,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4612826,
           "name": "Ladd McConkey",
           "slot": "BE",
@@ -6013,21 +6013,6 @@
           "preseason_proj_total": 243.2,
           "starter": false,
           "injury": "QUESTIONABLE"
-        },
-        {
-          "player_id": 3953687,
-          "name": "Brandon Aubrey",
-          "slot": "BE",
-          "pos": "K",
-          "pro": "DAL",
-          "proj": 10.0,
-          "actual": 0.0,
-          "season_ppg": 7.5,
-          "season_total": 45.0,
-          "games_played": 6,
-          "preseason_proj_total": 142.2,
-          "starter": false,
-          "injury": null
         },
         {
           "player_id": 4428850,
@@ -6056,6 +6041,21 @@
           "season_total": 30.2,
           "games_played": 5,
           "preseason_proj_total": 104.8,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4241985,
+          "name": "J.K. Dobbins",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "DEN",
+          "proj": 6.4,
+          "actual": 0.0,
+          "season_ppg": 8.3,
+          "season_total": 58.0,
+          "games_played": 7,
+          "preseason_proj_total": 171.4,
           "starter": false,
           "injury": null
         },
@@ -7675,32 +7675,32 @@
           "injury": null
         },
         {
-          "player_id": 4258173,
-          "name": "Nico Collins",
+          "player_id": 4869645,
+          "name": "Caleb Douglas",
           "slot": "FLEX",
           "pos": "WR",
-          "pro": "HOU",
-          "proj": 0.0,
+          "pro": "MIA",
+          "proj": 9.2,
           "actual": 0.0,
-          "season_ppg": 10.9,
-          "season_total": 76.1,
-          "games_played": 7,
-          "preseason_proj_total": 289.1,
+          "season_ppg": 3.9,
+          "season_total": 3.9,
+          "games_played": 1,
+          "preseason_proj_total": 152.3,
           "starter": true,
           "injury": null
         },
         {
-          "player_id": -16020,
-          "name": "Jets D/ST",
+          "player_id": -16026,
+          "name": "Seahawks D/ST",
           "slot": "D/ST",
           "pos": "D/ST",
-          "pro": "NYJ",
-          "proj": 5.2,
+          "pro": "SEA",
+          "proj": 5.8,
           "actual": 0.0,
-          "season_ppg": 0.0,
-          "season_total": 0.0,
-          "games_played": 1,
-          "preseason_proj_total": 99.8,
+          "season_ppg": 9.4,
+          "season_total": 66.0,
+          "games_played": 7,
+          "preseason_proj_total": 121.2,
           "starter": true,
           "injury": null
         },
@@ -7731,21 +7731,6 @@
           "season_total": 60.3,
           "games_played": 4,
           "preseason_proj_total": 267.9,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4869645,
-          "name": "Caleb Douglas",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "MIA",
-          "proj": 9.2,
-          "actual": 0.0,
-          "season_ppg": 3.9,
-          "season_total": 3.9,
-          "games_played": 1,
-          "preseason_proj_total": 152.3,
           "starter": false,
           "injury": null
         },
@@ -7795,17 +7780,32 @@
           "injury": null
         },
         {
-          "player_id": -16026,
-          "name": "Seahawks D/ST",
+          "player_id": -16020,
+          "name": "Jets D/ST",
           "slot": "BE",
           "pos": "D/ST",
-          "pro": "SEA",
-          "proj": 5.8,
+          "pro": "NYJ",
+          "proj": 5.2,
           "actual": 0.0,
-          "season_ppg": 9.4,
-          "season_total": 66.0,
+          "season_ppg": 0.0,
+          "season_total": 0.0,
+          "games_played": 1,
+          "preseason_proj_total": 99.8,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4258173,
+          "name": "Nico Collins",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "HOU",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 10.9,
+          "season_total": 76.1,
           "games_played": 7,
-          "preseason_proj_total": 121.2,
+          "preseason_proj_total": 289.1,
           "starter": false,
           "injury": null
         },
@@ -11450,17 +11450,17 @@
           "injury": null
         },
         {
-          "player_id": 5083076,
-          "name": "Harold Fannin Jr.",
+          "player_id": 3046439,
+          "name": "Hunter Henry",
           "slot": "TE",
           "pos": "TE",
-          "pro": "CLE",
-          "proj": 8.9,
+          "pro": "NE",
+          "proj": 10.6,
           "actual": 0.0,
-          "season_ppg": 9.5,
-          "season_total": 66.7,
-          "games_played": 7,
-          "preseason_proj_total": 53.5,
+          "season_ppg": 1.5,
+          "season_total": 1.5,
+          "games_played": 1,
+          "preseason_proj_total": 148.1,
           "starter": true,
           "injury": null
         },
@@ -11470,14 +11470,14 @@
           "slot": "FLEX",
           "pos": "WR",
           "pro": "CIN",
-          "proj": 21.7,
+          "proj": 21.5,
           "actual": 0.0,
           "season_ppg": 16.2,
           "season_total": 97.1,
           "games_played": 6,
           "preseason_proj_total": 340.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16023,
@@ -11537,7 +11537,7 @@
           "games_played": 6,
           "preseason_proj_total": 219.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685261,
@@ -11555,17 +11555,17 @@
           "injury": null
         },
         {
-          "player_id": 3046439,
-          "name": "Hunter Henry",
+          "player_id": 5083076,
+          "name": "Harold Fannin Jr.",
           "slot": "BE",
           "pos": "TE",
-          "pro": "NE",
-          "proj": 10.6,
+          "pro": "CLE",
+          "proj": 8.9,
           "actual": 0.0,
-          "season_ppg": 1.5,
-          "season_total": 1.5,
-          "games_played": 1,
-          "preseason_proj_total": 148.1,
+          "season_ppg": 9.5,
+          "season_total": 66.7,
+          "games_played": 7,
+          "preseason_proj_total": 53.5,
           "starter": false,
           "injury": null
         },
@@ -13175,7 +13175,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "JAX",
-          "proj": 16.1,
+          "proj": 16.2,
           "actual": 0.0,
           "season_ppg": 15.3,
           "season_total": 91.9,
@@ -15237,7 +15237,7 @@
           "games_played": 7,
           "preseason_proj_total": 189.4,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4572680,
@@ -15260,7 +15260,7 @@
           "slot": "FLEX",
           "pos": "RB",
           "pro": "CIN",
-          "proj": 16.7,
+          "proj": 16.6,
           "actual": 0.0,
           "season_ppg": 12.5,
           "season_total": 74.8,
