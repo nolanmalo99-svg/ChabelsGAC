@@ -1145,7 +1145,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-3",
           "actual": 0.0,
-          "projected": 121.0,
+          "projected": 134.5,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1166,20 +1166,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "DeVonta Smith",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "PHI",
+              "proj": 14.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
               "pro": "BAL",
               "proj": 22.2,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Carnell Tate",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "TEN",
-              "proj": 11.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1218,25 +1218,34 @@ window.MATCHUPS_DATA = {
               "proj": 20.1,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Tyler Bass",
+              "slot": "K",
+              "pos": "K",
+              "pro": "BUF",
+              "proj": 10.4,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 64.5,
+          "bench_proj": 53.8,
           "injuries": [
+            {
+              "name": "DeVonta Smith",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "PHI",
+              "proj": 14.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
             {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
               "pro": "BAL",
               "proj": 22.2,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Carnell Tate",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "TEN",
-              "proj": 11.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1285,7 +1294,7 @@ window.MATCHUPS_DATA = {
               "pro": "BUF",
               "proj": 8.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Stefon Diggs",
@@ -1294,7 +1303,7 @@ window.MATCHUPS_DATA = {
               "pro": "WSH",
               "proj": 12.6,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Vikings D/ST",
@@ -1343,6 +1352,24 @@ window.MATCHUPS_DATA = {
               "proj": 17.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Dalton Kincaid",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "BUF",
+              "proj": 8.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Stefon Diggs",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "WSH",
+              "proj": 12.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             }
           ]
         },
@@ -1351,7 +1378,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (6-1) at Peter Lundquist (4-3). Projected: Nolan Malo 120.8 - Peter Lundquist 121.0. Peter Lundquist favored by 0.2.",
+        "blurb": "Nolan Malo (6-1) at Peter Lundquist (4-3). Projected: Nolan Malo 120.8 - Peter Lundquist 134.5. Peter Lundquist favored by 13.7.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1421,9 +1448,9 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "K",
-            "home_proj": 0.0,
+            "home_proj": 10.4,
             "away_proj": 10.4,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "QB",
@@ -1445,7 +1472,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 31.9,
+            "home_proj": 35.0,
             "away_proj": 30.4,
             "edge": "home"
           }
@@ -1796,7 +1823,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-4",
           "actual": 0.0,
-          "projected": 121.4,
+          "projected": 121.3,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1832,7 +1859,7 @@ window.MATCHUPS_DATA = {
               "pro": "ARI",
               "proj": 12.7,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Jordan Mason",
@@ -1857,7 +1884,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "PHI",
-              "proj": 10.1,
+              "proj": 10.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1880,8 +1907,18 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 45.7,
-          "injuries": []
+          "bench_proj": 45.5,
+          "injuries": [
+            {
+              "name": "Michael Wilson",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "ARI",
+              "proj": 12.7,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 5,
@@ -2001,7 +2038,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Jordan Schommer (2-5) at Adam Biewen (3-4). Projected: Jordan Schommer 115.8 - Adam Biewen 121.4. Adam Biewen favored by 5.6.",
+        "blurb": "Jordan Schommer (2-5) at Adam Biewen (3-4). Projected: Jordan Schommer 115.8 - Adam Biewen 121.3. Adam Biewen favored by 5.5.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2089,7 +2126,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "TE",
-            "home_proj": 10.1,
+            "home_proj": 10.0,
             "away_proj": 9.3,
             "edge": "even"
           },
@@ -2142,7 +2179,7 @@ window.MATCHUPS_DATA = {
               "pro": "LV",
               "proj": 16.1,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kyren Williams",
@@ -2200,7 +2237,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 48.0,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Brock Bowers",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "LV",
+              "proj": 16.1,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 7,
@@ -2227,7 +2274,7 @@ window.MATCHUPS_DATA = {
               "pro": "DAL",
               "proj": 13.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Malik Nabers",
@@ -2294,7 +2341,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 71.1,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "George Pickens",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "DAL",
+              "proj": 13.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
@@ -2593,7 +2650,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 44.3,
+          "bench_proj": 46.0,
           "injuries": [
             {
               "name": "Jahmyr Gibbs",
