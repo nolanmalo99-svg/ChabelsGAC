@@ -1145,7 +1145,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-3",
           "actual": 0.0,
-          "projected": 134.5,
+          "projected": 131.4,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1166,20 +1166,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "DeVonta Smith",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 14.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
               "pro": "BAL",
               "proj": 22.2,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Carnell Tate",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "TEN",
+              "proj": 11.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -1229,23 +1229,23 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 53.8,
+          "bench_proj": 56.9,
           "injuries": [
-            {
-              "name": "DeVonta Smith",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "PHI",
-              "proj": 14.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Lamar Jackson",
               "slot": "QB",
               "pos": "QB",
               "pro": "BAL",
               "proj": 22.2,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Carnell Tate",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "TEN",
+              "proj": 11.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1378,7 +1378,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (6-1) at Peter Lundquist (4-3). Projected: Nolan Malo 120.8 - Peter Lundquist 134.5. Peter Lundquist favored by 13.7.",
+        "blurb": "Nolan Malo (6-1) at Peter Lundquist (4-3). Projected: Nolan Malo 120.8 - Peter Lundquist 131.4. Peter Lundquist favored by 10.6.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1472,7 +1472,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 35.0,
+            "home_proj": 31.9,
             "away_proj": 30.4,
             "edge": "home"
           }

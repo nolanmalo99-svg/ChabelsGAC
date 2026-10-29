@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-29T04:24:36+00:00",
+  "generated_at": "2026-10-29T14:56:43+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -15225,17 +15225,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4241478,
-          "name": "DeVonta Smith",
+          "player_id": 4871023,
+          "name": "Carnell Tate",
           "slot": "WR",
           "pos": "WR",
-          "pro": "PHI",
-          "proj": 14.9,
+          "pro": "TEN",
+          "proj": 11.8,
           "actual": 0.0,
-          "season_ppg": 9.9,
-          "season_total": 69.0,
+          "season_ppg": 11.0,
+          "season_total": 77.3,
           "games_played": 7,
-          "preseason_proj_total": 223.0,
+          "preseason_proj_total": 189.4,
           "starter": true,
           "injury": "QUESTIONABLE"
         },
@@ -15315,6 +15315,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4241478,
+          "name": "DeVonta Smith",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "PHI",
+          "proj": 14.9,
+          "actual": 0.0,
+          "season_ppg": 9.9,
+          "season_total": 69.0,
+          "games_played": 7,
+          "preseason_proj_total": 223.0,
+          "starter": false,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4723086,
           "name": "Colston Loveland",
           "slot": "BE",
@@ -15328,21 +15343,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 155.2,
           "starter": false,
           "injury": null
-        },
-        {
-          "player_id": 4871023,
-          "name": "Carnell Tate",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "TEN",
-          "proj": 11.8,
-          "actual": 0.0,
-          "season_ppg": 11.0,
-          "season_total": 77.3,
-          "games_played": 7,
-          "preseason_proj_total": 189.4,
-          "starter": false,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4832800,
