@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-30T20:23:27+00:00",
+  "generated_at": "2026-10-31T04:04:28+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -370,6 +370,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4361579,
+          "name": "Javonte Williams",
+          "slot": "RB",
+          "pos": "RB",
+          "pro": "DAL",
+          "proj": 20.1,
+          "actual": 0.0,
+          "season_ppg": 18.6,
+          "season_total": 130.5,
+          "games_played": 7,
+          "preseason_proj_total": 217.2,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4567048,
           "name": "Kenneth Walker III",
           "slot": "RB",
@@ -381,21 +396,6 @@ window.SITE_DATA = {
           "season_total": 147.7,
           "games_played": 6,
           "preseason_proj_total": 238.8,
-          "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4361579,
-          "name": "Javonte Williams",
-          "slot": "RB",
-          "pos": "RB",
-          "pro": "DAL",
-          "proj": 19.9,
-          "actual": 0.0,
-          "season_ppg": 18.6,
-          "season_total": 130.5,
-          "games_played": 7,
-          "preseason_proj_total": 217.2,
           "starter": true,
           "injury": null
         },
@@ -505,6 +505,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4372016,
+          "name": "Jaylen Waddle",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "DEN",
+          "proj": 10.8,
+          "actual": 0.0,
+          "season_ppg": 9.1,
+          "season_total": 63.9,
+          "games_played": 7,
+          "preseason_proj_total": 226.5,
+          "starter": false,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4685247,
           "name": "Braelon Allen",
           "slot": "BE",
@@ -520,27 +535,12 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4372016,
-          "name": "Jaylen Waddle",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "DEN",
-          "proj": 10.7,
-          "actual": 0.0,
-          "season_ppg": 9.1,
-          "season_total": 63.9,
-          "games_played": 7,
-          "preseason_proj_total": 226.5,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4702555,
           "name": "Jonah Coleman",
           "slot": "BE",
           "pos": "RB",
           "pro": "DEN",
-          "proj": 7.6,
+          "proj": 9.8,
           "actual": 0.0,
           "season_ppg": 8.9,
           "season_total": 8.9,
@@ -5952,7 +5952,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 219.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": -16033,
@@ -6015,6 +6015,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4241985,
+          "name": "J.K. Dobbins",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "DEN",
+          "proj": 9.7,
+          "actual": 0.0,
+          "season_ppg": 8.3,
+          "season_total": 58.0,
+          "games_played": 7,
+          "preseason_proj_total": 171.4,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4373626,
           "name": "Tyler Allgeier",
           "slot": "BE",
@@ -6026,21 +6041,6 @@ window.SITE_DATA = {
           "season_total": 30.2,
           "games_played": 5,
           "preseason_proj_total": 104.8,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
-          "player_id": 4241985,
-          "name": "J.K. Dobbins",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "DEN",
-          "proj": 6.4,
-          "actual": 0.0,
-          "season_ppg": 8.3,
-          "season_total": 58.0,
-          "games_played": 7,
-          "preseason_proj_total": 171.4,
           "starter": false,
           "injury": null
         },
@@ -7657,7 +7657,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 115.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 3121023,
@@ -7665,7 +7665,7 @@ window.SITE_DATA = {
           "slot": "TE",
           "pos": "TE",
           "pro": "PHI",
-          "proj": 10.9,
+          "proj": 11.0,
           "actual": 0.0,
           "season_ppg": 8.1,
           "season_total": 56.8,
@@ -7785,7 +7785,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "D/ST",
           "pro": "NYJ",
-          "proj": 5.1,
+          "proj": 4.7,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
@@ -9355,7 +9355,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "CHI",
-          "proj": 13.0,
+          "proj": 14.7,
           "actual": 0.0,
           "season_ppg": 17.5,
           "season_total": 122.8,
@@ -9385,7 +9385,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "DAL",
-          "proj": 13.9,
+          "proj": 14.0,
           "actual": 0.0,
           "season_ppg": 13.9,
           "season_total": 97.5,
@@ -9415,7 +9415,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "WR",
           "pro": "LV",
-          "proj": 10.8,
+          "proj": 10.9,
           "actual": 0.0,
           "season_ppg": 14.3,
           "season_total": 99.8,
@@ -9460,7 +9460,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "QB",
           "pro": "CHI",
-          "proj": 15.6,
+          "proj": 15.5,
           "actual": 0.0,
           "season_ppg": 11.9,
           "season_total": 83.6,
@@ -9490,7 +9490,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "PHI",
-          "proj": 10.0,
+          "proj": 10.2,
           "actual": 0.0,
           "season_ppg": 7.7,
           "season_total": 38.3,
@@ -9498,21 +9498,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 144.5,
           "starter": false,
           "injury": null
-        },
-        {
-          "player_id": 4608686,
-          "name": "Kyle Monangai",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "CHI",
-          "proj": 8.8,
-          "actual": 0.0,
-          "season_ppg": 8.5,
-          "season_total": 59.3,
-          "games_played": 7,
-          "preseason_proj_total": 51.6,
-          "starter": false,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4595348,
@@ -9528,6 +9513,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 301.4,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4608686,
+          "name": "Kyle Monangai",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "CHI",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 8.5,
+          "season_total": 59.3,
+          "games_played": 7,
+          "preseason_proj_total": 51.6,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4569559,
@@ -11575,7 +11575,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "LAC",
-          "proj": 8.1,
+          "proj": 8.2,
           "actual": 0.0,
           "season_ppg": 9.6,
           "season_total": 57.5,
@@ -13160,7 +13160,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "DAL",
-          "proj": 20.0,
+          "proj": 20.1,
           "actual": 0.0,
           "season_ppg": 22.2,
           "season_total": 155.5,
@@ -13205,7 +13205,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "RB",
           "pro": "TEN",
-          "proj": 15.1,
+          "proj": 15.0,
           "actual": 0.0,
           "season_ppg": 12.5,
           "season_total": 87.8,
@@ -13265,7 +13265,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "GB",
-          "proj": 14.5,
+          "proj": 14.6,
           "actual": 17.3,
           "season_ppg": 18.5,
           "season_total": 129.5,
@@ -13320,21 +13320,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4568490,
-          "name": "RJ Harvey",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "DEN",
-          "proj": 9.3,
-          "actual": 0.0,
-          "season_ppg": 9.5,
-          "season_total": 56.7,
-          "games_played": 6,
-          "preseason_proj_total": 207.3,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4688813,
           "name": "Josh Downs",
           "slot": "BE",
@@ -13348,6 +13333,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 179.1,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4568490,
+          "name": "RJ Harvey",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "DEN",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 9.5,
+          "season_total": 56.7,
+          "games_played": 6,
+          "preseason_proj_total": 207.3,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4431459,
