@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-31T14:17:21+00:00",
+  "generated_at": "2026-10-31T19:43:05+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -445,17 +445,17 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4430539,
-          "name": "Brenton Strange",
+          "player_id": 4685247,
+          "name": "Braelon Allen",
           "slot": "FLEX",
-          "pos": "TE",
-          "pro": "JAX",
-          "proj": 9.8,
+          "pos": "RB",
+          "pro": "NYJ",
+          "proj": 10.8,
           "actual": 0.0,
-          "season_ppg": 9.4,
-          "season_total": 9.4,
-          "games_played": 1,
-          "preseason_proj_total": 139.5,
+          "season_ppg": 14.8,
+          "season_total": 59.1,
+          "games_played": 4,
+          "preseason_proj_total": 94.2,
           "starter": true,
           "injury": null
         },
@@ -520,17 +520,17 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4685247,
-          "name": "Braelon Allen",
+          "player_id": 4430539,
+          "name": "Brenton Strange",
           "slot": "BE",
-          "pos": "RB",
-          "pro": "NYJ",
-          "proj": 10.8,
+          "pos": "TE",
+          "pro": "JAX",
+          "proj": 9.8,
           "actual": 0.0,
-          "season_ppg": 14.8,
-          "season_total": 59.1,
-          "games_played": 4,
-          "preseason_proj_total": 94.2,
+          "season_ppg": 9.4,
+          "season_total": 9.4,
+          "games_played": 1,
+          "preseason_proj_total": 139.5,
           "starter": false,
           "injury": null
         },
@@ -2602,7 +2602,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 275.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 16800,
@@ -4130,6 +4130,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4569173,
+          "name": "Rhamondre Stevenson",
+          "slot": "RB",
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 15.9,
+          "actual": 0.0,
+          "season_ppg": 12.4,
+          "season_total": 86.9,
+          "games_played": 7,
+          "preseason_proj_total": 173.1,
+          "starter": true,
+          "injury": null
+        },
+        {
           "player_id": 4711533,
           "name": "Ollie Gordon II",
           "slot": "RB",
@@ -4141,21 +4156,6 @@ window.SITE_DATA = {
           "season_total": 50.1,
           "games_played": 3,
           "preseason_proj_total": 84.3,
-          "starter": true,
-          "injury": null
-        },
-        {
-          "player_id": 4569173,
-          "name": "Rhamondre Stevenson",
-          "slot": "RB",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 13.8,
-          "actual": 0.0,
-          "season_ppg": 12.4,
-          "season_total": 86.9,
-          "games_played": 7,
-          "preseason_proj_total": 173.1,
           "starter": true,
           "injury": null
         },
@@ -4270,7 +4270,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "NE",
-          "proj": 11.2,
+          "proj": 11.1,
           "actual": 0.0,
           "season_ppg": 12.4,
           "season_total": 24.9,
@@ -7635,7 +7635,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "LAR",
-          "proj": 22.4,
+          "proj": 22.8,
           "actual": 0.0,
           "season_ppg": 16.2,
           "season_total": 113.6,
@@ -7765,21 +7765,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4432710,
-          "name": "TreVeyon Henderson",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 7.5,
-          "actual": 0.0,
-          "season_ppg": 4.8,
-          "season_total": 33.8,
-          "games_played": 7,
-          "preseason_proj_total": 223.8,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": -16020,
           "name": "Jets D/ST",
           "slot": "BE",
@@ -7808,6 +7793,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 289.1,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4432710,
+          "name": "TreVeyon Henderson",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 4.8,
+          "season_total": 33.8,
+          "games_played": 7,
+          "preseason_proj_total": 223.8,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4361050,
@@ -9527,7 +9527,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 51.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 4569559,
@@ -11380,7 +11380,7 @@ window.SITE_DATA = {
           "slot": "QB",
           "pos": "QB",
           "pro": "NE",
-          "proj": 22.5,
+          "proj": 22.4,
           "actual": 0.0,
           "season_ppg": 19.8,
           "season_total": 138.5,
@@ -11455,7 +11455,7 @@ window.SITE_DATA = {
           "slot": "TE",
           "pos": "TE",
           "pro": "NE",
-          "proj": 10.5,
+          "proj": 10.4,
           "actual": 0.0,
           "season_ppg": 1.5,
           "season_total": 1.5,
@@ -13185,17 +13185,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4036133,
-          "name": "T.J. Hockenson",
+          "player_id": 4431459,
+          "name": "Tyler Warren",
           "slot": "TE",
           "pos": "TE",
-          "pro": "MIN",
-          "proj": 11.2,
+          "pro": "IND",
+          "proj": 11.5,
           "actual": 0.0,
-          "season_ppg": 10.5,
-          "season_total": 62.7,
-          "games_played": 6,
-          "preseason_proj_total": 184.5,
+          "season_ppg": 10.0,
+          "season_total": 69.9,
+          "games_played": 7,
+          "preseason_proj_total": 166.1,
           "starter": true,
           "injury": null
         },
@@ -13305,6 +13305,21 @@ window.SITE_DATA = {
           "injury": null
         },
         {
+          "player_id": 4036133,
+          "name": "T.J. Hockenson",
+          "slot": "BE",
+          "pos": "TE",
+          "pro": "MIN",
+          "proj": 11.2,
+          "actual": 0.0,
+          "season_ppg": 10.5,
+          "season_total": 62.7,
+          "games_played": 6,
+          "preseason_proj_total": 184.5,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4870653,
           "name": "KC Concepcion",
           "slot": "BE",
@@ -13337,7 +13352,7 @@ window.SITE_DATA = {
         {
           "player_id": 4568490,
           "name": "RJ Harvey",
-          "slot": "BE",
+          "slot": "IR",
           "pos": "RB",
           "pro": "DEN",
           "proj": 0.0,
@@ -13348,21 +13363,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 207.3,
           "starter": false,
           "injury": "OUT"
-        },
-        {
-          "player_id": 4431459,
-          "name": "Tyler Warren",
-          "slot": "IR",
-          "pos": "TE",
-          "pro": "IND",
-          "proj": 11.5,
-          "actual": 0.0,
-          "season_ppg": 10.0,
-          "season_total": 69.9,
-          "games_played": 7,
-          "preseason_proj_total": 166.1,
-          "starter": false,
-          "injury": null
         }
       ],
       "draft": {
@@ -15327,7 +15327,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 155.2,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4686468,
@@ -16896,7 +16896,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "LAR",
-          "proj": 17.9,
+          "proj": 18.0,
           "actual": 0.0,
           "season_ppg": 19.6,
           "season_total": 137.1,
