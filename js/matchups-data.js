@@ -1229,7 +1229,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 30.6,
+          "bench_proj": 30.5,
           "injuries": []
         },
         "away": {
@@ -1323,7 +1323,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 46.5,
+          "bench_proj": 46.2,
           "injuries": [
             {
               "name": "Dalton Kincaid",
@@ -1745,7 +1745,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 38.2,
+          "bench_proj": 36.7,
           "injuries": []
         },
         "away": {
@@ -1839,7 +1839,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 44.7,
+          "bench_proj": 44.0,
           "injuries": []
         },
         "played": true,
@@ -1857,14 +1857,14 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "3-4",
           "actual": 0.0,
-          "projected": 132.7,
+          "projected": 132.5,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
               "slot": "WR",
               "pos": "WR",
               "pro": "SEA",
-              "proj": 21.8,
+              "proj": 21.5,
               "actual": 0.0,
               "injury": null
             },
@@ -2053,7 +2053,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Isaac Douglas (4-3) at Evan Wieker (3-4). Projected: Isaac Douglas 118.2 - Evan Wieker 132.7. Evan Wieker favored by 14.5.",
+        "blurb": "Isaac Douglas (4-3) at Evan Wieker (3-4). Projected: Isaac Douglas 118.2 - Evan Wieker 132.5. Evan Wieker favored by 14.3.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -2078,7 +2078,7 @@ window.MATCHUPS_DATA = {
             "slot": "WR",
             "pos": "WR",
             "pro": "SEA",
-            "proj": 21.8,
+            "proj": 21.5,
             "actual": 0.0,
             "injury": null,
             "owner": "Evan Wieker"
@@ -2147,7 +2147,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 45.1,
+            "home_proj": 44.8,
             "away_proj": 42.8,
             "edge": "home"
           }
@@ -2313,7 +2313,7 @@ window.MATCHUPS_DATA = {
               "slot": "K",
               "pos": "K",
               "pro": "SEA",
-              "proj": 9.6,
+              "proj": 9.5,
               "actual": 0.0,
               "injury": null
             },
@@ -2345,7 +2345,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 42.2,
+          "bench_proj": 42.1,
           "injuries": []
         },
         "played": true,

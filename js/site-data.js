@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-10-31T19:43:05+00:00",
+  "generated_at": "2026-10-31T23:05:22+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -510,7 +510,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "DEN",
-          "proj": 10.8,
+          "proj": 10.9,
           "actual": 0.0,
           "season_ppg": 9.1,
           "season_total": 63.9,
@@ -540,7 +540,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "DEN",
-          "proj": 9.8,
+          "proj": 9.4,
           "actual": 0.0,
           "season_ppg": 8.9,
           "season_total": 8.9,
@@ -2520,7 +2520,7 @@ window.SITE_DATA = {
           "slot": "K",
           "pos": "K",
           "pro": "SEA",
-          "proj": 9.6,
+          "proj": 9.5,
           "actual": 0.0,
           "season_ppg": 9.6,
           "season_total": 67.0,
@@ -2565,14 +2565,14 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "SEA",
-          "proj": 10.5,
+          "proj": 10.4,
           "actual": 0.0,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 7,
           "preseason_proj_total": 137.0,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4242355,
@@ -6020,7 +6020,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "RB",
           "pro": "DEN",
-          "proj": 9.7,
+          "proj": 9.0,
           "actual": 0.0,
           "season_ppg": 8.3,
           "season_total": 58.0,
@@ -7735,21 +7735,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4887558,
-          "name": "Emanuel Wilson",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "SEA",
-          "proj": 8.4,
-          "actual": 0.0,
-          "season_ppg": 9.2,
-          "season_total": 18.4,
-          "games_played": 2,
-          "preseason_proj_total": 32.1,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 4683062,
           "name": "Xavier Worthy",
           "slot": "BE",
@@ -7761,6 +7746,21 @@ window.SITE_DATA = {
           "season_total": 51.7,
           "games_played": 6,
           "preseason_proj_total": 166.8,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4887558,
+          "name": "Emanuel Wilson",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "SEA",
+          "proj": 6.9,
+          "actual": 0.0,
+          "season_ppg": 9.2,
+          "season_total": 18.4,
+          "games_played": 2,
+          "preseason_proj_total": 32.1,
           "starter": false,
           "injury": null
         },
@@ -9565,7 +9565,7 @@ window.SITE_DATA = {
           "slot": "IR",
           "pos": "RB",
           "pro": "SEA",
-          "proj": 0.0,
+          "proj": 7.8,
           "actual": 0.0,
           "season_ppg": 2.0,
           "season_total": 14.0,
@@ -13362,7 +13362,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 207.3,
           "starter": false,
-          "injury": "OUT"
+          "injury": "INJURY_RESERVE"
         }
       ],
       "draft": {
@@ -15320,7 +15320,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "TE",
           "pro": "CHI",
-          "proj": 11.8,
+          "proj": 11.7,
           "actual": 0.0,
           "season_ppg": 8.9,
           "season_total": 62.4,
@@ -16926,7 +16926,7 @@ window.SITE_DATA = {
           "slot": "WR",
           "pos": "WR",
           "pro": "SEA",
-          "proj": 21.8,
+          "proj": 21.5,
           "actual": 0.0,
           "season_ppg": 28.0,
           "season_total": 196.2,
