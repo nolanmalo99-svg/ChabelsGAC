@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-02T04:22:43+00:00",
+  "generated_at": "2026-11-02T04:28:30+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -16987,7 +16987,7 @@ window.SITE_DATA = {
           "pos": "D/ST",
           "pro": "WSH",
           "proj": 6.9,
-          "actual": 13.0,
+          "actual": 14.0,
           "season_ppg": 3.0,
           "season_total": 6.0,
           "games_played": 2,

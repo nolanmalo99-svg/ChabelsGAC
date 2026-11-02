@@ -1249,7 +1249,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "6-1",
           "actual": 120.9,
-          "projected": 121.0,
+          "projected": 120.9,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1455,7 +1455,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "3-4",
           "actual": 138.7,
-          "projected": 138.8,
+          "projected": 138.7,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1567,7 +1567,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-4",
           "actual": 108.3,
-          "projected": 114.4,
+          "projected": 114.1,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -1782,8 +1782,8 @@ window.MATCHUPS_DATA = {
           "team": "Team Wieker",
           "owner": "Evan Wieker",
           "record": "3-4",
-          "actual": 108.2,
-          "projected": 130.2,
+          "actual": 109.2,
+          "projected": 131.3,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1863,7 +1863,7 @@ window.MATCHUPS_DATA = {
               "pos": "D/ST",
               "pro": "WSH",
               "proj": 6.9,
-              "actual": 13.0,
+              "actual": 14.0,
               "injury": null
             }
           ],
@@ -1966,10 +1966,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 46.2,
+        "margin": 47.2,
         "winner": "Evan Wieker",
         "phase": "recap",
-        "blurb": "Final: Isaac Douglas 62.0 - Evan Wieker 108.2. Evan Wieker won by 46.2. Top scorers for Evan Wieker: Brock Bowers (28.2), Trevor Lawrence (19.4)."
+        "blurb": "Final: Isaac Douglas 62.0 - Evan Wieker 109.2. Evan Wieker won by 47.2. Top scorers for Evan Wieker: Brock Bowers (28.2), Trevor Lawrence (19.4)."
       },
       {
         "home": {
@@ -2073,7 +2073,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "3-4",
           "actual": 122.6,
-          "projected": 138.1,
+          "projected": 137.9,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -2474,8 +2474,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
@@ -2805,8 +2805,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
@@ -2993,8 +2993,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
@@ -3205,8 +3205,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
@@ -3665,8 +3665,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
@@ -4060,8 +4060,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 132.9,
-          "recent_avg": 124.7,
+          "season_avg": 133.1,
+          "recent_avg": 125.0,
           "streak": 4,
           "streak_type": "W",
           "trend": "down"
