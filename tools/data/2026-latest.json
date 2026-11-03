@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-02T17:48:21+00:00",
+  "generated_at": "2026-11-03T01:59:50+00:00",
   "current_week": 8,
   "standings": [
     {
@@ -2506,7 +2506,7 @@
           "pos": "D/ST",
           "pro": "CHI",
           "proj": 5.8,
-          "actual": 0.0,
+          "actual": 10.0,
           "season_ppg": 5.8,
           "season_total": 23.0,
           "games_played": 4,
@@ -2521,7 +2521,7 @@
           "pos": "K",
           "pro": "SEA",
           "proj": 9.5,
-          "actual": 0.0,
+          "actual": 3.0,
           "season_ppg": 9.6,
           "season_total": 67.0,
           "games_played": 7,
@@ -2566,7 +2566,7 @@
           "pos": "RB",
           "pro": "SEA",
           "proj": 10.4,
-          "actual": 0.0,
+          "actual": 2.7,
           "season_ppg": 0.0,
           "season_total": 0.0,
           "games_played": 7,
@@ -5892,7 +5892,7 @@
           "games_played": 6,
           "preseason_proj_total": 4.7,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685472,
@@ -7696,7 +7696,7 @@
           "pos": "D/ST",
           "pro": "SEA",
           "proj": 5.8,
-          "actual": 0.0,
+          "actual": 8.0,
           "season_ppg": 9.4,
           "season_total": 66.0,
           "games_played": 7,
@@ -9332,7 +9332,7 @@
           "games_played": 7,
           "preseason_proj_total": 274.1,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4379399,
@@ -9356,7 +9356,7 @@
           "pos": "RB",
           "pro": "CHI",
           "proj": 14.7,
-          "actual": 0.0,
+          "actual": 3.3,
           "season_ppg": 17.5,
           "season_total": 122.8,
           "games_played": 7,
@@ -9461,7 +9461,7 @@
           "pos": "QB",
           "pro": "CHI",
           "proj": 15.5,
-          "actual": 0.0,
+          "actual": 6.3,
           "season_ppg": 11.9,
           "season_total": 83.6,
           "games_played": 7,
@@ -9566,13 +9566,13 @@
           "pos": "RB",
           "pro": "SEA",
           "proj": 7.7,
-          "actual": 0.0,
+          "actual": 0.8,
           "season_ppg": 2.0,
           "season_total": 14.0,
           "games_played": 7,
           "preseason_proj_total": 172.8,
           "starter": false,
-          "injury": "INJURY_RESERVE"
+          "injury": null
         }
       ],
       "draft": {
@@ -11552,7 +11552,7 @@
           "games_played": 6,
           "preseason_proj_total": 219.6,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 5083076,
@@ -13296,7 +13296,7 @@
           "pos": "WR",
           "pro": "CHI",
           "proj": 13.4,
-          "actual": 0.0,
+          "actual": 12.3,
           "season_ppg": 13.9,
           "season_total": 97.0,
           "games_played": 7,
@@ -15321,7 +15321,7 @@
           "pos": "TE",
           "pro": "CHI",
           "proj": 11.7,
-          "actual": 0.0,
+          "actual": 5.7,
           "season_ppg": 8.9,
           "season_total": 62.4,
           "games_played": 7,
@@ -16927,7 +16927,7 @@
           "pos": "WR",
           "pro": "SEA",
           "proj": 22.1,
-          "actual": 0.0,
+          "actual": 5.7,
           "season_ppg": 28.0,
           "season_total": 196.2,
           "games_played": 7,
