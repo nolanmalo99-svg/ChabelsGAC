@@ -1495,7 +1495,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 33.9,
+          "bench_proj": 33.7,
           "injuries": [
             {
               "name": "Lamar Jackson",
@@ -1645,9 +1645,9 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "RB",
               "pro": "ARI",
-              "proj": 10.4,
+              "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Rashee Rice",
@@ -1713,16 +1713,16 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.1,
+          "bench_proj": 63.7,
           "injuries": [
             {
               "name": "Jeremiyah Love",
               "slot": "FLEX",
               "pos": "RB",
               "pro": "ARI",
-              "proj": 10.4,
+              "proj": 0.0,
               "actual": 0.0,
-              "injury": "OUT"
+              "injury": "INJURY_RESERVE"
             },
             {
               "name": "Bhayshul Tuten",
@@ -1916,7 +1916,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 44.4,
+            "home_proj": 34.0,
             "away_proj": 54.7,
             "edge": "away"
           },
@@ -1956,7 +1956,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "3-5",
           "actual": 0.0,
-          "projected": 131.9,
+          "projected": 131.8,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1972,7 +1972,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "ARI",
-              "proj": 14.4,
+              "proj": 14.3,
               "actual": 0.0,
               "injury": null
             },
@@ -2153,7 +2153,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 73.6,
+          "bench_proj": 73.7,
           "injuries": [
             {
               "name": "Christian Watson",
@@ -2171,7 +2171,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (5-3) at Adam Schumacher (3-5). Projected: Austin Carter 134.4 - Adam Schumacher 131.9. Austin Carter favored by 2.5.",
+        "blurb": "Austin Carter (5-3) at Adam Schumacher (3-5). Projected: Austin Carter 134.4 - Adam Schumacher 131.8. Austin Carter favored by 2.6.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2259,7 +2259,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "TE",
-            "home_proj": 14.4,
+            "home_proj": 14.3,
             "away_proj": 11.9,
             "edge": "home"
           },
@@ -2376,7 +2376,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 82.3,
+          "bench_proj": 82.0,
           "injuries": [
             {
               "name": "Matthew Stafford",
@@ -2480,7 +2480,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 62.5,
+          "bench_proj": 62.4,
           "injuries": []
         },
         "played": false,
@@ -2609,7 +2609,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-5",
           "actual": 0.0,
-          "projected": 122.7,
+          "projected": 122.6,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -2652,7 +2652,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "ARI",
-              "proj": 13.2,
+              "proj": 13.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -2700,7 +2700,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "ARI",
-              "proj": 13.2,
+              "proj": 13.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2713,14 +2713,14 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "4-4",
           "actual": 0.0,
-          "projected": 130.6,
+          "projected": 130.5,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
               "slot": "WR",
               "pos": "WR",
               "pro": "SEA",
-              "proj": 22.8,
+              "proj": 22.5,
               "actual": 0.0,
               "injury": null
             },
@@ -2756,7 +2756,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "CHI",
-              "proj": 9.8,
+              "proj": 10.1,
               "actual": 0.0,
               "injury": null
             },
@@ -2805,7 +2805,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (4-4) at Adam Biewen (3-5). Projected: Evan Wieker 130.6 - Adam Biewen 122.7. Evan Wieker favored by 7.9.",
+        "blurb": "Evan Wieker (4-4) at Adam Biewen (3-5). Projected: Evan Wieker 130.5 - Adam Biewen 122.6. Evan Wieker favored by 7.9.",
         "home_form": {
           "record_last_n": "0-3",
           "games_considered": 3,
@@ -2840,7 +2840,7 @@ window.MATCHUPS_DATA = {
             "slot": "WR",
             "pos": "WR",
             "pro": "SEA",
-            "proj": 22.8,
+            "proj": 22.5,
             "actual": 0.0,
             "injury": null,
             "owner": "Evan Wieker"
@@ -2899,7 +2899,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 51.2,
+            "home_proj": 51.1,
             "away_proj": 46.6,
             "edge": "home"
           }
