@@ -1391,7 +1391,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.4,
+          "bench_proj": 66.2,
           "injuries": [
             {
               "name": "Cam Skattebo",
@@ -1495,7 +1495,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 33.7,
+          "bench_proj": 51.1,
           "injuries": [
             {
               "name": "Lamar Jackson",
@@ -1742,7 +1742,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "7-1",
           "actual": 0.0,
-          "projected": 121.5,
+          "projected": 121.6,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1803,7 +1803,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "NO",
-              "proj": 14.1,
+              "proj": 14.2,
               "actual": 0.0,
               "injury": null
             },
@@ -1834,7 +1834,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (7-1) at Jordan Schommer (3-5). Projected: Nolan Malo 121.5 - Jordan Schommer 105.1. Nolan Malo favored by 16.4.",
+        "blurb": "Nolan Malo (7-1) at Jordan Schommer (3-5). Projected: Nolan Malo 121.6 - Jordan Schommer 105.1. Nolan Malo favored by 16.5.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1929,7 +1929,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 27.4,
-            "away_proj": 34.7,
+            "away_proj": 34.8,
             "edge": "away"
           }
         ],
@@ -2040,7 +2040,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 75.4,
+          "bench_proj": 71.2,
           "injuries": [
             {
               "name": "Christian McCaffrey",
@@ -2376,7 +2376,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 82.0,
+          "bench_proj": 84.3,
           "injuries": [
             {
               "name": "Matthew Stafford",
@@ -2439,7 +2439,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "BAL",
-              "proj": 6.2,
+              "proj": 6.3,
               "actual": 0.0,
               "injury": null
             },
@@ -2577,7 +2577,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 12.1,
-            "away_proj": 6.2,
+            "away_proj": 6.3,
             "edge": "home"
           },
           {
@@ -2693,7 +2693,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 62.6,
+          "bench_proj": 56.6,
           "injuries": [
             {
               "name": "Michael Wilson",
@@ -2792,7 +2792,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "WSH",
-              "proj": 4.6,
+              "proj": 4.5,
               "actual": 0.0,
               "injury": null
             }
@@ -2870,7 +2870,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 7.8,
-            "away_proj": 4.6,
+            "away_proj": 4.5,
             "edge": "home"
           },
           {
