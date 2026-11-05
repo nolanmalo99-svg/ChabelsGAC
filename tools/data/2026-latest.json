@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-04T19:22:02+00:00",
+  "generated_at": "2026-11-05T00:43:14+00:00",
   "current_week": 9,
   "standings": [
     {
@@ -412,7 +412,7 @@
           "games_played": 7,
           "preseason_proj_total": 290.6,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361370,
@@ -592,7 +592,7 @@
           "games_played": 7,
           "preseason_proj_total": 213.4,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         }
       ],
       "draft": {
@@ -2497,7 +2497,7 @@
           "games_played": 8,
           "preseason_proj_total": 326.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16003,
@@ -4130,6 +4130,21 @@
           "injury": null
         },
         {
+          "player_id": 3117251,
+          "name": "Christian McCaffrey",
+          "slot": "RB",
+          "pos": "RB",
+          "pro": "SF",
+          "proj": 22.8,
+          "actual": 0.0,
+          "season_ppg": 20.6,
+          "season_total": 144.0,
+          "games_played": 7,
+          "preseason_proj_total": 318.4,
+          "starter": true,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4711533,
           "name": "Ollie Gordon II",
           "slot": "RB",
@@ -4143,21 +4158,6 @@
           "preseason_proj_total": 84.3,
           "starter": true,
           "injury": null
-        },
-        {
-          "player_id": 4427366,
-          "name": "Breece Hall",
-          "slot": "RB",
-          "pos": "RB",
-          "pro": "NYJ",
-          "proj": 10.9,
-          "actual": 0.0,
-          "season_ppg": 5.3,
-          "season_total": 42.5,
-          "games_played": 8,
-          "preseason_proj_total": 226.0,
-          "starter": true,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4239993,
@@ -4205,17 +4205,17 @@
           "injury": null
         },
         {
-          "player_id": 3117251,
-          "name": "Christian McCaffrey",
+          "player_id": 4567750,
+          "name": "Emeka Egbuka",
           "slot": "FLEX",
-          "pos": "RB",
-          "pro": "SF",
-          "proj": 22.8,
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 11.5,
           "actual": 0.0,
-          "season_ppg": 20.6,
-          "season_total": 144.0,
-          "games_played": 7,
-          "preseason_proj_total": 318.4,
+          "season_ppg": 8.9,
+          "season_total": 71.1,
+          "games_played": 8,
+          "preseason_proj_total": 176.0,
           "starter": true,
           "injury": "QUESTIONABLE"
         },
@@ -4265,21 +4265,6 @@
           "injury": null
         },
         {
-          "player_id": 4567750,
-          "name": "Emeka Egbuka",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "TB",
-          "proj": 11.5,
-          "actual": 0.0,
-          "season_ppg": 8.9,
-          "season_total": 71.1,
-          "games_played": 8,
-          "preseason_proj_total": 176.0,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4427095,
           "name": "DeMario Douglas",
           "slot": "BE",
@@ -4293,6 +4278,21 @@
           "preseason_proj_total": 141.7,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4427366,
+          "name": "Breece Hall",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "NYJ",
+          "proj": 10.9,
+          "actual": 0.0,
+          "season_ppg": 5.3,
+          "season_total": 42.5,
+          "games_played": 8,
+          "preseason_proj_total": 226.0,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429205,
@@ -5907,7 +5907,7 @@
           "games_played": 7,
           "preseason_proj_total": 163.1,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685472,
@@ -6012,7 +6012,7 @@
           "games_played": 7,
           "preseason_proj_total": 181.1,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4373626,
@@ -9317,7 +9317,7 @@
           "games_played": 8,
           "preseason_proj_total": 274.1,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4379399,
@@ -9377,7 +9377,7 @@
           "games_played": 8,
           "preseason_proj_total": 221.4,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4430027,
@@ -9482,7 +9482,7 @@
           "games_played": 2,
           "preseason_proj_total": 266.7,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4870795,
@@ -15222,7 +15222,7 @@
           "games_played": 6,
           "preseason_proj_total": 159.9,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4572680,

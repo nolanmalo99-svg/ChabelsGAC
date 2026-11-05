@@ -1474,7 +1474,7 @@ window.MATCHUPS_DATA = {
               "pro": "CLE",
               "proj": 12.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Tucker Kraft",
@@ -1505,7 +1505,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 22.8,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Denzel Boston",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CLE",
+              "proj": 12.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
@@ -1644,7 +1654,7 @@ window.MATCHUPS_DATA = {
               "pro": "KC",
               "proj": 13.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Tetairoa McMillan",
@@ -1713,6 +1723,15 @@ window.MATCHUPS_DATA = {
           "bench_proj": 48.0,
           "injuries": [
             {
+              "name": "Rashee Rice",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "KC",
+              "proj": 13.9,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
               "name": "Bhayshul Tuten",
               "slot": "RB",
               "pos": "RB",
@@ -1739,7 +1758,7 @@ window.MATCHUPS_DATA = {
               "pro": "DET",
               "proj": 20.6,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kenneth Walker III",
@@ -1815,7 +1834,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 74.5,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "DET",
+              "proj": 20.6,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
@@ -1859,7 +1888,7 @@ window.MATCHUPS_DATA = {
             "pro": "DET",
             "proj": 20.6,
             "actual": 0.0,
-            "injury": null,
+            "injury": "QUESTIONABLE",
             "owner": "Nolan Malo"
           },
           {
@@ -1944,11 +1973,11 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "3-5",
           "actual": 0.0,
-          "projected": 130.9,
+          "projected": 131.5,
           "starters": [
             {
               "name": "Christian McCaffrey",
-              "slot": "FLEX",
+              "slot": "RB",
               "pos": "RB",
               "pro": "SF",
               "proj": 22.8,
@@ -1963,6 +1992,15 @@ window.MATCHUPS_DATA = {
               "proj": 14.3,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Emeka Egbuka",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "TB",
+              "proj": 11.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Tee Higgins",
@@ -2010,15 +2048,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Breece Hall",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NYJ",
-              "proj": 10.9,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Bengals D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -2028,14 +2057,23 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 74.1,
+          "bench_proj": 73.5,
           "injuries": [
             {
               "name": "Christian McCaffrey",
-              "slot": "FLEX",
+              "slot": "RB",
               "pos": "RB",
               "pro": "SF",
               "proj": 22.8,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Emeka Egbuka",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "TB",
+              "proj": 11.5,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             },
@@ -2045,15 +2083,6 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "BUF",
               "proj": 12.5,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Breece Hall",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NYJ",
-              "proj": 10.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2168,7 +2197,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (5-3) at Adam Schumacher (3-5). Projected: Austin Carter 134.4 - Adam Schumacher 130.9. Austin Carter favored by 3.5.",
+        "blurb": "Austin Carter (5-3) at Adam Schumacher (3-5). Projected: Austin Carter 134.4 - Adam Schumacher 131.5. Austin Carter favored by 2.9.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2190,7 +2219,7 @@ window.MATCHUPS_DATA = {
         "players_to_watch": [
           {
             "name": "Christian McCaffrey",
-            "slot": "FLEX",
+            "slot": "RB",
             "pos": "RB",
             "pro": "SF",
             "proj": 22.8,
@@ -2250,7 +2279,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "RB",
-            "home_proj": 50.1,
+            "home_proj": 39.2,
             "away_proj": 34.4,
             "edge": "home"
           },
@@ -2262,7 +2291,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 29.4,
+            "home_proj": 40.9,
             "away_proj": 48.6,
             "edge": "away"
           }
@@ -2316,7 +2345,7 @@ window.MATCHUPS_DATA = {
               "pro": "DAL",
               "proj": 13.1,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "D'Andre Swift",
@@ -2343,7 +2372,7 @@ window.MATCHUPS_DATA = {
               "pro": "LAR",
               "proj": 16.9,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Tre Tucker",
@@ -2376,11 +2405,11 @@ window.MATCHUPS_DATA = {
           "bench_proj": 84.1,
           "injuries": [
             {
-              "name": "Matthew Stafford",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "LAR",
-              "proj": 16.9,
+              "name": "George Pickens",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "DAL",
+              "proj": 13.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2474,11 +2503,21 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 12.5,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             }
           ],
           "bench_proj": 49.1,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Saquon Barkley",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "PHI",
+              "proj": 12.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
