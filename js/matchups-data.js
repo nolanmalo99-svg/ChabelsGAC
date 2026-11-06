@@ -1307,11 +1307,11 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "4-4",
           "actual": 0.0,
-          "projected": 130.0,
+          "projected": 131.9,
           "starters": [
             {
               "name": "Ja'Marr Chase",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "CIN",
               "proj": 22.9,
@@ -1326,15 +1326,6 @@ window.MATCHUPS_DATA = {
               "proj": 16.4,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Garrett Wilson",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NYJ",
-              "proj": 12.7,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             },
             {
               "name": "Cam Skattebo",
@@ -1373,6 +1364,15 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
+              "name": "Woody Marks",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "HOU",
+              "proj": 14.5,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Chase McLaughlin",
               "slot": "K",
               "pos": "K",
@@ -1391,17 +1391,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.7,
+          "bench_proj": 47.4,
           "injuries": [
-            {
-              "name": "Garrett Wilson",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NYJ",
-              "proj": 12.7,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
             {
               "name": "Cam Skattebo",
               "slot": "RB",
@@ -1541,14 +1532,14 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "3-5",
           "actual": 8.9,
-          "projected": 119.2,
+          "projected": 120.3,
           "starters": [
             {
               "name": "Bijan Robinson",
               "slot": "RB",
               "pos": "RB",
               "pro": "ATL",
-              "proj": 18.7,
+              "proj": 19.8,
               "actual": 0.0,
               "injury": null
             },
@@ -1719,7 +1710,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 58.2,
+          "bench_proj": 58.6,
           "injuries": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1747,7 +1738,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "3-5",
           "actual": 0.0,
-          "projected": 130.7,
+          "projected": 130.9,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -1764,15 +1755,6 @@ window.MATCHUPS_DATA = {
               "pos": "TE",
               "pro": "ARI",
               "proj": 14.3,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
-              "name": "Emeka Egbuka",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "TB",
-              "proj": 11.5,
               "actual": 0.0,
               "injury": null
             },
@@ -1795,6 +1777,15 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
+              "name": "Rhamondre Stevenson",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "NE",
+              "proj": 14.9,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Brock Purdy",
               "slot": "QB",
               "pos": "QB",
@@ -1813,15 +1804,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Ollie Gordon II",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "MIA",
-              "proj": 16.4,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Bengals D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -1829,9 +1811,18 @@ window.MATCHUPS_DATA = {
               "proj": 4.3,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Michael Wilson",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "ARI",
+              "proj": 13.1,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 66.8,
+          "bench_proj": 53.9,
           "injuries": [
             {
               "name": "Christian McCaffrey",
@@ -1848,6 +1839,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "BUF",
               "proj": 12.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Michael Wilson",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "ARI",
+              "proj": 13.1,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2197,7 +2197,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-5",
           "actual": 5.6,
-          "projected": 114.4,
+          "projected": 112.8,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -2236,15 +2236,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Michael Wilson",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "ARI",
-              "proj": 13.1,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
               "name": "Jordan Mason",
               "slot": "RB",
               "pos": "RB",
@@ -2279,16 +2270,25 @@ window.MATCHUPS_DATA = {
               "proj": 9.4,
               "actual": 0.0,
               "injury": null
-            }
-          ],
-          "bench_proj": 59.5,
-          "injuries": [
+            },
             {
-              "name": "Michael Wilson",
+              "name": "Emeka Egbuka",
               "slot": "FLEX",
               "pos": "WR",
-              "pro": "ARI",
-              "proj": 13.1,
+              "pro": "TB",
+              "proj": 11.5,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ],
+          "bench_proj": 66.4,
+          "injuries": [
+            {
+              "name": "Emeka Egbuka",
+              "slot": "FLEX",
+              "pos": "WR",
+              "pro": "TB",
+              "proj": 11.5,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
