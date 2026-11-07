@@ -1597,7 +1597,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "7-1",
           "actual": 4.2,
-          "projected": 126.9,
+          "projected": 126.7,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1649,7 +1649,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "NO",
-              "proj": 14.2,
+              "proj": 14.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1793,7 +1793,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 53.9,
+          "bench_proj": 54.3,
           "injuries": []
         },
         "away": {
@@ -1989,7 +1989,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 67.9,
+          "bench_proj": 67.7,
           "injuries": [
             {
               "name": "George Pickens",
@@ -2111,7 +2111,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-5",
           "actual": 5.6,
-          "projected": 112.7,
+          "projected": 121.1,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -2150,15 +2150,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Jordan Mason",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "MIN",
-              "proj": 8.0,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Isaiah Likely",
               "slot": "TE",
               "pos": "TE",
@@ -2193,9 +2184,18 @@ window.MATCHUPS_DATA = {
               "proj": 11.5,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Ollie Gordon II",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "MIA",
+              "proj": 16.4,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 65.7,
+          "bench_proj": 59.4,
           "injuries": [
             {
               "name": "Emeka Egbuka",
@@ -2299,7 +2299,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 41.5,
+          "bench_proj": 41.4,
           "injuries": []
         },
         "played": true,
