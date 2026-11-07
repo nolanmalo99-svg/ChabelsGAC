@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-06T23:56:56+00:00",
+  "generated_at": "2026-11-07T05:11:55+00:00",
   "current_week": 9,
   "standings": [
     {
@@ -11390,19 +11390,19 @@
           "injury": null
         },
         {
-          "player_id": 4696981,
-          "name": "Cam Skattebo",
+          "player_id": 4040761,
+          "name": "Devin Singletary",
           "slot": "RB",
           "pos": "RB",
           "pro": "NYG",
-          "proj": 0.0,
+          "proj": 13.5,
           "actual": 0.0,
-          "season_ppg": 10.1,
-          "season_total": 70.4,
-          "games_played": 7,
-          "preseason_proj_total": 139.3,
+          "season_ppg": 13.6,
+          "season_total": 108.8,
+          "games_played": 8,
+          "preseason_proj_total": 20.0,
           "starter": true,
-          "injury": "DOUBTFUL"
+          "injury": null
         },
         {
           "player_id": 4362628,
@@ -11510,21 +11510,6 @@
           "injury": null
         },
         {
-          "player_id": 4040761,
-          "name": "Devin Singletary",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "NYG",
-          "proj": 13.5,
-          "actual": 0.0,
-          "season_ppg": 13.6,
-          "season_total": 108.8,
-          "games_played": 8,
-          "preseason_proj_total": 20.0,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 4697815,
           "name": "Rachaad White",
           "slot": "BE",
@@ -11568,6 +11553,21 @@
           "preseason_proj_total": 241.4,
           "starter": false,
           "injury": "OUT"
+        },
+        {
+          "player_id": 4696981,
+          "name": "Cam Skattebo",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "NYG",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 10.1,
+          "season_total": 70.4,
+          "games_played": 7,
+          "preseason_proj_total": 139.3,
+          "starter": false,
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": -16023,

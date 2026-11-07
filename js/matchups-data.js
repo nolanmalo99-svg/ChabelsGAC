@@ -1307,7 +1307,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "4-4",
           "actual": 0.0,
-          "projected": 118.3,
+          "projected": 131.8,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1326,15 +1326,6 @@ window.MATCHUPS_DATA = {
               "proj": 16.4,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Cam Skattebo",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NYG",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "DOUBTFUL"
             },
             {
               "name": "Drake Maye",
@@ -1382,6 +1373,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Devin Singletary",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "NYG",
+              "proj": 13.5,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Texans D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
@@ -1391,18 +1391,8 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 52.5,
-          "injuries": [
-            {
-              "name": "Cam Skattebo",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "NYG",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "DOUBTFUL"
-            }
-          ]
+          "bench_proj": 39.0,
+          "injuries": []
         },
         "away": {
           "teamId": 12,
