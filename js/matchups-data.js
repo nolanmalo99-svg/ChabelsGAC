@@ -1307,7 +1307,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "4-4",
           "actual": 138.6,
-          "projected": 138.8,
+          "projected": 138.6,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1401,7 +1401,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-4",
           "actual": 84.1,
-          "projected": 84.2,
+          "projected": 84.1,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -1925,7 +1925,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "4-4",
           "actual": 61.5,
-          "projected": 98.6,
+          "projected": 98.3,
           "starters": [
             {
               "name": "James Cook III",
@@ -2121,7 +2121,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "3-5",
           "actual": 118.3,
-          "projected": 118.4,
+          "projected": 118.2,
           "starters": [
             {
               "name": "Puka Nacua",
@@ -2225,7 +2225,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "4-4",
           "actual": 93.1,
-          "projected": 93.2,
+          "projected": 93.1,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
