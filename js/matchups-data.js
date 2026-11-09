@@ -1482,11 +1482,21 @@ window.MATCHUPS_DATA = {
               "pro": "MIA",
               "proj": 17.4,
               "actual": 3.8,
-              "injury": null
+              "injury": "QUESTIONABLE"
             }
           ],
           "bench_proj": 22.8,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Malik Willis",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "MIA",
+              "proj": 17.4,
+              "actual": 3.8,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": true,
         "playoff": false,
