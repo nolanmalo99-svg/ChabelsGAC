@@ -2169,29 +2169,10 @@ window.MATCHUPS_DATA = {
               "proj": 14.6,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Malik Willis",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "MIA",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             }
           ],
-          "bench_proj": 34.9,
-          "injuries": [
-            {
-              "name": "Malik Willis",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "MIA",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 43.5,
+          "injuries": []
         },
         "away": {
           "teamId": 6,
