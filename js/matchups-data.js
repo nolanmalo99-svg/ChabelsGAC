@@ -1514,7 +1514,7 @@ window.MATCHUPS_DATA = {
               "pro": "JAX",
               "proj": 17.3,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "George Kittle",
@@ -1561,6 +1561,15 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "LAC",
               "proj": 10.4,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "JAX",
+              "proj": 17.3,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -1722,7 +1731,7 @@ window.MATCHUPS_DATA = {
             "pro": "JAX",
             "proj": 17.3,
             "actual": 0.0,
-            "injury": null,
+            "injury": "QUESTIONABLE",
             "owner": "Jordan Schommer"
           }
         ],
@@ -2150,7 +2159,7 @@ window.MATCHUPS_DATA = {
               "pro": "CLE",
               "proj": 12.7,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Tucker Kraft",
@@ -2181,7 +2190,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 43.5,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Denzel Boston",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "CLE",
+              "proj": 12.7,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 6,
@@ -2190,7 +2209,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "4-5",
           "actual": 0.0,
-          "projected": 102.5,
+          "projected": 112.8,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -2247,15 +2266,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Emeka Egbuka",
-              "slot": "FLEX",
-              "pos": "WR",
-              "pro": "TB",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Ollie Gordon II",
               "slot": "RB",
               "pos": "RB",
@@ -2272,9 +2282,18 @@ window.MATCHUPS_DATA = {
               "proj": 8.9,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Corey Kiner",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "NE",
+              "proj": 10.3,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 46.5,
+          "bench_proj": 36.2,
           "injuries": []
         },
         "played": false,
@@ -2282,7 +2301,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Biewen (4-5) at Peter Lundquist (4-5). Projected: Adam Biewen 102.5 - Peter Lundquist 119.2. Peter Lundquist favored by 16.7.",
+        "blurb": "Adam Biewen (4-5) at Peter Lundquist (4-5). Projected: Adam Biewen 112.8 - Peter Lundquist 119.2. Peter Lundquist favored by 6.4.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2365,7 +2384,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 46.8,
-            "away_proj": 33.9,
+            "away_proj": 44.2,
             "edge": "home"
           },
           {
@@ -2497,7 +2516,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "8-1",
           "actual": 0.0,
-          "projected": 129.2,
+          "projected": 129.4,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2506,7 +2525,7 @@ window.MATCHUPS_DATA = {
               "pro": "DET",
               "proj": 20.4,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Kenneth Walker III",
@@ -2522,7 +2541,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "DAL",
-              "proj": 14.8,
+              "proj": 15.0,
               "actual": 0.0,
               "injury": null
             },
@@ -2542,7 +2561,7 @@ window.MATCHUPS_DATA = {
               "pro": "DET",
               "proj": 17.3,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Vikings D/ST",
@@ -2582,14 +2601,33 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 32.7,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "DET",
+              "proj": 20.4,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Jared Goff",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "DET",
+              "proj": 17.3,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "played": false,
         "playoff": false,
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (8-1) at Brady Kienitz (4-5). Projected: Nolan Malo 129.2 - Brady Kienitz 96.5. Nolan Malo favored by 32.7.",
+        "blurb": "Nolan Malo (8-1) at Brady Kienitz (4-5). Projected: Nolan Malo 129.4 - Brady Kienitz 96.5. Nolan Malo favored by 32.9.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2636,7 +2674,7 @@ window.MATCHUPS_DATA = {
             "pro": "DET",
             "proj": 20.4,
             "actual": 0.0,
-            "injury": null,
+            "injury": "QUESTIONABLE",
             "owner": "Nolan Malo"
           },
           {
@@ -2672,7 +2710,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 35.7,
-            "away_proj": 40.9,
+            "away_proj": 41.1,
             "edge": "away"
           },
           {
@@ -2711,7 +2749,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "6-3",
           "actual": 0.0,
-          "projected": 136.3,
+          "projected": 136.4,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -2805,7 +2843,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "4-5",
           "actual": 0.0,
-          "projected": 133.2,
+          "projected": 133.1,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -2839,7 +2877,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "LAR",
-              "proj": 18.7,
+              "proj": 18.6,
               "actual": 0.0,
               "injury": null
             },
@@ -2897,7 +2935,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Evan Wieker (4-5) at Austin Carter (6-3). Projected: Evan Wieker 133.2 - Austin Carter 136.3. Austin Carter favored by 3.1.",
+        "blurb": "Evan Wieker (4-5) at Austin Carter (6-3). Projected: Evan Wieker 133.1 - Austin Carter 136.4. Austin Carter favored by 3.3.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -2980,7 +3018,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 33.4,
-            "away_proj": 32.3,
+            "away_proj": 32.2,
             "edge": "home"
           },
           {

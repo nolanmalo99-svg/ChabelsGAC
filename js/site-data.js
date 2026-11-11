@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-11T15:51:00+00:00",
+  "generated_at": "2026-11-11T22:28:10+00:00",
   "current_week": 10,
   "standings": [
     {
@@ -367,7 +367,7 @@ window.SITE_DATA = {
           "games_played": 6,
           "preseason_proj_total": 260.5,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4567048,
@@ -390,7 +390,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "DAL",
-          "proj": 14.8,
+          "proj": 15.0,
           "actual": 0.0,
           "season_ppg": 17.7,
           "season_total": 159.6,
@@ -412,7 +412,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 290.6,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361370,
@@ -517,7 +517,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 146.8,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685247,
@@ -4292,7 +4292,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 0.0,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4569603,
@@ -5877,7 +5877,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 4.7,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4685472,
@@ -7660,17 +7660,17 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4567750,
-          "name": "Emeka Egbuka",
+          "player_id": 4431431,
+          "name": "Corey Kiner",
           "slot": "FLEX",
-          "pos": "WR",
-          "pro": "TB",
-          "proj": 0.0,
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 10.3,
           "actual": 0.0,
-          "season_ppg": 8.7,
-          "season_total": 78.0,
-          "games_played": 9,
-          "preseason_proj_total": 176.0,
+          "season_ppg": 11.5,
+          "season_total": 11.5,
+          "games_played": 1,
+          "preseason_proj_total": 0.0,
           "starter": true,
           "injury": null
         },
@@ -7720,21 +7720,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4431431,
-          "name": "Corey Kiner",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 10.3,
-          "actual": 0.0,
-          "season_ppg": 11.5,
-          "season_total": 11.5,
-          "games_played": 1,
-          "preseason_proj_total": 0.0,
-          "starter": false,
-          "injury": null
-        },
-        {
           "player_id": 4360569,
           "name": "Jordan Mason",
           "slot": "BE",
@@ -7777,7 +7762,7 @@ window.SITE_DATA = {
           "games_played": 9,
           "preseason_proj_total": 298.6,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 4432710,
@@ -7806,6 +7791,21 @@ window.SITE_DATA = {
           "season_total": 74.0,
           "games_played": 9,
           "preseason_proj_total": 156.9,
+          "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 4567750,
+          "name": "Emeka Egbuka",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "TB",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 8.7,
+          "season_total": 78.0,
+          "games_played": 9,
+          "preseason_proj_total": 176.0,
           "starter": false,
           "injury": null
         },
@@ -9482,7 +9482,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 266.7,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4360248,
@@ -13242,7 +13242,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 184.5,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4695883,
@@ -15222,7 +15222,7 @@ window.SITE_DATA = {
           "games_played": 7,
           "preseason_proj_total": 159.9,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4572680,
@@ -16881,7 +16881,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "LAR",
-          "proj": 18.7,
+          "proj": 18.6,
           "actual": 0.0,
           "season_ppg": 17.7,
           "season_total": 159.1,
