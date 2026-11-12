@@ -1788,7 +1788,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "4-5",
           "actual": 0.0,
-          "projected": 78.7,
+          "projected": 116.0,
           "starters": [
             {
               "name": "James Cook III",
@@ -1810,7 +1810,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Malik Nabers",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "NYG",
               "proj": 16.4,
@@ -1818,11 +1818,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "D'Andre Swift",
+              "name": "Jadarian Price",
               "slot": "RB",
               "pos": "RB",
-              "pro": "CHI",
-              "proj": 0.0,
+              "pro": "SEA",
+              "proj": 11.9,
               "actual": 0.0,
               "injury": null
             },
@@ -1836,20 +1836,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Caleb Williams",
+              "name": "Matthew Stafford",
               "slot": "QB",
               "pos": "QB",
-              "pro": "CHI",
-              "proj": 0.0,
+              "pro": "LAR",
+              "proj": 17.0,
               "actual": 0.0,
               "injury": null
             },
             {
-              "name": "Makai Lemon",
-              "slot": "WR",
+              "name": "Tre Tucker",
+              "slot": "FLEX",
               "pos": "WR",
-              "pro": "PHI",
-              "proj": 0.0,
+              "pro": "LV",
+              "proj": 8.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1872,7 +1872,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 64.1,
+          "bench_proj": 26.8,
           "injuries": []
         },
         "away": {
@@ -2002,7 +2002,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "logan rezac (5-4) at Isaac Douglas (4-5). Projected: logan rezac 125.1 - Isaac Douglas 78.7. logan rezac favored by 46.4.",
+        "blurb": "logan rezac (5-4) at Isaac Douglas (4-5). Projected: logan rezac 125.1 - Isaac Douglas 116.0. logan rezac favored by 9.1.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2078,15 +2078,15 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "QB",
-            "home_proj": 0.0,
+            "home_proj": 17.0,
             "away_proj": 22.0,
             "edge": "away"
           },
           {
             "pos": "RB",
-            "home_proj": 20.5,
+            "home_proj": 32.4,
             "away_proj": 24.8,
-            "edge": "away"
+            "edge": "home"
           },
           {
             "pos": "TE",
@@ -2096,7 +2096,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 33.9,
+            "home_proj": 42.3,
             "away_proj": 50.4,
             "edge": "away"
           }
@@ -2534,7 +2534,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "8-1",
           "actual": 0.0,
-          "projected": 129.4,
+          "projected": 127.4,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2564,6 +2564,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Dalton Kincaid",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "BUF",
+              "proj": 8.8,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
               "name": "Stefon Diggs",
               "slot": "FLEX",
               "pos": "WR",
@@ -2571,15 +2580,6 @@ window.MATCHUPS_DATA = {
               "proj": 10.7,
               "actual": 0.0,
               "injury": null
-            },
-            {
-              "name": "Jared Goff",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "DET",
-              "proj": 17.3,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
             },
             {
               "name": "Vikings D/ST",
@@ -2600,11 +2600,11 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Brenton Strange",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "JAX",
-              "proj": 9.6,
+              "name": "Jordan Love",
+              "slot": "QB",
+              "pos": "QB",
+              "pro": "GB",
+              "proj": 16.0,
               "actual": 0.0,
               "injury": null
             },
@@ -2618,7 +2618,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 32.7,
+          "bench_proj": 34.8,
           "injuries": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2630,11 +2630,11 @@ window.MATCHUPS_DATA = {
               "injury": "QUESTIONABLE"
             },
             {
-              "name": "Jared Goff",
-              "slot": "QB",
-              "pos": "QB",
-              "pro": "DET",
-              "proj": 17.3,
+              "name": "Dalton Kincaid",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "BUF",
+              "proj": 8.8,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
@@ -2645,7 +2645,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Nolan Malo (8-1) at Brady Kienitz (4-5). Projected: Nolan Malo 129.4 - Brady Kienitz 96.5. Nolan Malo favored by 32.9.",
+        "blurb": "Nolan Malo (8-1) at Brady Kienitz (4-5). Projected: Nolan Malo 127.4 - Brady Kienitz 96.5. Nolan Malo favored by 30.9.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2722,7 +2722,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "QB",
             "home_proj": 19.0,
-            "away_proj": 17.3,
+            "away_proj": 16.0,
             "edge": "home"
           },
           {
@@ -2734,7 +2734,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "TE",
             "home_proj": 6.9,
-            "away_proj": 9.6,
+            "away_proj": 8.8,
             "edge": "away"
           },
           {
