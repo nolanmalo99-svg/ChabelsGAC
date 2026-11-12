@@ -1927,7 +1927,7 @@ window.MATCHUPS_DATA = {
               "pro": "CLE",
               "proj": 10.1,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Woody Marks",
@@ -1936,7 +1936,7 @@ window.MATCHUPS_DATA = {
               "pro": "HOU",
               "proj": 13.9,
               "actual": 0.0,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "Rachaad White",
@@ -1974,6 +1974,24 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "NYJ",
               "proj": 12.7,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Harold Fannin Jr.",
+              "slot": "TE",
+              "pos": "TE",
+              "pro": "CLE",
+              "proj": 10.1,
+              "actual": 0.0,
+              "injury": "QUESTIONABLE"
+            },
+            {
+              "name": "Woody Marks",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "HOU",
+              "proj": 13.9,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
             }
