@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-13T12:48:19+00:00",
+  "generated_at": "2026-11-13T19:13:05+00:00",
   "current_week": 10,
   "standings": [
     {
@@ -382,7 +382,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 238.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4361579,
@@ -390,7 +390,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "DAL",
-          "proj": 14.9,
+          "proj": 15.0,
           "actual": 0.0,
           "season_ppg": 17.7,
           "season_total": 159.6,
@@ -4210,7 +4210,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "WR",
           "pro": "NE",
-          "proj": 10.0,
+          "proj": 10.1,
           "actual": 0.0,
           "season_ppg": 14.2,
           "season_total": 56.7,
@@ -4248,21 +4248,6 @@ window.SITE_DATA = {
           "preseason_proj_total": 134.0,
           "starter": true,
           "injury": null
-        },
-        {
-          "player_id": 4569173,
-          "name": "Rhamondre Stevenson",
-          "slot": "BE",
-          "pos": "RB",
-          "pro": "NE",
-          "proj": 12.9,
-          "actual": 0.0,
-          "season_ppg": 12.6,
-          "season_total": 113.7,
-          "games_played": 9,
-          "preseason_proj_total": 173.1,
-          "starter": false,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4429205,
@@ -4307,7 +4292,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 0.0,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4569603,
@@ -4315,7 +4300,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "WR",
           "pro": "MIA",
-          "proj": 9.1,
+          "proj": 8.9,
           "actual": 0.0,
           "season_ppg": 8.5,
           "season_total": 25.6,
@@ -4323,6 +4308,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 56.0,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4569173,
+          "name": "Rhamondre Stevenson",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "NE",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 12.6,
+          "season_total": 113.7,
+          "games_played": 9,
+          "preseason_proj_total": 173.1,
+          "starter": false,
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4710714,
@@ -7665,7 +7665,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "RB",
           "pro": "NE",
-          "proj": 6.5,
+          "proj": 10.2,
           "actual": 0.0,
           "season_ppg": 11.5,
           "season_total": 11.5,
@@ -11365,7 +11365,7 @@ window.SITE_DATA = {
           "slot": "QB",
           "pos": "QB",
           "pro": "NE",
-          "proj": 21.9,
+          "proj": 22.0,
           "actual": 0.0,
           "season_ppg": 19.9,
           "season_total": 179.3,
@@ -13130,7 +13130,7 @@ window.SITE_DATA = {
           "slot": "RB",
           "pos": "RB",
           "pro": "TEN",
-          "proj": 13.4,
+          "proj": 13.5,
           "actual": 0.0,
           "season_ppg": 14.6,
           "season_total": 116.5,
@@ -13205,7 +13205,7 @@ window.SITE_DATA = {
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "JAX",
-          "proj": 6.4,
+          "proj": 6.2,
           "actual": 0.0,
           "season_ppg": 16.5,
           "season_total": 33.0,
@@ -15285,21 +15285,6 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 4871023,
-          "name": "Carnell Tate",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "TEN",
-          "proj": 12.2,
-          "actual": 0.0,
-          "season_ppg": 9.7,
-          "season_total": 77.3,
-          "games_played": 8,
-          "preseason_proj_total": 189.4,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 3917232,
           "name": "Tyler Bass",
           "slot": "BE",
@@ -15388,6 +15373,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 363.8,
           "starter": false,
           "injury": "INJURY_RESERVE"
+        },
+        {
+          "player_id": 4871023,
+          "name": "Carnell Tate",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "TEN",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 9.7,
+          "season_total": 77.3,
+          "games_played": 8,
+          "preseason_proj_total": 189.4,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4241478,
@@ -16956,7 +16956,7 @@ window.SITE_DATA = {
           "slot": "FLEX",
           "pos": "WR",
           "pro": "PIT",
-          "proj": 11.2,
+          "proj": 10.6,
           "actual": 0.0,
           "season_ppg": 9.7,
           "season_total": 77.9,
@@ -17061,7 +17061,7 @@ window.SITE_DATA = {
           "slot": "BE",
           "pos": "TE",
           "pro": "PIT",
-          "proj": 8.2,
+          "proj": 8.8,
           "actual": 0.0,
           "season_ppg": 6.2,
           "season_total": 18.7,
