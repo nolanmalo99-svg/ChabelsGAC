@@ -1553,7 +1553,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 43.4,
+          "bench_proj": 43.5,
           "injuries": [
             {
               "name": "Ladd McConkey",
@@ -1779,7 +1779,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "4-5",
           "actual": 7.4,
-          "projected": 111.6,
+          "projected": 111.4,
           "starters": [
             {
               "name": "James Cook III",
@@ -1858,12 +1858,12 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "ATL",
-              "proj": 3.4,
+              "proj": 3.1,
               "actual": 0.0,
               "injury": null
             }
           ],
-          "bench_proj": 33.6,
+          "bench_proj": 33.1,
           "injuries": []
         },
         "away": {
@@ -1873,7 +1873,7 @@ window.MATCHUPS_DATA = {
           "owner": "logan rezac",
           "record": "5-4",
           "actual": 27.2,
-          "projected": 136.3,
+          "projected": 141.6,
           "starters": [
             {
               "name": "Ja'Marr Chase",
@@ -1934,7 +1934,7 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "HOU",
-              "proj": 9.0,
+              "proj": 14.2,
               "actual": 0.0,
               "injury": null
             },
@@ -1957,7 +1957,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 61.2,
+          "bench_proj": 61.1,
           "injuries": [
             {
               "name": "Garrett Wilson",
@@ -2089,7 +2089,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "4-5",
           "actual": 48.5,
-          "projected": 130.4,
+          "projected": 126.4,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -2146,15 +2146,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Ollie Gordon II",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "MIA",
-              "proj": 15.7,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Tutu Atwell",
               "slot": "WR",
               "pos": "WR",
@@ -2171,9 +2162,18 @@ window.MATCHUPS_DATA = {
               "proj": 10.2,
               "actual": 0.0,
               "injury": null
+            },
+            {
+              "name": "Blake Corum",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "LAR",
+              "proj": 11.6,
+              "actual": 0.0,
+              "injury": null
             }
           ],
-          "bench_proj": 44.9,
+          "bench_proj": 56.6,
           "injuries": []
         },
         "played": true,
@@ -2295,7 +2295,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "8-1",
           "actual": 20.3,
-          "projected": 110.5,
+          "projected": 118.3,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2305,15 +2305,6 @@ window.MATCHUPS_DATA = {
               "proj": 20.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Kenneth Walker III",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "KC",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "OUT"
             },
             {
               "name": "Javonte Williams",
@@ -2361,6 +2352,15 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "Braelon Allen",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "NYJ",
+              "proj": 7.9,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Jordan Love",
               "slot": "QB",
               "pos": "QB",
@@ -2379,7 +2379,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 45.7,
+          "bench_proj": 26.9,
           "injuries": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2389,15 +2389,6 @@ window.MATCHUPS_DATA = {
               "proj": 20.4,
               "actual": 0.0,
               "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Kenneth Walker III",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "KC",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "OUT"
             }
           ]
         },
@@ -2500,7 +2491,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 36.3,
+          "bench_proj": 37.1,
           "injuries": []
         },
         "away": {
@@ -2510,7 +2501,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "4-5",
           "actual": 2.0,
-          "projected": 123.8,
+          "projected": 111.7,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -2549,15 +2540,6 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Jameson Williams",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "DET",
-              "proj": 12.1,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "DK Metcalf",
               "slot": "FLEX",
               "pos": "WR",
@@ -2592,10 +2574,29 @@ window.MATCHUPS_DATA = {
               "proj": 8.2,
               "actual": 2.0,
               "injury": null
+            },
+            {
+              "name": "Puka Nacua",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "LAR",
+              "proj": 0.0,
+              "actual": 0.0,
+              "injury": "INJURY_RESERVE"
             }
           ],
-          "bench_proj": 63.0,
-          "injuries": []
+          "bench_proj": 67.3,
+          "injuries": [
+            {
+              "name": "Puka Nacua",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "LAR",
+              "proj": 0.0,
+              "actual": 0.0,
+              "injury": "INJURY_RESERVE"
+            }
+          ]
         },
         "played": true,
         "playoff": false,
