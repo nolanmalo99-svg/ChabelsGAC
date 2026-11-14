@@ -1469,7 +1469,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "3-6",
           "actual": 0.0,
-          "projected": 123.8,
+          "projected": 124.4,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -1485,7 +1485,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "KC",
-              "proj": 12.8,
+              "proj": 13.4,
               "actual": 0.0,
               "injury": null
             },
@@ -1553,7 +1553,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 43.0,
+          "bench_proj": 43.4,
           "injuries": [
             {
               "name": "Ladd McConkey",
@@ -1665,7 +1665,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Adam Schumacher (3-6) at Jordan Schommer (3-6). Projected: Adam Schumacher 123.0 - Jordan Schommer 123.8. Jordan Schommer favored by 0.8.",
+        "blurb": "Adam Schumacher (3-6) at Jordan Schommer (3-6). Projected: Adam Schumacher 123.0 - Jordan Schommer 124.4. Jordan Schommer favored by 1.4.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -1759,7 +1759,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "pos": "WR",
-            "home_proj": 39.3,
+            "home_proj": 39.9,
             "away_proj": 39.6,
             "edge": "even"
           }
@@ -1779,7 +1779,7 @@ window.MATCHUPS_DATA = {
           "owner": "Isaac Douglas",
           "record": "4-5",
           "actual": 7.4,
-          "projected": 111.3,
+          "projected": 111.6,
           "starters": [
             {
               "name": "James Cook III",
@@ -1804,7 +1804,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "DAL",
-              "proj": 12.3,
+              "proj": 12.2,
               "actual": 0.0,
               "injury": null
             },
@@ -1858,7 +1858,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "ATL",
-              "proj": 3.1,
+              "proj": 3.4,
               "actual": 0.0,
               "injury": null
             }
@@ -1957,7 +1957,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 59.9,
+          "bench_proj": 61.2,
           "injuries": [
             {
               "name": "Garrett Wilson",
@@ -2089,7 +2089,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "4-5",
           "actual": 48.5,
-          "projected": 130.5,
+          "projected": 130.4,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -2173,7 +2173,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 34.4,
+          "bench_proj": 44.9,
           "injuries": []
         },
         "played": true,
@@ -2295,7 +2295,7 @@ window.MATCHUPS_DATA = {
           "owner": "Nolan Malo",
           "record": "8-1",
           "actual": 20.3,
-          "projected": 136.7,
+          "projected": 110.5,
           "starters": [
             {
               "name": "Amon-Ra St. Brown",
@@ -2311,9 +2311,9 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "KC",
-              "proj": 26.1,
+              "proj": 0.0,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": "OUT"
             },
             {
               "name": "Javonte Williams",
@@ -2347,7 +2347,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "MIN",
-              "proj": 5.1,
+              "proj": 5.0,
               "actual": 0.0,
               "injury": null
             },
@@ -2365,7 +2365,7 @@ window.MATCHUPS_DATA = {
               "slot": "QB",
               "pos": "QB",
               "pro": "GB",
-              "proj": 16.0,
+              "proj": 16.1,
               "actual": 0.0,
               "injury": null
             },
@@ -2395,9 +2395,9 @@ window.MATCHUPS_DATA = {
               "slot": "RB",
               "pos": "RB",
               "pro": "KC",
-              "proj": 26.1,
+              "proj": 0.0,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": "OUT"
             }
           ]
         },
@@ -2423,7 +2423,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "DAL",
-              "proj": 20.9,
+              "proj": 20.8,
               "actual": 0.0,
               "injury": null
             },
@@ -2500,7 +2500,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 35.2,
+          "bench_proj": 36.3,
           "injuries": []
         },
         "away": {
@@ -2510,7 +2510,7 @@ window.MATCHUPS_DATA = {
           "owner": "Evan Wieker",
           "record": "4-5",
           "actual": 2.0,
-          "projected": 123.7,
+          "projected": 123.8,
           "starters": [
             {
               "name": "Jaxon Smith-Njigba",
