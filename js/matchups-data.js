@@ -1814,7 +1814,7 @@ window.MATCHUPS_DATA = {
               "pro": "NE",
               "proj": 22.0,
               "actual": 3.0,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Harold Fannin Jr.",
@@ -1871,7 +1871,7 @@ window.MATCHUPS_DATA = {
               "pro": "NE",
               "proj": 22.0,
               "actual": 3.0,
-              "injury": "QUESTIONABLE"
+              "injury": "DOUBTFUL"
             },
             {
               "name": "Woody Marks",
