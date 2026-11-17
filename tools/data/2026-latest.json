@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-16T17:56:25+00:00",
+  "generated_at": "2026-11-17T02:45:40+00:00",
   "current_week": 10,
   "standings": [
     {
@@ -562,7 +562,7 @@
           "games_played": 8,
           "preseason_proj_total": 213.4,
           "starter": false,
-          "injury": "OUT"
+          "injury": null
         },
         {
           "player_id": 16737,
@@ -2476,7 +2476,7 @@
           "pos": "TE",
           "pro": "BAL",
           "proj": 6.9,
-          "actual": 0.0,
+          "actual": 8.1,
           "season_ppg": 6.5,
           "season_total": 58.7,
           "games_played": 9,
@@ -7591,7 +7591,7 @@
           "pos": "RB",
           "pro": "BAL",
           "proj": 18.2,
-          "actual": 0.0,
+          "actual": 7.1,
           "season_ppg": 15.8,
           "season_total": 142.3,
           "games_played": 9,
@@ -11432,7 +11432,7 @@
           "games_played": 9,
           "preseason_proj_total": 267.4,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 5083076,
@@ -11546,7 +11546,7 @@
           "pos": "RB",
           "pro": "LAC",
           "proj": 7.9,
-          "actual": 0.0,
+          "actual": 9.6,
           "season_ppg": 8.5,
           "season_total": 68.2,
           "games_played": 8,
@@ -15201,7 +15201,7 @@
           "pos": "WR",
           "pro": "BAL",
           "proj": 14.6,
-          "actual": 0.0,
+          "actual": 2.7,
           "season_ppg": 14.2,
           "season_total": 127.5,
           "games_played": 9,
@@ -16972,7 +16972,7 @@
           "pos": "D/ST",
           "pro": "BAL",
           "proj": 7.8,
-          "actual": 0.0,
+          "actual": 5.0,
           "season_ppg": 4.4,
           "season_total": 31.0,
           "games_played": 7,
