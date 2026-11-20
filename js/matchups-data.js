@@ -1940,7 +1940,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "5-5",
           "actual": 0.0,
-          "projected": 56.8,
+          "projected": 109.5,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -1948,24 +1948,6 @@ window.MATCHUPS_DATA = {
               "pos": "RB",
               "pro": "DET",
               "proj": 21.9,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
-              "name": "A.J. Brown",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NE",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            },
-            {
-              "name": "Quinshon Judkins",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "CLE",
-              "proj": 0.0,
               "actual": 0.0,
               "injury": null
             },
@@ -1979,20 +1961,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Matthew Golden",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "GB",
-              "proj": 0.0,
+              "name": "Aaron Jones Sr.",
+              "slot": "FLEX",
+              "pos": "RB",
+              "pro": "MIN",
+              "proj": 8.4,
               "actual": 0.0,
               "injury": null
             },
             {
-              "name": "Zach Charbonnet",
-              "slot": "FLEX",
-              "pos": "RB",
-              "pro": "SEA",
-              "proj": 0.0,
+              "name": "Deebo Samuel Sr.",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "SF",
+              "proj": 11.0,
               "actual": 0.0,
               "injury": null
             },
@@ -2006,43 +1988,51 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Jason Myers",
-              "slot": "K",
-              "pos": "K",
-              "pro": "SEA",
-              "proj": 0.0,
+              "name": "Keenan Allen",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "SF",
+              "proj": 9.3,
               "actual": 0.0,
               "injury": null
             },
             {
-              "name": "Commanders D/ST",
+              "name": "Saquon Barkley",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "PHI",
+              "proj": 12.0,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Cairo Santos",
+              "slot": "K",
+              "pos": "K",
+              "pro": "CHI",
+              "proj": 9.8,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Lions D/ST",
               "slot": "D/ST",
               "pos": "D/ST",
-              "pro": "WSH",
-              "proj": 4.4,
+              "pro": "DET",
+              "proj": 6.5,
               "actual": 0.0,
               "injury": null
             }
           ],
-          "bench_proj": 40.7,
-          "injuries": [
-            {
-              "name": "A.J. Brown",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "NE",
-              "proj": 0.0,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "bench_proj": 0.0,
+          "injuries": []
         },
         "played": false,
         "playoff": false,
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Brady Kienitz (5-5) at Jordan Schommer (3-7). Projected: Brady Kienitz 56.8 - Jordan Schommer 108.9. Jordan Schommer favored by 52.1.",
+        "blurb": "Brady Kienitz (5-5) at Jordan Schommer (3-7). Projected: Brady Kienitz 109.5 - Jordan Schommer 108.9. Brady Kienitz favored by 0.6.",
         "home_form": {
           "record_last_n": "1-2",
           "games_considered": 3,
@@ -2107,13 +2097,13 @@ window.MATCHUPS_DATA = {
           {
             "pos": "D/ST",
             "home_proj": 7.1,
-            "away_proj": 4.4,
-            "edge": "home"
+            "away_proj": 6.5,
+            "edge": "even"
           },
           {
             "pos": "K",
             "home_proj": 11.2,
-            "away_proj": 0.0,
+            "away_proj": 9.8,
             "edge": "home"
           },
           {
@@ -2125,7 +2115,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "RB",
             "home_proj": 16.9,
-            "away_proj": 21.9,
+            "away_proj": 42.3,
             "edge": "away"
           },
           {
@@ -2137,7 +2127,7 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 37.5,
-            "away_proj": 0.0,
+            "away_proj": 20.3,
             "edge": "home"
           }
         ],
