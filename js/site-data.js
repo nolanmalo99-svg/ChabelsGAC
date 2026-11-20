@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-20T03:50:55+00:00",
+  "generated_at": "2026-11-20T05:26:52+00:00",
   "current_week": 11,
   "standings": [
     {
@@ -496,7 +496,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "HOU",
           "proj": 13.7,
-          "actual": 12.8,
+          "actual": 15.4,
           "season_ppg": 5.1,
           "season_total": 45.5,
           "games_played": 9,
@@ -7621,7 +7621,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "HOU",
           "proj": 15.8,
-          "actual": 12.8,
+          "actual": 14.8,
           "season_ppg": 12.9,
           "season_total": 116.0,
           "games_played": 9,
@@ -15342,7 +15342,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 45.9,
           "starter": false,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 3916387,
@@ -17002,7 +17002,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "HOU",
           "proj": 21.8,
-          "actual": 17.9,
+          "actual": 20.5,
           "season_ppg": 24.1,
           "season_total": 72.3,
           "games_played": 3,

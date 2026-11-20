@@ -1724,8 +1724,8 @@ window.MATCHUPS_DATA = {
           "team": "Queen Henry",
           "owner": "Adam Biewen",
           "record": "5-5",
-          "actual": 12.8,
-          "projected": 121.0,
+          "actual": 14.8,
+          "projected": 120.5,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -1742,7 +1742,7 @@ window.MATCHUPS_DATA = {
               "pos": "WR",
               "pro": "HOU",
               "proj": 15.8,
-              "actual": 12.8,
+              "actual": 14.8,
               "injury": null
             },
             {
@@ -1814,10 +1814,10 @@ window.MATCHUPS_DATA = {
         },
         "played": true,
         "playoff": false,
-        "margin": 12.8,
+        "margin": 14.8,
         "winner": "Adam Biewen",
         "phase": "recap",
-        "blurb": "Final: Adam Biewen 12.8 - Isaac Douglas 0.0. Adam Biewen won by 12.8. Top scorers for Adam Biewen: Nico Collins (12.8), Derrick Henry (0.0)."
+        "blurb": "Final: Adam Biewen 14.8 - Isaac Douglas 0.0. Adam Biewen won by 14.8. Top scorers for Adam Biewen: Nico Collins (14.8), Derrick Henry (0.0)."
       },
       {
         "home": {
@@ -2816,7 +2816,7 @@ window.MATCHUPS_DATA = {
           "owner": "Austin Carter",
           "record": "7-3",
           "actual": 1.0,
-          "projected": 135.8,
+          "projected": 134.3,
           "starters": [
             {
               "name": "CeeDee Lamb",
@@ -2920,7 +2920,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-6",
           "actual": 12.7,
-          "projected": 111.2,
+          "projected": 106.9,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -3187,8 +3187,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 112.6,
-          "recent_avg": 102.6,
+          "season_avg": 112.8,
+          "recent_avg": 103.3,
           "streak": 3,
           "streak_type": "W",
           "trend": "down"
@@ -3660,8 +3660,8 @@ window.MATCHUPS_DATA = {
         "away_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 112.6,
-          "recent_avg": 102.6,
+          "season_avg": 112.8,
+          "recent_avg": 103.3,
           "streak": 3,
           "streak_type": "W",
           "trend": "down"
@@ -3853,8 +3853,8 @@ window.MATCHUPS_DATA = {
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
-          "season_avg": 112.6,
-          "recent_avg": 102.6,
+          "season_avg": 112.8,
+          "recent_avg": 103.3,
           "streak": 3,
           "streak_type": "W",
           "trend": "down"
