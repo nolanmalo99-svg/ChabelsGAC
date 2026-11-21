@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-20T16:42:05+00:00",
+  "generated_at": "2026-11-21T01:04:41+00:00",
   "current_week": 11,
   "standings": [
     {
@@ -420,7 +420,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "NO",
-          "proj": 14.1,
+          "proj": 14.2,
           "actual": 0.0,
           "season_ppg": 16.4,
           "season_total": 147.4,
@@ -435,14 +435,14 @@
           "slot": "TE",
           "pos": "TE",
           "pro": "BUF",
-          "proj": 8.6,
+          "proj": 0.0,
           "actual": 0.0,
           "season_ppg": 10.3,
           "season_total": 92.7,
           "games_played": 9,
           "preseason_proj_total": 146.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 2976212,
@@ -517,6 +517,21 @@
           "games_played": 9,
           "preseason_proj_total": 226.5,
           "starter": false,
+          "injury": null
+        },
+        {
+          "player_id": 16737,
+          "name": "Mike Evans",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "SF",
+          "proj": 11.5,
+          "actual": 0.0,
+          "season_ppg": 9.9,
+          "season_total": 89.0,
+          "games_played": 9,
+          "preseason_proj_total": 235.1,
+          "starter": false,
           "injury": "QUESTIONABLE"
         },
         {
@@ -540,7 +555,7 @@
           "slot": "BE",
           "pos": "RB",
           "pro": "NYJ",
-          "proj": 7.5,
+          "proj": 7.7,
           "actual": 0.0,
           "season_ppg": 13.3,
           "season_total": 93.4,
@@ -562,22 +577,7 @@
           "games_played": 9,
           "preseason_proj_total": 238.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
-          "player_id": 16737,
-          "name": "Mike Evans",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "SF",
-          "proj": 0.0,
-          "actual": 0.0,
-          "season_ppg": 9.9,
-          "season_total": 89.0,
-          "games_played": 9,
-          "preseason_proj_total": 235.1,
-          "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 4036378,
@@ -2445,7 +2445,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "SF",
-          "proj": 11.0,
+          "proj": 10.3,
           "actual": 0.0,
           "season_ppg": 9.6,
           "season_total": 86.3,
@@ -2460,7 +2460,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "SF",
-          "proj": 9.3,
+          "proj": 7.7,
           "actual": 0.0,
           "season_ppg": 9.0,
           "season_total": 63.2,
@@ -2505,7 +2505,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "DET",
-          "proj": 6.5,
+          "proj": 5.7,
           "actual": 0.0,
           "season_ppg": 2.8,
           "season_total": 14.0,
@@ -2530,6 +2530,21 @@
           "injury": null
         },
         {
+          "player_id": 3052587,
+          "name": "Baker Mayfield",
+          "slot": "BE",
+          "pos": "QB",
+          "pro": "TB",
+          "proj": 12.0,
+          "actual": 0.0,
+          "season_ppg": 5.7,
+          "season_total": 50.9,
+          "games_played": 9,
+          "preseason_proj_total": 311.0,
+          "starter": false,
+          "injury": "QUESTIONABLE"
+        },
+        {
           "player_id": 4047646,
           "name": "A.J. Brown",
           "slot": "BE",
@@ -2542,7 +2557,7 @@
           "games_played": 10,
           "preseason_proj_total": 275.6,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "DOUBTFUL"
         },
         {
           "player_id": 4685702,
@@ -2603,21 +2618,6 @@
           "preseason_proj_total": 137.0,
           "starter": false,
           "injury": null
-        },
-        {
-          "player_id": 3052587,
-          "name": "Baker Mayfield",
-          "slot": "BE",
-          "pos": "QB",
-          "pro": "TB",
-          "proj": 0.0,
-          "actual": 0.0,
-          "season_ppg": 5.7,
-          "season_total": 50.9,
-          "games_played": 9,
-          "preseason_proj_total": 311.0,
-          "starter": false,
-          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 2473037,
@@ -4150,7 +4150,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "NYJ",
-          "proj": 12.9,
+          "proj": 13.1,
           "actual": 0.0,
           "season_ppg": 6.9,
           "season_total": 69.0,
@@ -4180,7 +4180,7 @@
           "slot": "WR",
           "pos": "WR",
           "pro": "BUF",
-          "proj": 13.6,
+          "proj": 13.7,
           "actual": 0.0,
           "season_ppg": 8.8,
           "season_total": 78.9,
@@ -4195,7 +4195,7 @@
           "slot": "TE",
           "pos": "TE",
           "pro": "ARI",
-          "proj": 12.9,
+          "proj": 13.1,
           "actual": 0.0,
           "season_ppg": 17.1,
           "season_total": 171.5,
@@ -4217,7 +4217,7 @@
           "games_played": 2,
           "preseason_proj_total": 152.3,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": -16004,
@@ -4270,7 +4270,7 @@
           "slot": "BE",
           "pos": "RB",
           "pro": "TB",
-          "proj": 8.6,
+          "proj": 8.8,
           "actual": 0.0,
           "season_ppg": 3.6,
           "season_total": 7.3,
@@ -5862,7 +5862,7 @@
           "games_played": 9,
           "preseason_proj_total": 4.7,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4430807,
@@ -5915,7 +5915,7 @@
           "slot": "TE",
           "pos": "TE",
           "pro": "SF",
-          "proj": 14.3,
+          "proj": 13.1,
           "actual": 0.0,
           "season_ppg": 14.2,
           "season_total": 127.7,
@@ -6030,21 +6030,6 @@
           "injury": null
         },
         {
-          "player_id": 4428850,
-          "name": "Dontayvion Wicks",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "PHI",
-          "proj": 8.4,
-          "actual": 0.0,
-          "season_ppg": 3.7,
-          "season_total": 25.7,
-          "games_played": 7,
-          "preseason_proj_total": 20.5,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4373626,
           "name": "Tyler Allgeier",
           "slot": "BE",
@@ -6073,6 +6058,21 @@
           "preseason_proj_total": 219.8,
           "starter": false,
           "injury": "INJURY_RESERVE"
+        },
+        {
+          "player_id": 4428850,
+          "name": "Dontayvion Wicks",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "PHI",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 3.7,
+          "season_total": 25.7,
+          "games_played": 7,
+          "preseason_proj_total": 20.5,
+          "starter": false,
+          "injury": "OUT"
         },
         {
           "player_id": 4360078,
@@ -7680,7 +7680,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "CHI",
-          "proj": 6.0,
+          "proj": 5.9,
           "actual": 0.0,
           "season_ppg": 7.7,
           "season_total": 46.0,
@@ -7725,7 +7725,7 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "TB",
-          "proj": 10.0,
+          "proj": 10.9,
           "actual": 0.0,
           "season_ppg": 8.7,
           "season_total": 78.0,
@@ -7755,7 +7755,7 @@
           "slot": "BE",
           "pos": "TE",
           "pro": "PHI",
-          "proj": 8.1,
+          "proj": 8.2,
           "actual": 0.0,
           "season_ppg": 8.2,
           "season_total": 74.0,
@@ -9325,7 +9325,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "BUF",
-          "proj": 20.8,
+          "proj": 20.9,
           "actual": 0.0,
           "season_ppg": 18.9,
           "season_total": 170.1,
@@ -9470,6 +9470,21 @@
           "injury": null
         },
         {
+          "player_id": 4870795,
+          "name": "Makai Lemon",
+          "slot": "BE",
+          "pos": "WR",
+          "pro": "PHI",
+          "proj": 7.8,
+          "actual": 0.0,
+          "season_ppg": 8.9,
+          "season_total": 62.1,
+          "games_played": 7,
+          "preseason_proj_total": 144.5,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4569559,
           "name": "Devaughn Vele",
           "slot": "BE",
@@ -9481,21 +9496,6 @@
           "season_total": 61.6,
           "games_played": 7,
           "preseason_proj_total": 45.4,
-          "starter": false,
-          "injury": null
-        },
-        {
-          "player_id": 4870795,
-          "name": "Makai Lemon",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "PHI",
-          "proj": 5.7,
-          "actual": 0.0,
-          "season_ppg": 8.9,
-          "season_total": 62.1,
-          "games_played": 7,
-          "preseason_proj_total": 144.5,
           "starter": false,
           "injury": null
         },
@@ -11380,7 +11380,7 @@
           "slot": "RB",
           "pos": "RB",
           "pro": "TB",
-          "proj": 17.2,
+          "proj": 17.5,
           "actual": 0.0,
           "season_ppg": 17.7,
           "season_total": 159.1,
@@ -11507,7 +11507,7 @@
           "games_played": 8,
           "preseason_proj_total": 128.1,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16034,
@@ -11567,7 +11567,7 @@
           "games_played": 10,
           "preseason_proj_total": 285.3,
           "starter": false,
-          "injury": "DOUBTFUL"
+          "injury": "OUT"
         },
         {
           "player_id": 5083076,
@@ -13182,7 +13182,7 @@
           "games_played": 9,
           "preseason_proj_total": 184.5,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4432620,
@@ -15260,7 +15260,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "KC",
-          "proj": 8.2,
+          "proj": 7.0,
           "actual": 0.0,
           "season_ppg": 14.0,
           "season_total": 14.0,
@@ -15290,7 +15290,7 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "PHI",
-          "proj": 13.0,
+          "proj": 13.3,
           "actual": 0.0,
           "season_ppg": 7.7,
           "season_total": 69.0,
@@ -15305,14 +15305,14 @@
           "slot": "BE",
           "pos": "WR",
           "pro": "NO",
-          "proj": 11.7,
+          "proj": 11.8,
           "actual": 0.0,
           "season_ppg": 2.7,
           "season_total": 24.0,
           "games_played": 9,
           "preseason_proj_total": 104.8,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 3917232,
@@ -16933,7 +16933,7 @@
           "games_played": 7,
           "preseason_proj_total": 219.6,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4432665,
@@ -16956,7 +16956,7 @@
           "slot": "FLEX",
           "pos": "WR",
           "pro": "BUF",
-          "proj": 9.4,
+          "proj": 10.1,
           "actual": 0.0,
           "season_ppg": 9.3,
           "season_total": 83.7,
@@ -16971,7 +16971,7 @@
           "slot": "D/ST",
           "pos": "D/ST",
           "pro": "DEN",
-          "proj": 6.4,
+          "proj": 6.5,
           "actual": 0.0,
           "season_ppg": 7.0,
           "season_total": 28.0,
