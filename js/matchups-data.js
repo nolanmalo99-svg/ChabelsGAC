@@ -1872,7 +1872,7 @@ window.MATCHUPS_DATA = {
               "pro": "JAX",
               "proj": 16.9,
               "actual": 8.3,
-              "injury": null
+              "injury": "QUESTIONABLE"
             },
             {
               "name": "George Kittle",
@@ -1912,7 +1912,17 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 52.0,
-          "injuries": []
+          "injuries": [
+            {
+              "name": "Bhayshul Tuten",
+              "slot": "RB",
+              "pos": "RB",
+              "pro": "JAX",
+              "proj": 16.9,
+              "actual": 8.3,
+              "injury": "QUESTIONABLE"
+            }
+          ]
         },
         "away": {
           "teamId": 3,
