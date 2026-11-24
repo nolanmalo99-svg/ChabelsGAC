@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-23T19:50:05+00:00",
+  "generated_at": "2026-11-24T04:36:12+00:00",
   "current_week": 11,
   "standings": [
     {
@@ -451,7 +451,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "WSH",
           "proj": 12.9,
-          "actual": 0.0,
+          "actual": 8.5,
           "season_ppg": 12.3,
           "season_total": 110.6,
           "games_played": 9,
@@ -2401,7 +2401,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "CIN",
           "proj": 22.9,
-          "actual": 0.0,
+          "actual": 19.9,
           "season_ppg": 25.8,
           "season_total": 232.4,
           "games_played": 9,
@@ -4166,7 +4166,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "CIN",
           "proj": 16.7,
-          "actual": 0.0,
+          "actual": 12.3,
           "season_ppg": 19.0,
           "season_total": 171.4,
           "games_played": 9,
@@ -7576,7 +7576,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "WSH",
           "proj": 19.6,
-          "actual": 0.0,
+          "actual": 17.1,
           "season_ppg": 15.1,
           "season_total": 136.1,
           "games_played": 9,
@@ -7762,7 +7762,7 @@ window.SITE_DATA = {
           "games_played": 9,
           "preseason_proj_total": 156.9,
           "starter": false,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16026,
@@ -9392,7 +9392,7 @@ window.SITE_DATA = {
           "games_played": 9,
           "preseason_proj_total": 191.8,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": 4426354,
@@ -11411,7 +11411,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "CIN",
           "proj": 25.4,
-          "actual": 0.0,
+          "actual": 8.1,
           "season_ppg": 21.5,
           "season_total": 193.8,
           "games_played": 9,
@@ -11441,7 +11441,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "WSH",
           "proj": 10.1,
-          "actual": 0.0,
+          "actual": 10.6,
           "season_ppg": 6.4,
           "season_total": 6.4,
           "games_played": 1,
@@ -11507,7 +11507,7 @@ window.SITE_DATA = {
           "games_played": 8,
           "preseason_proj_total": 128.1,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4685261,
@@ -11606,13 +11606,13 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "WSH",
           "proj": 7.5,
-          "actual": 0.0,
+          "actual": 15.7,
           "season_ppg": 5.0,
           "season_total": 44.9,
           "games_played": 9,
           "preseason_proj_total": 163.8,
           "starter": false,
-          "injury": "INJURY_RESERVE"
+          "injury": null
         }
       ],
       "draft": {
@@ -15246,7 +15246,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "CIN",
           "proj": 15.6,
-          "actual": 0.0,
+          "actual": 8.6,
           "season_ppg": 14.4,
           "season_total": 129.7,
           "games_played": 9,
@@ -15342,7 +15342,7 @@ window.SITE_DATA = {
           "games_played": 3,
           "preseason_proj_total": 45.9,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": "OUT"
         },
         {
           "player_id": 3916387,
@@ -17098,7 +17098,7 @@ window.SITE_DATA = {
           "games_played": 10,
           "preseason_proj_total": 284.0,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4426515,
