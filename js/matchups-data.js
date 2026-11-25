@@ -1856,7 +1856,7 @@ window.MATCHUPS_DATA = {
               "pro": "PHI",
               "proj": 14.2,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Cairo Santos",
@@ -1878,17 +1878,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 50.6,
-          "injuries": [
-            {
-              "name": "Saquon Barkley",
-              "slot": "RB",
-              "pos": "RB",
-              "pro": "PHI",
-              "proj": 14.2,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "away": {
           "teamId": 13,
@@ -2270,7 +2260,7 @@ window.MATCHUPS_DATA = {
               "pro": "DET",
               "proj": 10.8,
               "actual": 0.0,
-              "injury": "QUESTIONABLE"
+              "injury": null
             },
             {
               "name": "Caleb Williams",
@@ -2301,17 +2291,7 @@ window.MATCHUPS_DATA = {
             }
           ],
           "bench_proj": 59.9,
-          "injuries": [
-            {
-              "name": "Sam LaPorta",
-              "slot": "TE",
-              "pos": "TE",
-              "pro": "DET",
-              "proj": 10.8,
-              "actual": 0.0,
-              "injury": "QUESTIONABLE"
-            }
-          ]
+          "injuries": []
         },
         "played": false,
         "playoff": false,
@@ -2831,7 +2811,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 46.0,
+          "bench_proj": 57.4,
           "injuries": []
         },
         "away": {

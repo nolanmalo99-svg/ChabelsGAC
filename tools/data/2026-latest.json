@@ -2,7 +2,7 @@
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-24T19:19:54+00:00",
+  "generated_at": "2026-11-25T03:21:56+00:00",
   "current_week": 12,
   "standings": [
     {
@@ -2437,7 +2437,7 @@
           "games_played": 10,
           "preseason_proj_total": 326.0,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4701936,
@@ -6042,7 +6042,7 @@
           "games_played": 10,
           "preseason_proj_total": 171.4,
           "starter": false,
-          "injury": null
+          "injury": "OUT"
         },
         {
           "player_id": 4870808,
@@ -7762,7 +7762,7 @@
           "games_played": 10,
           "preseason_proj_total": 156.9,
           "starter": false,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4832955,
@@ -9392,7 +9392,7 @@
           "games_played": 10,
           "preseason_proj_total": 191.8,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4426354,
@@ -11510,6 +11510,21 @@
           "injury": null
         },
         {
+          "player_id": 4575131,
+          "name": "Jacory Croskey-Merritt",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "WSH",
+          "proj": 11.4,
+          "actual": 0.0,
+          "season_ppg": 6.1,
+          "season_total": 60.6,
+          "games_played": 10,
+          "preseason_proj_total": 163.8,
+          "starter": false,
+          "injury": null
+        },
+        {
           "player_id": 4360635,
           "name": "Chig Okonkwo",
           "slot": "BE",
@@ -11587,7 +11602,7 @@
         {
           "player_id": 4431452,
           "name": "Drake Maye",
-          "slot": "BE",
+          "slot": "IR",
           "pos": "QB",
           "pro": "NE",
           "proj": 0.0,
@@ -11598,21 +11613,6 @@
           "preseason_proj_total": 285.3,
           "starter": false,
           "injury": "OUT"
-        },
-        {
-          "player_id": 4575131,
-          "name": "Jacory Croskey-Merritt",
-          "slot": "IR",
-          "pos": "RB",
-          "pro": "WSH",
-          "proj": 11.4,
-          "actual": 0.0,
-          "season_ppg": 6.1,
-          "season_total": 60.6,
-          "games_played": 10,
-          "preseason_proj_total": 163.8,
-          "starter": false,
-          "injury": null
         }
       ],
       "draft": {
