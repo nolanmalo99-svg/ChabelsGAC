@@ -2419,7 +2419,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "6-5",
           "actual": 0.0,
-          "projected": 113.4,
+          "projected": 116.8,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -2485,20 +2485,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
-              "name": "Bears D/ST",
-              "slot": "D/ST",
-              "pos": "D/ST",
-              "pro": "CHI",
-              "proj": 3.7,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
               "name": "Wil Lutz",
               "slot": "K",
               "pos": "K",
               "pro": "DEN",
               "proj": 7.8,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
+              "name": "Giants D/ST",
+              "slot": "D/ST",
+              "pos": "D/ST",
+              "pro": "NYG",
+              "proj": 7.1,
               "actual": 0.0,
               "injury": null
             }
@@ -2535,7 +2535,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Parker Washington",
-              "slot": "FLEX",
+              "slot": "WR",
               "pos": "WR",
               "pro": "JAX",
               "proj": 17.8,
@@ -2544,7 +2544,7 @@ window.MATCHUPS_DATA = {
             },
             {
               "name": "Christian Watson",
-              "slot": "WR",
+              "slot": "FLEX",
               "pos": "WR",
               "pro": "GB",
               "proj": 14.1,
@@ -2597,7 +2597,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 48.8,
+          "bench_proj": 60.2,
           "injuries": []
         },
         "played": false,
@@ -2605,7 +2605,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Austin Carter (8-3) at Adam Biewen (6-5). Projected: Austin Carter 128.9 - Adam Biewen 113.4. Austin Carter favored by 15.5.",
+        "blurb": "Austin Carter (8-3) at Adam Biewen (6-5). Projected: Austin Carter 128.9 - Adam Biewen 116.8. Austin Carter favored by 12.1.",
         "home_form": {
           "record_last_n": "3-0",
           "games_considered": 3,
@@ -2657,7 +2657,7 @@ window.MATCHUPS_DATA = {
           },
           {
             "name": "Parker Washington",
-            "slot": "FLEX",
+            "slot": "WR",
             "pos": "WR",
             "pro": "JAX",
             "proj": 17.8,
@@ -2669,9 +2669,9 @@ window.MATCHUPS_DATA = {
         "positional_edges": [
           {
             "pos": "D/ST",
-            "home_proj": 3.7,
+            "home_proj": 7.1,
             "away_proj": 6.9,
-            "edge": "away"
+            "edge": "even"
           },
           {
             "pos": "K",
@@ -2811,7 +2811,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 57.4,
+          "bench_proj": 67.2,
           "injuries": []
         },
         "away": {
@@ -3138,7 +3138,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-7",
           "actual": 0.0,
-          "projected": 111.4,
+          "projected": 114.0,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -3159,20 +3159,20 @@ window.MATCHUPS_DATA = {
               "injury": null
             },
             {
+              "name": "DeVonta Smith",
+              "slot": "WR",
+              "pos": "WR",
+              "pro": "PHI",
+              "proj": 14.4,
+              "actual": 0.0,
+              "injury": null
+            },
+            {
               "name": "Colston Loveland",
               "slot": "TE",
               "pos": "TE",
               "pro": "CHI",
               "proj": 10.5,
-              "actual": 0.0,
-              "injury": null
-            },
-            {
-              "name": "Carnell Tate",
-              "slot": "WR",
-              "pos": "WR",
-              "pro": "TEN",
-              "proj": 11.8,
               "actual": 0.0,
               "injury": null
             },
@@ -3222,7 +3222,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 57.3,
+          "bench_proj": 64.3,
           "injuries": []
         },
         "played": false,
@@ -3230,7 +3230,7 @@ window.MATCHUPS_DATA = {
         "margin": null,
         "winner": null,
         "phase": "preview",
-        "blurb": "Peter Lundquist (4-7) at Adam Schumacher (5-6). Projected: Peter Lundquist 111.4 - Adam Schumacher 123.9. Adam Schumacher favored by 12.5.",
+        "blurb": "Peter Lundquist (4-7) at Adam Schumacher (5-6). Projected: Peter Lundquist 114.0 - Adam Schumacher 123.9. Adam Schumacher favored by 9.9.",
         "home_form": {
           "record_last_n": "2-1",
           "games_considered": 3,
@@ -3325,8 +3325,8 @@ window.MATCHUPS_DATA = {
           {
             "pos": "WR",
             "home_proj": 28.2,
-            "away_proj": 26.4,
-            "edge": "home"
+            "away_proj": 29.0,
+            "edge": "even"
           }
         ],
         "revenge": {
