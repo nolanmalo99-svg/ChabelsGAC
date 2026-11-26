@@ -2,7 +2,7 @@ window.SITE_DATA = {
   "league_name": "Chabels",
   "first_season": 2022,
   "current_season": 2026,
-  "generated_at": "2026-11-25T23:58:38+00:00",
+  "generated_at": "2026-11-26T07:56:54+00:00",
   "current_week": 12,
   "standings": [
     {
@@ -445,19 +445,19 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4567048,
-          "name": "Kenneth Walker III",
+          "player_id": 16737,
+          "name": "Mike Evans",
           "slot": "FLEX",
-          "pos": "RB",
-          "pro": "KC",
-          "proj": 0.0,
+          "pos": "WR",
+          "pro": "SF",
+          "proj": 14.9,
           "actual": 0.0,
-          "season_ppg": 19.6,
-          "season_total": 196.4,
+          "season_ppg": 11.2,
+          "season_total": 111.9,
           "games_played": 10,
-          "preseason_proj_total": 238.8,
+          "preseason_proj_total": 235.1,
           "starter": true,
-          "injury": "OUT"
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16016,
@@ -490,28 +490,13 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 16737,
-          "name": "Mike Evans",
-          "slot": "BE",
-          "pos": "WR",
-          "pro": "SF",
-          "proj": 14.9,
-          "actual": 0.0,
-          "season_ppg": 11.2,
-          "season_total": 111.9,
-          "games_played": 10,
-          "preseason_proj_total": 235.1,
-          "starter": false,
-          "injury": "QUESTIONABLE"
-        },
-        {
           "player_id": 4036378,
           "name": "Jordan Love",
           "slot": "BE",
           "pos": "QB",
           "pro": "GB",
           "proj": 13.4,
-          "actual": 0.0,
+          "actual": 8.6,
           "season_ppg": 21.1,
           "season_total": 105.7,
           "games_played": 5,
@@ -593,6 +578,21 @@ window.SITE_DATA = {
           "preseason_proj_total": 94.2,
           "starter": false,
           "injury": null
+        },
+        {
+          "player_id": 4567048,
+          "name": "Kenneth Walker III",
+          "slot": "BE",
+          "pos": "RB",
+          "pro": "KC",
+          "proj": 0.0,
+          "actual": 0.0,
+          "season_ppg": 19.6,
+          "season_total": 196.4,
+          "games_played": 10,
+          "preseason_proj_total": 238.8,
+          "starter": false,
+          "injury": "OUT"
         }
       ],
       "draft": {
@@ -2446,7 +2446,7 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "GB",
           "proj": 16.7,
-          "actual": 0.0,
+          "actual": 4.9,
           "season_ppg": 17.6,
           "season_total": 175.9,
           "games_played": 10,
@@ -7585,19 +7585,19 @@ window.SITE_DATA = {
           "injury": null
         },
         {
-          "player_id": 3043078,
-          "name": "Derrick Henry",
+          "player_id": 4832955,
+          "name": "Emmett Johnson",
           "slot": "RB",
           "pos": "RB",
-          "pro": "BAL",
-          "proj": 14.5,
+          "pro": "KC",
+          "proj": 17.6,
           "actual": 0.0,
-          "season_ppg": 16.4,
-          "season_total": 180.4,
-          "games_played": 11,
-          "preseason_proj_total": 281.7,
+          "season_ppg": 29.7,
+          "season_total": 59.4,
+          "games_played": 2,
+          "preseason_proj_total": 100.5,
           "starter": true,
-          "injury": "QUESTIONABLE"
+          "injury": null
         },
         {
           "player_id": 4429096,
@@ -7606,7 +7606,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "LAR",
           "proj": 13.8,
-          "actual": 0.0,
+          "actual": 28.5,
           "season_ppg": 11.6,
           "season_total": 115.5,
           "games_played": 10,
@@ -7660,19 +7660,19 @@ window.SITE_DATA = {
           "injury": "QUESTIONABLE"
         },
         {
-          "player_id": 4832955,
-          "name": "Emmett Johnson",
+          "player_id": 3043078,
+          "name": "Derrick Henry",
           "slot": "FLEX",
           "pos": "RB",
-          "pro": "KC",
-          "proj": 17.6,
+          "pro": "BAL",
+          "proj": 14.5,
           "actual": 0.0,
-          "season_ppg": 29.7,
-          "season_total": 59.4,
-          "games_played": 2,
-          "preseason_proj_total": 100.5,
+          "season_ppg": 16.4,
+          "season_total": 180.4,
+          "games_played": 11,
+          "preseason_proj_total": 281.7,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16019,
@@ -9446,7 +9446,7 @@ window.SITE_DATA = {
           "pos": "QB",
           "pro": "LAR",
           "proj": 15.3,
-          "actual": 0.0,
+          "actual": 3.6,
           "season_ppg": 16.3,
           "season_total": 162.7,
           "games_played": 10,
@@ -13191,13 +13191,13 @@ window.SITE_DATA = {
           "pos": "WR",
           "pro": "GB",
           "proj": 14.1,
-          "actual": 0.0,
+          "actual": 16.5,
           "season_ppg": 18.4,
           "season_total": 183.6,
           "games_played": 10,
           "preseason_proj_total": 50.0,
           "starter": true,
-          "injury": null
+          "injury": "QUESTIONABLE"
         },
         {
           "player_id": -16030,
@@ -15351,7 +15351,7 @@ window.SITE_DATA = {
           "pos": "TE",
           "pro": "GB",
           "proj": 9.2,
-          "actual": 0.0,
+          "actual": 3.4,
           "season_ppg": 9.3,
           "season_total": 93.3,
           "games_played": 10,
@@ -17032,7 +17032,7 @@ window.SITE_DATA = {
           "pos": "RB",
           "pro": "LAR",
           "proj": 16.8,
-          "actual": 0.0,
+          "actual": 16.5,
           "season_ppg": 16.4,
           "season_total": 164.3,
           "games_played": 10,
