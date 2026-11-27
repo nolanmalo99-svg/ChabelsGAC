@@ -1872,7 +1872,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "DET",
-              "proj": 5.5,
+              "proj": 5.3,
               "actual": 0.0,
               "injury": null
             }
@@ -2440,7 +2440,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 60.9,
+          "bench_proj": 61.0,
           "injuries": [
             {
               "name": "Parker Washington",
@@ -2547,7 +2547,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "HOU",
-              "proj": 7.2,
+              "proj": 7.3,
               "actual": 0.0,
               "injury": null
             },
@@ -2655,7 +2655,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 46.3,
+          "bench_proj": 46.1,
           "injuries": [
             {
               "name": "Tetairoa McMillan",
@@ -2692,7 +2692,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "5-6",
           "actual": 3.5,
-          "projected": 115.1,
+          "projected": 114.9,
           "starters": [
             {
               "name": "Christian McCaffrey",
@@ -2708,7 +2708,7 @@ window.MATCHUPS_DATA = {
               "slot": "TE",
               "pos": "TE",
               "pro": "ARI",
-              "proj": 14.6,
+              "proj": 14.4,
               "actual": 0.0,
               "injury": null
             },
@@ -2796,7 +2796,7 @@ window.MATCHUPS_DATA = {
           "owner": "Peter Lundquist",
           "record": "4-7",
           "actual": 42.5,
-          "projected": 140.7,
+          "projected": 139.9,
           "starters": [
             {
               "name": "Jonathan Taylor",
@@ -2875,7 +2875,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "WSH",
-              "proj": 8.9,
+              "proj": 8.1,
               "actual": 0.0,
               "injury": null
             }
