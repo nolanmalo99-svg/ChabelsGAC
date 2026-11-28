@@ -1793,7 +1793,7 @@ window.MATCHUPS_DATA = {
           "owner": "Brady Kienitz",
           "record": "5-6",
           "actual": 61.8,
-          "projected": 118.5,
+          "projected": 118.6,
           "starters": [
             {
               "name": "Jahmyr Gibbs",
@@ -2225,7 +2225,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Biewen",
           "record": "6-5",
           "actual": 65.1,
-          "projected": 135.9,
+          "projected": 136.0,
           "starters": [
             {
               "name": "Derrick Henry",
@@ -2241,7 +2241,7 @@ window.MATCHUPS_DATA = {
               "slot": "WR",
               "pos": "WR",
               "pro": "HOU",
-              "proj": 15.3,
+              "proj": 15.2,
               "actual": 0.0,
               "injury": null
             },
@@ -2304,7 +2304,7 @@ window.MATCHUPS_DATA = {
               "slot": "D/ST",
               "pos": "D/ST",
               "pro": "NYG",
-              "proj": 6.9,
+              "proj": 7.0,
               "actual": 0.0,
               "injury": null
             }
@@ -2515,7 +2515,7 @@ window.MATCHUPS_DATA = {
               "injury": null
             }
           ],
-          "bench_proj": 66.4,
+          "bench_proj": 67.7,
           "injuries": []
         },
         "away": {
@@ -2525,7 +2525,7 @@ window.MATCHUPS_DATA = {
           "owner": "Jordan Schommer",
           "record": "4-7",
           "actual": 44.4,
-          "projected": 99.8,
+          "projected": 99.9,
           "starters": [
             {
               "name": "Bijan Robinson",
@@ -2559,7 +2559,7 @@ window.MATCHUPS_DATA = {
               "slot": "FLEX",
               "pos": "WR",
               "pro": "LAC",
-              "proj": 11.7,
+              "proj": 11.8,
               "actual": 0.0,
               "injury": null
             },
@@ -2646,7 +2646,7 @@ window.MATCHUPS_DATA = {
           "owner": "Adam Schumacher",
           "record": "5-6",
           "actual": 3.5,
-          "projected": 112.0,
+          "projected": 112.1,
           "starters": [
             {
               "name": "Christian McCaffrey",
